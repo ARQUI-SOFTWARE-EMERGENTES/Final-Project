@@ -3,14 +3,13 @@
 <img src="images/upc-logo.jpg" width=100 alt="Logo de la UPC">
 
 ### Universidad Peruana de Ciencias Aplicadas (UPC)
-
 ### Ingeniería de Software
+### Ciclo 2024-01
 ### Curso: Arquitecturas De Software Emergentes
+### Sección: SW82
+### Profesor: Rojas Malasquez, Royer Edelwer
 ### Nombre del startup: Research Guard
 ### Nombre del producto: PaperVault
-### Profesor: Rojas Malasquez, Royer Edelwer
-### Sección: SW82
-### Ciclo 2024-01
 
 ### Integrantes:
 - Barrazueta Vilcachagua, Gonzalo - U20191A972
