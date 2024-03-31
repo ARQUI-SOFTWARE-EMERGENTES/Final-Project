@@ -48,3 +48,45 @@ En Research Guard, los objetivos que buscamos alcanzar con las soluciones que de
 ### Lean UX Canvas
 
 # Segmentos Objetivos
+
+Como equipo de trabajo hemos enfocado nuestra propuesta en dos principales segmentos en el mercado:
+
+## Investigadores Académicos
+
+### Descripción:
+Los investigadores académicos son profesionales altamente capacitados que se dedican a la investigación en campos específicos. Pueden trabajar en universidades, instituciones de investigación, empresas privadas o instituciones gubernamentales.
+
+### Características:
+- Tienen experiencia en la producción de investigación académica.
+- Están familiarizados con los estándares éticos y la integridad académica.
+- Están interesados en herramientas que faciliten y mejoren su trabajo de investigación.
+
+### Necesidades:
+- Necesitan herramientas que les ayuden a proteger la integridad de sus trabajos de investigación.
+- Buscan plataformas que les permitan colaborar de manera efectiva con otros investigadores.
+- Están interesados en soluciones que simplifiquen el proceso de citación y atribución de autoría.
+
+### Estrategias:
+- Desarrolla herramientas avanzadas de detección de plagio y falsificación de autoría.
+- Ofrece funciones de colaboración en línea para facilitar el trabajo en equipo y el intercambio de ideas.
+- Proporciona recursos educativos sobre ética de la investigación y buenas prácticas académicas.
+
+## Tesistas o Estudiantes de Investigación
+
+### Descripción:
+Los tesistas o estudiantes de investigación son individuos que están realizando trabajos de investigación como parte de su formación académica, ya sea para obtener un título universitario o avanzar en su carrera académica.
+
+### Características:
+- Están en un proceso de aprendizaje y desarrollo académico.
+- Pueden tener diferentes niveles de experiencia en investigación.
+- Necesitan apoyo y orientación para realizar investigaciones de alta calidad.
+
+### Necesidades:
+- Requieren acceso a recursos confiables para respaldar sus investigaciones.
+- Necesitan herramientas que les ayuden a organizar, analizar y presentar datos de manera efectiva.
+- Están interesados en soluciones que les ayuden a entender y cumplir con los estándares éticos de la investigación.
+
+### Estrategias:
+- Ofrece una amplia base de datos de recursos académicos, como artículos, libros y revistas.
+- Proporciona herramientas de análisis de datos fáciles de usar y comprensibles para estudiantes.
+- Ofrece orientación y capacitación en investigación, incluida la escritura académica y la ética de la investigación.
