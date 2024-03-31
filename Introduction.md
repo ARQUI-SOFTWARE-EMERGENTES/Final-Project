@@ -31,6 +31,11 @@ En Research Guard, los objetivos que buscamos alcanzar con las soluciones que de
     <td>Gonzalo Barrazueta Vilcachagua</td>
     <td>Soy una persona con habilidades comunicativas y que sabe trabajar efectivamente de manera colaborativa. Como parte del equipo, puedo ayudar a seguir un proceso de trabajo ordenado para cumplir con las tareas dentro de los plazos establecidos. Además, poseo experiencia tanto en el desarrollo backend como frontend, así como en la implementación y despliegue de soluciones.</td>
   </tr>
+  <tr>
+    <td><img src="images\profile-photos\jonatan-pfp.jpg" width=180/></td>
+    <td>Jonatan Curi Montero</td>
+    <td>soy un estudiante responsable, amable y con la iniciativa de trabajar. Poseo conocimientos en los lenguajes TypeScript y Javascript. También, en frameworks como NestJS, Angular, Vue y Laravel. Tengo experiencia en el desarrollo de aplicaciones web, enfocandome principalmente en el Frontend. Considero que la comunicación es una característica fundamental en el equipo de trabajo.</td>
+  </tr>
 </table>
 
 # Solution profile
