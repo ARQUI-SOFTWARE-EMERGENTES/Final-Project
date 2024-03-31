@@ -1,6 +1,18 @@
 # Startup profile
 
 ## Descripción de la Startup
+En un mundo cada vez más digitalizado, la integridad académica es fundamental para mantener la confianza en el proceso de investigación y en los resultados que de él se derivan. Sin embargo, la falsificación de autoría y la falta de transparencia son desafíos persistentes que socavan la credibilidad de la comunidad académica.
+
+Por esta razón, en nuestra startup "Research Guard", buscamos empoderar a los investigadores y estudiantes con herramientas que garanticen la autenticidad y la transparencia de la investigación, fomentando así un ambiente académico más justo y colaborativo.
+
+En Research Guard, los objetivos que buscamos alcanzar con las soluciones que desarrollamos son:
+
+- **Combatir la Falsificación de Autoría**: Nos dedicamos a desarrollar herramientas y tecnologías que ayuden a prevenir la falsificación de autoría en trabajos académicos. Creemos en la importancia de reconocer y atribuir correctamente la autoría para garantizar la honestidad intelectual y el mérito académico.
+
+- **Proteger la Integridad Académica**: Nuestro objetivo es construir una plataforma segura y confiable donde los investigadores puedan compartir sus trabajos de manera transparente y segura. Utilizamos tecnologías de vanguardia, como la cadena de bloques (blockchain), para garantizar la integridad y la inmutabilidad de los documentos académicos.
+
+- **Facilitar el Acceso a la Investigación**: Queremos democratizar el acceso a la investigación académica al proporcionar una plataforma centralizada donde los estudiantes, académicos y profesionales puedan encontrar y acceder fácilmente a una amplia gama de trabajos de investigación verificados y autenticados.
+
 ## Perfiles de integrantes del equipo
 
 <table>

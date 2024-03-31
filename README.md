@@ -6,8 +6,8 @@
 
 ### Ingeniería de Software
 ### Curso: Arquitecturas De Software Emergentes
-### Nombre del startup:
-### Nombre del producto:
+### Nombre del startup: Research Guard
+### Nombre del producto: PaperVault
 ### Profesor: Rojas Malasquez, Royer Edelwer
 ### Sección: SW82
 ### Ciclo 2024-01
