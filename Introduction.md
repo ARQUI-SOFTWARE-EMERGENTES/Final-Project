@@ -34,8 +34,13 @@ En Research Guard, los objetivos que buscamos alcanzar con las soluciones que de
   <tr>
     <td><img src="images\profile-photos\jonatan-pfp.jpg" width=180/></td>
     <td>Jonatan Curi Montero</td>
-    <td>soy un estudiante responsable, amable y con la iniciativa de trabajar. Poseo conocimientos en los lenguajes TypeScript y Javascript. También, en frameworks como NestJS, Angular, Vue y Laravel. Tengo experiencia en el desarrollo de aplicaciones web, enfocandome principalmente en el Frontend. Considero que la comunicación es una característica fundamental en el equipo de trabajo.</td>
+    <td>Soy un estudiante responsable, amable y con la iniciativa de trabajar. Poseo conocimientos en los lenguajes TypeScript y Javascript. También, en frameworks como NestJS, Angular, Vue y Laravel. Tengo experiencia en el desarrollo de aplicaciones web, enfocandome principalmente en el Frontend. Considero que la comunicación es una característica fundamental en el equipo de trabajo.</td>
   </tr>
+  <tr>
+    <td><img src="images\profile-photos\sakuda-pfp.jpeg" width=180/></td>
+    <td>Gonzalo Sakuda Nakamatsu</td>
+    <td>Soy una persona interesado en lo que es el desarrollo fullstack de aplicaciones web y móviles. Tengo conocimientos en distintos lenguajes de programación como: C++, Java, JavaScript y Python, y frameworks como nestjs, springboot, nextjs, entre otros. Además, he trabajado con la metodología ágiles en proyectos reales.</td>
+  <tr/>
 </table>
 
 # Solution profile
