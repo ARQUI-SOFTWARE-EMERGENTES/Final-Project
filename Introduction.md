@@ -39,12 +39,17 @@ En Research Guard, los objetivos que buscamos alcanzar con las soluciones que de
   <tr>
     <td><img src="images\profile-photos\sakuda-pfp.jpeg" width=180/></td>
     <td>Gonzalo Sakuda Nakamatsu</td>
-    <td>Soy una persona interesado en lo que es el desarrollo fullstack de aplicaciones web y móviles. Tengo conocimientos en distintos lenguajes de programación como: C++, Java, JavaScript y Python, y frameworks como nestjs, springboot, nextjs, entre otros. Además, he trabajado con la metodología ágiles en proyectos reales.</td>
+    <td>Soy una persona interesada en lo que es el desarrollo fullstack de aplicaciones web y móviles. Tengo conocimientos en distintos lenguajes de programación como: C++, Java, JavaScript y Python, y frameworks como nestjs, springboot, nextjs, entre otros. Además, he trabajado con la metodología ágiles en proyectos reales.</td>
   </tr>
   <tr>
     <td><img src="images\profile-photos\fernanda-pfp.jpeg" width=180/></td>
     <td>Jackeline Fernanda Salomé Nina</td>
     <td>Soy Jackeline Fernanda Salomé Nina, Me considero una persona responsable con mis trabajos, usualmente puntual, pero siempre dispuesta a ayudar a mis compañeros con las dudas que presenten. En los trabajos grupales intento dar lo mejor de mí, a pesar de tal vez no conocer mucho del tema abordado. En este trabajo daré todo de mí para no perjudicar a mis compañeros y alcanzar los objetivos deseados.</td>
+  </tr>
+  <tr>
+    <td><img src="images\profile-photos\vivian-pfp.png" width=180/></td>
+    <td>Vivian Maite Pongo Quisocala</td>
+    <td>Soy estudiante del noveno ciclo de Ingeniería de Software en la UPC, con una sólida base de conocimientos en SQL, Power BI, Excel y Python. Me apasiona la resolución de problemas y el análisis de datos, lo que me ha permitido desarrollar habilidades tanto técnicas como de comunicación. Además, tengo experiencia en la preparación de presentaciones, reportes y el desarrollo de aplicaciones de escritorio con inteligencia artificial</td>
   </tr>
 </table>
 
