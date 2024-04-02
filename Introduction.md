@@ -113,7 +113,47 @@ La magnitud del problema es significativa, ya que muchas personas que falsifican
 
 ## Lean UX Process
 ### Lean UX Problem Statements
+
+Para los investigadores y académicos, la falta de una plataforma centralizada y segura para revisar, publicar y acceder a investigaciones auténticas y verificadas plantea un desafío significativo. La ausencia de transparencia en el proceso de revisión por pares y la dificultad para acceder a trabajos académicos de alta calidad limitan la colaboración y el avance del conocimiento. Esto se traduce en una pérdida de tiempo y recursos para los investigadores, además de socavar la credibilidad y la integridad del cuerpo de conocimiento académico. Por lo tanto, necesitamos una solución que simplifique y agilice el proceso de revisión y publicación de investigaciones, garantizando la autenticidad y veracidad de los trabajos publicados, a fin de promover una cultura de integridad y excelencia en la investigación académica.
+
+Con ello en mente identicamos los siguientes problemas:
+
+* La falta de una plataforma centralizada y segura para revisión y publicación de investigaciones disminuye la confianza en la integridad de la investigación académica.
+
+* La escasez de acceso a investigaciones autenticadas dificulta el avance del conocimiento y la colaboración entre investigadores.
+
+* La necesidad de una solución que garantice la transparencia y la autenticidad en el proceso de revisión y publicación de investigaciones para mantener la credibilidad y la excelencia en el ámbito académico.
+
 ### Lean UX Assumptions
+
+#### Assumption 1:
+
+Los investigadores están dispuestos a adoptar una nueva plataforma para revisión y publicación de investigaciones si garantiza la autenticidad y la transparencia en el proceso.
+
+#### Assumption 2:
+
+La utilización de tecnologías como la blockchain para respaldar la autenticidad de las investigaciones será percibida como un valor añadido por parte de los usuarios.
+
+#### Assumption 3:
+
+Los costos asociados con el uso de la red blockchain, como Ethereum, para ejecutar transacciones no serán una barrera significativa para la adopción de la plataforma por parte de los usuarios.
+
+#### Assumption 4:
+
+La curva de aprendizaje asociada con el uso de la plataforma será manejable para los investigadores y otras partes interesadas en el ámbito académico.
+
+#### Assumption 5:
+
+La adopción activa de instituciones académicas y revistas científicas será posible si la plataforma ofrece beneficios tangibles en términos de transparencia, integridad y eficiencia en el proceso de revisión y publicación de investigaciones.
+
+#### Assumption 6:
+
+La colaboración entre investigadores y el intercambio de conocimientos aumentará significativamente con la disponibilidad de una plataforma centralizada que facilite el acceso a investigaciones verificadas y autenticadas.
+
+#### Assumption 7:
+
+La resistencia al cambio en las instituciones académicas se mitigará a medida que se demuestre el valor y la utilidad de la plataforma para mejorar la calidad y la credibilidad de la investigación académica.
+
 ### Lean UX Hypothesis Statements
 
 1. <b>Creemos que</b> el uso de la tecnología Blockchain en nuestra aplicación permitirá asegurar la veracidad de las investigaciones académicas. <b>Sabremos que</b> hemos tenido éxito <b>cuando</b> veamos un 90% de los usuarios están satisfechos con la transparencia y la integridad de los datos de investigación.
