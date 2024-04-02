@@ -55,6 +55,19 @@ En Research Guard, los objetivos que buscamos alcanzar con las soluciones que de
 ### Lean UX Problem Statements
 ### Lean UX Assumptions
 ### Lean UX Hypothesis Statements
+
+1. <b>Creemos que</b> el uso de la tecnología Blockchain en nuestra aplicación permitirá asegurar la veracidad de las investigaciones académicas. <b>Sabremos que</b> hemos tenido éxito <b>cuando</b> veamos un 90% de los usuarios están satisfechos con la transparencia y la integridad de los datos de investigación.
+
+2. <b>Creemos que</b> al ofrecer una plataforma centralizada permitirá que las investigaciones obtengan una mayor visualización. <b>Sabremos que</b> hemos tenido éxito <b>cuando</b> el promedio de la cantidad de visualizaciones de las investigaciones aumenten un 30%.
+
+3. <b>Creemos que</b> al proporcionar un acceso confiable y seguro a las investigaciones académicas mediante tecnología blockchain, se incentivará la colaboración entre los investigadores. <b>Sabremos que</b> hemos tenido éxito <b>cuando</b> observemos un aumento del 50% en la cantidad de colaboraciones.
+
+4. <b>Creemos que</b> al ofrecer una plataforma segura y confiable, permitirá a los investigadores a emplear los papers de nuestra aplicación para elaborar sus investigaciones. <b>Sabremos que</b> hemos tenido éxito <b>cuando</b> el número de citas recibidas por investigaciones respaldadas por nuestra plataforma aumente en un 30%.
+
+5. <b>Creemos que</b> al contar con una página de perfiles de los investigadores en donde muestra su trayectoria académica, ayudará a mejorar la confiabilidad hacia los investigadores. <b>Sabremos que</b> hemos tenido éxito <b>cuando</b> aumente las visualizaciones de los perfiles en un 20%.
+
+6. <b>Creemos que</b> al tener la posibilidad de poder comentar las investigaciones en nuestra plataforma, permitirá poder formentar la discusión entre la comunidad académica. <b>Sabremos que </b> hemos tenido éxito <b>cuando</b> en promedio se publiquen más de 10 comentarios por investigación.
+
 ### Lean UX Canvas
 
 # Segmentos Objetivos
