@@ -51,6 +51,66 @@ En Research Guard, los objetivos que buscamos alcanzar con las soluciones que de
 # Solution profile
 
 ## Antecedentes y problemática
+
+### Problema
+Actualmente, los investigadores enfrentan desafíos significativos al intentar compartir y validar sus trabajos de investigación de manera efectiva. La falta de un sistema transparente y confiable para la revisión por pares puede llevar a la publicación de investigaciones de baja calidad o incluso fraudulentas, lo que socava la integridad del cuerpo de conocimiento académico. Además, la dificultad para acceder a investigaciones verificadas y autenticadas puede limitar el avance del conocimiento y la colaboración entre investigadores. Por lo tanto, la necesidad de una plataforma centralizada y segura que facilite la revisión, publicación y acceso a investigaciones confiables es crucial para abordar estos problemas y promover una cultura de integridad y excelencia en la investigación académica.
+
+### Objetivos
+
+Los objetivos establecidos para el desarrollo del proyecto son:
+
+- **Facilitar la Revisión y Publicación de Investigaciones** proporcionando una plataforma centralizada y segura que simplifique y agilice el proceso de revisión y publicación de investigaciones académicas.
+- **Promover la Transparencia y la Integridad** ofreciendo un sistema transparente y confiable de revisión por pares, que garantice la autenticidad y la veracidad de los trabajos publicados, respaldado por la tecnología blockchain.
+- **Democratizar el acceso a la investigación** proporcionando un repositorio centralizado de investigaciones verificadas y autenticadas, lo que permite a estudiantes, académicos y profesionales acceder fácilmente a recursos de alta calidad.
+- **Fomentar la Colaboración y el Intercambio de Conocimientos** creando un espacio digital donde los investigadores puedan colaborar, compartir ideas y acceder a una amplia gama de investigaciones en su campo de estudio,
+
+### Restricciones
+
+Se identifican las diversas restricciones y limitaciones que podrían surgir durante la ejecución del proyecto:
+
+- **Costos asociados**: El uso de la red blockchain, como Ethereum, conlleva costos para ejecutar transacciones que deben pagarse en ethers. Estos costos pueden acumularse, especialmente si el proyecto implica transacciones frecuentes o el almacenamiento de grandes cantidades de datos en la cadena de bloques.
+- **Curva de aprendizaje**: La curva de aprendizaje puede ser empinada para los desarrolladores y usuarios que son nuevos en esta tecnología. Esto puede requerir tiempo adicional para comprender y desarollar eficazmente la solución.
+- **Adopción y participación de instituciones académicas**: Obtener la adhesión y la participación activa de universidades y centros de investigación puede ser un desafío, especialmente si estas instituciones tienen políticas internas para la revisión y publicación de investigaciones. Además, la resistencia al cambio podría ser un obstáculo, especialmente si las instituciones perciben la tecnología blockchain como una innovación disruptiva.
+
+### Antecedentes
+
+Para comprender mejor el panorama actual, se ha revisado una variedad de soluciones previas, incluyendo:
+
+- **ResearchGate**: ResearchGate es una plataforma en línea que permite a los investigadores compartir y acceder a artículos científicos, colaborar con otros investigadores y hacer un seguimiento del impacto de su investigación. Proporciona funciones para publicar preprints, revisar y comentar investigaciones, y conectarse con colegas en el campo académico.
+- **Google Scholar**: Google Scholar es un motor de búsqueda especializado en literatura académica y científica, que indexa una amplia variedad de fuentes, como artículos de revistas académicas, tesis, libros y conferencias. Permite a los usuarios buscar y acceder a información científica de forma gratuita.
+- **Web of Science**: Es una plataforma de información académica que proporciona acceso a una amplia gama de contenido académico, incluidas revistas científicas, libros, conferencias y patentes. Ofrece herramientas de búsqueda avanzada y análisis de citas para ayudar a los investigadores a encontrar y evaluar la literatura académica relevante en sus campos de estudio.
+- **Scopus**: Es una base de datos bibliográfica que cubre una amplia variedad de disciplinas académicas, incluidas ciencias, tecnología, medicina, ciencias sociales y artes y humanidades. Proporciona acceso a resúmenes y citas de artículos de revistas académicas, libros y conferencias, así como métricas de citas y análisis de tendencias para ayudar a los investigadores a evaluar el impacto de la investigación.
+
+### Herramienta 5W Y 2H
+
+**What: ¿Cuál es el problema?**
+
+El problema radica en la posibilidad de falsificación y falta de integridad en el proceso de revisión y publicación de investigaciones académicas, lo cual puede socavar la credibilidad y confianza de la investigación académica.
+
+**When: ¿Cuándo sucede el problema?**
+
+El problema ocurre constantemente, ya que la publicación de investigaciones académicas es un proceso continuo que enfrenta desafíos persistentes en cuanto a la integridad y la accesibilidad.
+
+**Where: ¿Dónde surge el problema?**
+
+El problema surge en el ámbito académico y científico, donde los investigadores enfrentan dificultades para compartir y validar sus investigaciones de manera efectiva.
+
+**Who: ¿Quiénes son afectados por el problema?**
+
+Los investigadores, estudiantes, instituciones académicas, revistas científicas y la comunidad en general interesada en el avance del conocimiento son afectados por este problema.
+
+**Why: ¿Cuál es la causa del problema?**
+
+El problema se origina en la posibilidad de falsificación y la falta de garantías de integridad en el proceso de revisión y publicación de investigaciones académicas. En un entorno académico altamente competitivo, la necesidad de asegurar la autenticidad y veracidad de las investigaciones es fundamental para preservar la credibilidad y confianza en el conocimiento académico.
+
+**How: ¿Cómo se llevan a cabo los hechos?**
+
+Los investigadores envían sus trabajos a revistas científicas para su revisión por pares. Sin embargo, el proceso de revisión puede ser opaco y subjetivo, lo que lleva a problemas de calidad y credibilidad en la investigación publicada.
+
+**How much: ¿Cuál es la magnitud del problema?**
+
+La magnitud del problema es significativa, ya que muchas personas que falsifican la autoría de trabajos de investigación lo hacen con el objetivo de obtener sueldos más altos o mejorar su reputación académica. Esta práctica no solo afecta la integridad del proceso de publicación académica, sino que también tiene implicaciones éticas y financieras importantes para las instituciones y los organismos de financiación de la investigación.
+
 ## Lean UX Process
 ### Lean UX Problem Statements
 ### Lean UX Assumptions
