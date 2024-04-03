@@ -146,7 +146,15 @@
 
 **Duración:** 8:01
 
-**Análisis:** El entrevistado, Jorge Diaz, un estudiante de la carrera de ingeniería de Sistemas del noveno ciclo, quien comparte sus ideas sobre el proceso de revisión y publicación de investigaciones científicas. Se destaca su inquietud por la evaluación de su trabajo y la esperanza de que sea reconocido en su comunidad universitaria y tenga un impacto positivo en futuros investigadores. Reconoce las dificultades para encontrar trabajos verificados en su área de estudio, aunque aprovecha las herramientas proporcionadas por la universidad como Scopus y WOS para mitigar este desafío. Además, señala la importancia de utilizar tecnologías emergentes, como la Inteligencia Artificial, para mejorar la eficiencia y precisión en el análisis de datos. También discute estrategias para fomentar la colaboración e intercambio de ideas, como la participación en conferencias y grupos de investigación en línea. Por último, destaca la importancia de mantener la integridad y calidad de los datos a lo largo de toda la investigación mediante métodos de recopilación estandarizados y documentación detallada de los procesos.
+**Captura:** 
+
+<div>
+<p style = 'text-align:center;'>
+<img src="images/screenshots-interview/vivian-interview.png" width=400/>
+</p>
+</div>
+
+**Análisis:** El entrevistado, Jorge Diaz, un estudiante de la carrera de ingeniería de Sistemas del noveno ciclo, de 22 años y residente del distrtito Lince, quien comparte sus ideas sobre el proceso de revisión y publicación de investigaciones científicas. Se destaca su inquietud por la evaluación de su trabajo y la esperanza de que sea reconocido en su comunidad universitaria y tenga un impacto positivo en futuros investigadores. Reconoce las dificultades para encontrar trabajos verificados en su área de estudio, aunque aprovecha las herramientas proporcionadas por la universidad como Scopus y WOS para mitigar este desafío. Además, señala la importancia de utilizar tecnologías emergentes, como la Inteligencia Artificial, para mejorar la eficiencia y precisión en el análisis de datos. También discute estrategias para fomentar la colaboración e intercambio de ideas, como la participación en conferencias y grupos de investigación en línea. Por último, destaca la importancia de mantener la integridad y calidad de los datos a lo largo de toda la investigación mediante métodos de recopilación estandarizados y documentación detallada de los procesos.
 
 <br/>
 
