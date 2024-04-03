@@ -175,6 +175,8 @@ La resistencia al cambio en las instituciones académicas se mitigará a medida 
 
 ### Lean UX Canvas
 
+<img src="images\Lean UX Canvas.jpg" width=180/>
+
 # Segmentos Objetivos
 
 Como equipo de trabajo hemos enfocado nuestra propuesta en dos principales segmentos en el mercado:
