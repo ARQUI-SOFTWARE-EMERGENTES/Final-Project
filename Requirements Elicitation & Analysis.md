@@ -38,6 +38,21 @@
             <td>Los usuarios pueden evaluar la literatura académica relevante en sus campos de estudio, utilizando herramientas avanzadas para seguir el impacto y la influencia de su trabajo. Además, Web of Science proporciona una plataforma integral para la investigación académica.</td>
             <td>Los investigadores pueden acceder a una amplia gama de recursos académicos y utilizar herramientas avanzadas para evaluar la influencia y el impacto de su trabajo.</td>
         </tr>
+        <tr>
+            <td rowspan="2">Perfil de Marketing</td>
+            <td>Mercado objetivo</td>
+            <td>Está dirigido a estudiantes, académicos, investigadores, editores de revistas científicas y organizaciones de investigación que buscan mejorar la transparencia, integridad y accesibilidad en el proceso de revisión y publicación de investigaciones académicas.</td>
+            <td>Está dirigido a estudiantes, académicos, investigadores y profesionales de diversas disciplinas que buscan acceder a información académica y científica relevante y actualizada.</td>
+            <td>Está dirigido a investigadores, académicos, bibliotecarios, instituciones académicas, editores de revistas científicas y organizaciones de investigación que buscan acceder a una amplia gama de contenido académico y utilizar herramientas avanzadas de análisis de citas y métricas de investigación.</td>
+            <td>Está dirigido a investigadores académicos, científicos, bibliotecarios, instituciones académicas y organizaciones de investigación que buscan acceder a una amplia base de datos bibliográfica multidisciplinaria.</td>
+        </tr>
+        <tr>
+            <td>Estrategias de marketing</td>
+            <td>PaperVault se promociona a través de una combinación de marketing digital, relaciones públicas y marketing de contenidos. Esto incluye la publicidad en línea dirigida a estudiantes, académicos, investigadores y editores de revistas científicas, así como la participación en conferencias académicas y eventos relacionados con la investigación.</td>
+            <td>Google Scholar se beneficia del marketing de motores de búsqueda y la promoción de la marca a través de la reputación de Google. Además, Google promueve Google Scholar a través de sus plataformas existentes, como Google Search y Google Chrome.</td>
+            <td>Web of Science se promociona principalmente a través de marketing digital, relaciones públicas y asociaciones con editores de revistas científicas y organizaciones de investigación. Esto incluye la participación en conferencias y eventos académicos para promover su plataforma y establecer relaciones con la comunidad académica. </td>
+            <td>Scopus utiliza una combinación de marketing digital, relaciones públicas y marketing de contenidos para promover su plataforma. Esto incluye la promoción en línea a través de redes sociales, publicidad en línea y marketing por correo electrónico dirigido a investigadores académicos y profesionales de la información.</td>
+        </tr>
     </tbody>
 </table>
 
