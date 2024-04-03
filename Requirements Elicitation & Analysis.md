@@ -53,6 +53,28 @@
             <td>Web of Science se promociona principalmente a través de marketing digital, relaciones públicas y asociaciones con editores de revistas científicas y organizaciones de investigación. Esto incluye la participación en conferencias y eventos académicos para promover su plataforma y establecer relaciones con la comunidad académica. </td>
             <td>Scopus utiliza una combinación de marketing digital, relaciones públicas y marketing de contenidos para promover su plataforma. Esto incluye la promoción en línea a través de redes sociales, publicidad en línea y marketing por correo electrónico dirigido a investigadores académicos y profesionales de la información.</td>
         </tr>
+        <tr>
+            <td rowspan="3">Perfil de Producto</td>
+            <td>Productos & Servicios</td>
+            <td>Ofrece un sistema transparente de revisión por pares respaldado por tecnología blockchain, que garantiza la autenticidad y veracidad de las investigaciones publicadas. Además, proporciona un repositorio centralizado de investigaciones.</td>
+            <td>Ofrece acceso gratuito a una amplia gama de recursos académicos, incluidos artículos de revistas científicas, tesis, libros y patentes. Además, proporciona funciones avanzadas de búsqueda y seguimiento de citas, </td>
+            <td>Ofrece acceso a artículos de revistas científicas, libros, conferencias y patentes. Además, proporciona herramientas avanzadas de análisis de citas y métricas de investigación.</td>
+            <td>Ofrece acceso a resúmenes y citas de artículos de revistas académicas, libros, conferencias y patentes. Además, proporciona herramientas de análisis de citas, métricas de investigación y funciones de seguimiento,</td>
+        </tr>
+        <tr>
+            <td>Precios & Costos</td>
+            <td>PaperVault se monetiza ofreciendo suscripciones premium que proporcionen acceso a funciones avanzadas, como métricas de impacto y análisis de tendencias. Además, se considera la inclusión de publicidad relevante, la venta de datos analíticos a instituciones académicas y editoriales científicas, establecer alianzas para acceso institucional, y ofrecer licencias de uso de su tecnología blockchain.</td>
+            <td>Google Scholar es gratuito para los usuarios finales. No cobra por el acceso a su base de datos de literatura académica y científica ni por el uso de sus funciones de búsqueda y seguimiento de citas.</td>
+            <td>Web of Science requiere una suscripción para acceder a su plataforma y contenido. El costo de la suscripción varía según el tipo de usuario y el nivel de acceso.</td>
+            <td>Scopus requiere una suscripción para acceder a su base de datos bibliográfica y sus herramientas de análisis. El costo de la suscripción varía según el tipo de usuario (individual, institucional) y el nivel de acceso (básico, premium).</td>
+        </tr>
+        <tr>
+            <td>Canales de distribución (Web y/o Móvil)</td>
+            <td>PaperVault distribuye su plataforma a través de su sitio web oficial, donde los usuarios pueden acceder al servicio mediante registro y suscripción. </td>
+            <td>Google Scholar utiliza principalmente canales digitales para la distribución de su servicio. Estos incluyen el motor de búsqueda de Google, que es accesible a través de navegadores web y dispositivos móviles.</td>
+            <td>Web of Science distribuye su plataforma a través de su sitio web, donde los usuarios pueden acceder al contenido mediante suscripción individual o institucional. </td>
+            <td>Google Scholar utiliza principalmente canales digitales para la distribución de su servicio. Estos incluyen el motor de búsqueda de Google, que es accesible a través de navegadores web y dispositivos móviles.</td>
+        </tr>
     </tbody>
 </table>
 
