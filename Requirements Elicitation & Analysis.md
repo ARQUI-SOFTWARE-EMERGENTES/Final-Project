@@ -83,7 +83,77 @@
 # Entrevistas
 
 ## Diseño de entrevistas
+
+### Preguntas para el segmento de autores
+
+**Preguntas principales**
+1. Podrías compartir tus experiencias anteriores en relación al proceso de revisión por pares.
+
+2. ¿Qué emociones experimentas durante el proceso de investigación, redacción y publicación de la tesis?
+
+3. ¿Cuáles son tus mayores preocupaciones en relación con tu proceso de investigación y publicación de tu tesis o artículo científico?
+4. ¿Qué sistemas o herramientas utiliza actualmente para gestionar y publicar sus escritos académicos?
+5. ¿Cómo te gustaría que una plataforma te ayude a gestionar y organizar tus propias publicaciones académicas?
+6. ¿Cómo crees que una plataforma te podría facilitar el proceso de descubrimiento y acceso a investigaciones relevantes en tu campo?
+7. ¿Qué tipo de información y datos considera crucial que se almacenen y validen para respaldar la autoría de un escrito académico?
+8. ¿Has experimentado problemas con la identificación de autores o la atribución de trabajos en el ámbito académico?
+9. ¿Cuáles son los principales desafíos que enfrentan los investigadores al intentar publicar sus trabajos académicos?
+10. ¿Cuáles son los principales desafíos que enfrentan los investigadores como tú al intentar validar la autenticidad y autoría de sus trabajos académicos?
+11. ¿Cómo evalúas la reputación y la calidad de una revista académica o una conferencia en tu campo de estudio?
+12. ¿Qué funcionalidades te gustaría ver en una plataforma que te ayude a validar la autoría de trabajos académicos?
+
+**Preguntas complementarias**
+1. ¿Qué tipo de dispositivos sueles utilizar para acceder a la literatura académica y realizar tu trabajo de investigación y publicación?
+
+2. ¿Qué sistema operativo prefieres en tus dispositivos principales (computadora portátil, teléfono inteligente, tableta, etc.) y por qué?
+3. ¿Cómo crees que la revisión por pares ha influido en la calidad y credibilidad de tus investigaciones académicas?
+4. ¿Qué protocolos de seguridad considera esenciales para proteger la integridad de tus datos de investigación en una plataforma en línea?
+5. ¿Qué funcionalidades específicas buscas en una herramienta que permite detectar el plagio para garantizar la originalidad de tus investigaciones?
+
+<br/>
+
+### Preguntas para el segmento de investigadores o tesistas
+
+**Preguntas principales**
+1. ¿Tienes alguna preocupación o duda específica sobre el proceso de revisión y publicación de investigaciones científicas?
+
+2. ¿Qué expectativas tienes en cuanto a la visibilidad y el impacto de tu investigación una vez que sea publicada?
+3. ¿Tienes dificultades para encontrar trabajos verificados por personas con experiencia en investigación? 
+4. ¿Cuál es tu proceso para evaluar la validez y relevancia de los datos obtenidos durante tu investigación?
+5. ¿Cómo consideras que la tecnología puede ayudar a mejorar la eficiencia y precisión en el análisis de datos de investigación en tu área de estudio?
+6. ¿Cómo planificas abordar posibles sesgos o limitaciones en tus investigaciones?
+7. ¿Cuál es el procedimiento que realizas para obtener información de fuentes bibliográficas?
+8. ¿Te preocupa que al momento de subir tu trabajo puedas ser víctima de plagio? 
+
+**Preguntas complementarias**
+1. ¿Qué tipo de dispositivos sueles utilizar para acceder a la literatura académica y realizar tu trabajo de investigación?
+
+2. ¿Qué sistema operativo prefieres en tus dispositivos principales (computadora portátil, teléfono inteligente, tableta, etc.) y por qué?
+3. ¿Qué información o recursos adicionales te gustaría tener a tu disposición para abordar cualquier preocupación relacionada con el proceso de revisión y publicación?
+4. ¿Qué estrategias consideras realizar para promover y aumentar la visibilidad de tu investigación una vez que sea publicada?
+5. ¿Qué herramientas tecnológicas utilizas para organizar y analizar los datos recopilados en tu investigación?
+6. ¿Qué características específicas te gustaría ver en una plataforma de gestión de datos de investigación para satisfacer tus necesidades?
+7. ¿Qué estrategias implementas para fomentar la colaboración y el intercambio de ideas con otros investigadores, tanto dentro como fuera de tu institución?
+8. ¿Qué medidas tomas para asegurar la calidad y la integridad de tus datos durante toda la investigación?
+
+
 ## Reistro de entrevistas
+
+### Entrevistas del segmento de autores
+**Nombre:** Jorge Diaz Chanchari 
+
+**Link:** https://www.youtube.com/watch?v=GxbhKSQ3y9g
+
+**Duración:** 8:01
+
+**Análisis:** El entrevistado, Jorge Diaz, un estudiante de la carrera de ingeniería de Sistemas del noveno ciclo, quien comparte sus ideas sobre el proceso de revisión y publicación de investigaciones científicas. Se destaca su inquietud por la evaluación de su trabajo y la esperanza de que sea reconocido en su comunidad universitaria y tenga un impacto positivo en futuros investigadores. Reconoce las dificultades para encontrar trabajos verificados en su área de estudio, aunque aprovecha las herramientas proporcionadas por la universidad como Scopus y WOS para mitigar este desafío. Además, señala la importancia de utilizar tecnologías emergentes, como la Inteligencia Artificial, para mejorar la eficiencia y precisión en el análisis de datos. También discute estrategias para fomentar la colaboración e intercambio de ideas, como la participación en conferencias y grupos de investigación en línea. Por último, destaca la importancia de mantener la integridad y calidad de los datos a lo largo de toda la investigación mediante métodos de recopilación estandarizados y documentación detallada de los procesos.
+
+<br/>
+
+
+### Entrevistas del segmento de tesistas
+
+
 ## Análisis de entrevistas
 
 # NeedFinding
