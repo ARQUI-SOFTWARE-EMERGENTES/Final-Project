@@ -393,7 +393,7 @@
 
 ## As-is Scenario Mapping
 
-![As Is Scenario Map](images\As-is Scenario Map.png)
+![As Is Scenario Map](images/As-is%20Scenario%20Map.png)
 
 # Ubiquitous Language
 
