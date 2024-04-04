@@ -75,6 +75,107 @@
             <td>Web of Science distribuye su plataforma a través de su sitio web, donde los usuarios pueden acceder al contenido mediante suscripción individual o institucional. </td>
             <td>Google Scholar utiliza principalmente canales digitales para la distribución de su servicio. Estos incluyen el motor de búsqueda de Google, que es accesible a través de navegadores web y dispositivos móviles.</td>
         </tr>
+        <tr>
+            <td rowspan="4">Análisis SWOT</td>
+            <td>Debilidades</td>
+            <td>La adopción de PaperVault por parte de la comunidad académica puede llevar tiempo y requerir esfuerzos significativos de marketing y promoción. Además, la implementación y mantenimiento de la tecnología blockchain utilizada es costosa.</td>
+            <td>La relevancia de los resultados puede variar según el algoritmo de búsqueda utilizado por Google Scholar, lo que puede afectar la precisión de los resultados.</td>
+            <td>La interfaz de usuario de Web of Science resulta complicada para algunos usuarios, lo que podría afectar la facilidad de uso y la experiencia del usuario.</td>
+            <td>A pesar de su amplia cobertura, Scopus carece de ciertas disciplinas académicas, lo que puede afectar la disponibilidad de ciertos recursos para usuarios especializados.</td>
+        </tr>
+        <tr>
+            <td>Fortalezas</td>
+            <td>
+                <ul>
+                    <li>Tecnología blockchain</li>
+                    <li>Repositorio centralizado</li>
+                    <li>Enfoque en la integridad y transparencia</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Amplia cobertura de fuentes académicas.</li>
+                    <li>Integración con servicios de Google.</li>
+                    <li>Funciones avanzadas de búsqueda.</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Reputación y confiabilidad</li>
+                    <li>Herramientas de análisis de citas</li>
+                    <li>Cobertura multidisciplinaria</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Base de datos multidisciplinaria</li>
+                    <li>Herramientas de análisis de citas</li>
+                    <li>Cobertura internacional</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Oportunidades</td>
+            <td>
+                <ul>
+                    <li>Adopción generalizada de blockchain</li>
+                    <li>Colaboraciones con instituciones académicas</li>
+                    <li>Diversificación de servicios</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Expansión de la cobertura</li>
+                    <li>Mejoras en la precisión de los resultados</li>
+                    <li>Colaboraciones académicas</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Integración con sistemas institucionales</li>
+                    <li>Expansión geográfica</li>
+                    <li>Desarrollo de colaboraciones estratégicas</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Ampliación de la cobertura disciplinaria</li>
+                    <li>Desarrollo de herramientas innovadoras</li>
+                    <li>Internacionalización</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Amenazas</td>
+            <td>
+                <ul>
+                    <li>Desconfianza en la tecnología blockchain</li>
+                    <li>Competencia de soluciones existentes</li>
+                    <li>Vulnerabilidades de seguridad</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Competencia de otras plataformas</li>
+                    <li>Cambios en los algoritmos de búsqueda</li>
+                    <li>Regulaciones de privacidad</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Competencia de otras plataformas</li>
+                    <li>Cambios en las preferencias del usuario</li>
+                    <li>Cambios en la industria editorial</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Competencia de otras bases de datos</li>
+                    <li>Costos de suscripción</li>
+                    <li>Calidad de la información</li>
+                </ul>
+            </td>
+        </tr>
     </tbody>
 </table>
 
