@@ -137,7 +137,7 @@
 8. ¿Qué medidas tomas para asegurar la calidad y la integridad de tus datos durante toda la investigación?
 
 
-## Reistro de entrevistas
+## Registro de entrevistas
 
 ### Entrevistas del segmento de autores
 **Nombre:** Jorge Diaz Chanchari 
@@ -158,9 +158,27 @@
 
 <br/>
 
+**Nombre**: Tamara Llauri <br>
+**Links**: <br>
+**Pt1**: https://drive.google.com/file/d/1fzhAOiJfHZgFsnZ-6HXLaQrEoHN3KQoP/view?usp=sharing<br>
+**Pt2**: https://drive.google.com/file/d/1V5CB4wm_bv7BugCXq-ZZ-21dyNt-SyL2/view?usp=sharing <br>
+**Duración**: 41:00 <br>
+**Captura**: <br>
+
+<img src="images/screenshots-interview//Entrevista-autor-2.png" width=400/>
+
+**Análisis**: Tamara nos cuenta su experiencia haciendo su tesis, nos dice que le gustó la experiencia a pesar de que eso implique sacrificios, también siente satisfacción al presentar un buen trabajo. Sus principales preocupaciones son las de buscar tesis que tengan temas cercanos a los propios, lo considera complicado. El sistema que utiliza para gestionar su trabajo es Mendeley. Nos menciona que suele encontrar publicaciones similares y quisiera un método para saber si una publicación es un plagio o no, y saber quien es el autor original. 
 
 ### Entrevistas del segmento de tesistas
 
+**Nombre**: Mauricio Prado Chumbes <br>
+**Link**: https://drive.google.com/file/d/1zcyt5tAg9A6llACITZkjjFZCTD_TT11B/view?usp=sharing <br>
+**Duración**: 8:48 <br>
+**Captura**: <br>
+
+<img src="images/screenshots-interview/entrevista tesista-1.png" width=400/>
+
+**Análisis**: Mauricio nos cuenta que tiene como preocupacion el rechazo de su trabajo, además, tiene expectativas de poder lograr una mejora con la publicacion de su trabajo. Suele tener dificultades al buscar información precisa sobre su tema, el método que usa para seleccionar los papers es generando preguntas de investigación y descartando los papers que no neccesita.
 
 ## Análisis de entrevistas
 
