@@ -396,3 +396,15 @@
 ![As Is Scenario Map](images\As-is Scenario Map.png)
 
 # Ubiquitous Language
+
+Para garantizar una comunicación efectiva y un entendimiento común entre todos los implicados, se proporciona el siguiente glosario de términos clave. Esto asegurará que tanto el equipo de desarrollo como otros stakeholders estén alineados y en sintonía con el lenguaje utilizado en el proyecto.
+
+- **Investigación**:  El trabajo académico que contiene los resultados y hallazgos de un estudio específico, y que se envía a una revista académica para su revisión y posible publicación.
+- **Revisor**: Un experto en el campo que evalúa la calidad y relevancia de la investigación durante el proceso de revisión por pares, proporcionando comentarios y sugerencias para mejorar el trabajo.
+- **Edición**: El proceso de revisión y corrección de la investigación antes de su publicación final, que incluye la revisión de estilo, formato y precisión de los datos.
+- **Indexación**: La inclusión del artículo en bases de datos académicas y motores de búsqueda, que aumenta su visibilidad y accesibilidad para la comunidad académica.
+- **Plataforma**: La infraestructura en línea que permite a los usuarios acceder y compartir investigaciones, facilitando la revisión, publicación y búsqueda de artículos.
+- **Autoría**: La atribución adecuada de la autoría de un artículo a los investigadores que contribuyeron significativamente a su desarrollo y redacción.
+- **Revisión por pares**: El proceso en el que las investigaciones son evaluadas por expertos en el campo antes de su aceptación para su publicación, con el fin de garantizar la calidad y la integridad de la investigación.
+- **Acceso abierto**: El modelo de publicación que permite a cualquier persona acceder y descargar libremente los artículos publicados, sin barreras financieras o de suscripción.
+- **Metadatos**: La información descriptiva asociada a un artículo, como el título, los autores, el abstract y las palabras clave, que facilita su identificación en bases de datos académicas.
