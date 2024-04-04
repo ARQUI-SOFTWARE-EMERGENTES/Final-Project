@@ -140,6 +140,10 @@
 ## Reistro de entrevistas
 
 ### Entrevistas del segmento de autores
+
+
+
+### Entrevistas del segmento de tesistas
 **Nombre:** Jorge Diaz Chanchari 
 
 **Link:** https://www.youtube.com/watch?v=GxbhKSQ3y9g
@@ -150,7 +154,7 @@
 
 <div>
 <p style = 'text-align:center;'>
-<img src="images/screenshots-interview/vivian-interview.png" width=400/>
+<img src="images/screenshots-interview/vivian-interview.png"/>
 </p>
 </div>
 
@@ -158,15 +162,21 @@
 
 <br/>
 
-
-### Entrevistas del segmento de tesistas
-
-
 ## Análisis de entrevistas
 
 # NeedFinding
 
 ## User Personas
+
+### Usuario Tesista
+<img src="images/user-persona-tesista.png"/>
+
+
+### Usuario Autor
+<img src="images/user-persona-autor.png"/>
+
+
+
 ## User Task Matrix
 
 <table>
