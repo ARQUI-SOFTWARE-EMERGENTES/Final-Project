@@ -19,3 +19,9 @@
 - Salomé Nina, Jackeline Fernanda - U202015772
 
 ### Marzo de 2024
+
+# Registro de Versiones del Informe
+
+| Versión | Fecha | Autor                                                                           | Descripción de modificación |
+|---------|-------|---------------------------------------------------------------------------------|-----------------------------|
+| 1.0     |       | Gonzalo Barrazueta, Jonatan Curi, Vivian Pongo, Gonzalo Sakuda, Fernanda Salomé |                             |
