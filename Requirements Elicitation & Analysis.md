@@ -283,6 +283,15 @@
 
 <br/>
 
+**Nombre**: Paulo Costa Mondragón <br>
+**Link**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912404_upc_edu_pe/ERAOGfkZz9hJkOqGSCI3lyIBKDFMlZ-ne3mCe6PApNkABg <br>
+**Duración**: 7:51 <br>
+**Captura**: <br>
+
+<img src="images/screenshots-interview/Entrevista Tesista 2.png" width=500/>
+
+**Análisis**: Paulo nos cuenta que tiene pocas esperanzas en que su tesis sea publicada en una revista Q1. Asimismo, para la validación de sus fuentes, realiza el analisis de meta-data, para saber si la fuente es confiable. Además, menciona que el sistema actual es tedioso y quisiera un sistema que permita visualizar si la revista es indexada y el nivel de la revista.
+
 ## Análisis de entrevistas
 
 # NeedFinding
