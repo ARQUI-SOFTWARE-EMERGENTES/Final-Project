@@ -181,10 +181,10 @@ La resistencia al cambio en las instituciones académicas se mitigará a medida 
 
 Como equipo de trabajo hemos enfocado nuestra propuesta en dos principales segmentos en el mercado:
 
-## Investigadores Académicos
+## Autores
 
 ### Descripción:
-Los investigadores académicos son profesionales altamente capacitados que se dedican a la investigación en campos específicos. Pueden trabajar en universidades, instituciones de investigación, empresas privadas o instituciones gubernamentales.
+Los autores son profesionales altamente capacitados que se dedican a la investigación en campos específicos. Pueden trabajar en universidades, instituciones de investigación, empresas privadas o instituciones gubernamentales.
 
 ### Características:
 - Tienen experiencia en la producción de investigación académica.
@@ -201,10 +201,10 @@ Los investigadores académicos son profesionales altamente capacitados que se de
 - Ofrece funciones de colaboración en línea para facilitar el trabajo en equipo y el intercambio de ideas.
 - Proporciona recursos educativos sobre ética de la investigación y buenas prácticas académicas.
 
-## Tesistas o Estudiantes de Investigación
+## Tesistas
 
 ### Descripción:
-Los tesistas o estudiantes de investigación son individuos que están realizando trabajos de investigación como parte de su formación académica, ya sea para obtener un título universitario o avanzar en su carrera académica.
+Los tesistas son individuos que están realizando trabajos de investigación como parte de su formación académica, ya sea para obtener un título universitario o avanzar en su carrera académica.
 
 ### Características:
 - Están en un proceso de aprendizaje y desarrollo académico.
