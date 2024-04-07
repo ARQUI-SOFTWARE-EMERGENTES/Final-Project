@@ -15,7 +15,12 @@
         <tr>
             <td>EP01</td>
             <td>Autenticación</td>
-            <td>Como usuario deseo acceder a mi cuenta personal para entrar a la apliacación.</td>
+            <td>Como usuario deseo acceder a mi cuenta personal para entrar a la aplicación.</td>
+        </tr>
+        <tr>
+            <td>EP02</td>
+            <td>Búsqueda de Investigaciones</td>
+            <td>Como usuario deseo buscar papers para realizar mi tesis.</td>
         </tr>
     </tbody>
 
@@ -133,6 +138,104 @@
                 <b>Y</b> se muestra la página de inicio de sesión
             </td>
             <td>EP01</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Buscar por palabras clave</td>
+            <td>Como usuario quiero realizar búsquedas por palabras clave para encontrar papers relevantes para mi tesis.</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por palabra clave <br>
+                <b>Dada</b> una búsqueda en la plataforma <br>
+                <b>Cuando</b> el usuario ingresa palabras clave <br>
+                <b>Y</b> presiona el boton de buscar <br>
+                <b>Entonces</b> se muestran las publicaciones que contengan dichas palabras.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Filtrar resultados por fecha</td>
+            <td>Como usuario quiero filtrar los resultados de búsqueda por fecha de publicación para acceder a papers recientes.</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
+                <b>Y</b> presiona el botón de filtrar <br>
+                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Filtrar resultados por tipo</td>
+            <td>Como usuario quiero filtrar los resultados de búsqueda por tipo para acceder a papers recientes.</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por relevancia de publicación <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona uno o varios tipos de publicacion en los filtros <br>
+                <b>Y</b> presiona el botón de filtrar <br>
+                <b>Entonces</b> se muestran las publicaciones de los tipos seleccionados.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US10</td>
+            <td>Filtrar resultados por idioma</td>
+            <td>Como usuario quiero filtrar los resultados de búsqueda por idioma para acceder a papers relevantes en un idioma en específico.</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por tipo de publicación <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona uno o varios idiomas en los que quiere ver las publicaciones <br>
+                <b>Y</b> presiona el botón de filtrar <br>
+                <b>Entonces</b> se muestran las publicaciones en los idiomas seleccionados.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US11</td>
+            <td>Ordenar resultados por relevancia</td>
+            <td>Como usuario quiero tener la opción de ordenar los resultados de búsqueda por relevancia para identificar los papers más influyentes en mi campo de estudio.</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de ordenamiento de publicación <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona la opción de ordenar los resultados por relevancia <br>
+                <b>Entonces</b> se muestran las publicaciones ordenadas según la relevancia.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US12</td>
+            <td>Leer paper completo</td>
+            <td>Como usuario quiero leer el paper completo para poder tener toda la información del paper.</td>
+            <td>
+                <b>Scenario 1:</b> Redirección a página de publicación <br>
+                <b>Dada</b> una publicación seleccionada <br>
+                <b>Cuando</b> el usuario selecciona la opción de leer el paper completo <br>
+                <b>Entonces</b> se redirige a la página de publicación original. <br>
+                <!--<b>Scenario 2:</b> Página con restricción <br>
+                <b>Dada</b> una publicación seleccionada <br>
+                <b>Cuando</b> el usuario selecciona la opción de leer el paper completo <br>
+                <b>Entonces</b> se muestra un mensaje de publicación completa bloqueada.-->
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US11</td>
+            <td>Guardado de papers</td>
+            <td>Como usuario quiero poder guardar mis búsquedas anteriores en PaperVault para poder retomar la exploración ahorrando tiempo.</td>
+            <td>
+                <b>Scenario 1:</b> Guardar una búsqueda <br>
+                <b>Dado</b> que un usuario ha realizado una búsqueda <br>
+                <b>Cuando</b> el usuario decide guardar esa búsqueda <br>
+                <b>Y</b> presiona el botón de guardar <br>
+                <b>Entonces</b> la búsqueda se guarda correctamente en la cuenta del usuario. <br>
+                <b>Scenario 2:</b> Eliminar una búsqueda guardada <br>
+                <b>Dado</b> que un usuario ha guardado búsquedas anteriores <br>
+                <b>Cuando</b> el usuario opta por eliminar una búsqueda guardada <br>
+                <b>Y</b> presiona el botón de borrar <br>
+                <b>Entonces</b> la búsqueda seleccionada se elimina exitosamente de la lista de búsquedas guardadas del usuario.
+            </td>
+            <td>EP02</td>
         </tr>
     </tbody>
 </table>
