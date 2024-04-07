@@ -261,6 +261,97 @@
             </td>
             <td>EP03</td>
         </tr>
+        <tr>
+            <td>US15</td>
+            <td>Notificaciones sobre nuevas investigaciones relevantes</td>
+            <td>Cómo autor quiero recibir notificaciones sobre nuevas investigaciones relevantes en mi campo de estudio para estar al tanto de los avances en la investigación </td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
+                <b>Y</b> presiona el botón de filtrar <br>
+                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US16</td>
+            <td>Notificaciones automáticas sobre el estado de revisión</td>
+            <td>Como autor quiero recibir notificaciones automáticas sobre el estado de revisión de mis trabajos de investigación para mantenerme actualizado sobre su progreso.</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
+                <b>Y</b> presiona el botón de filtrar <br>
+                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US17</td>
+            <td>Colaboraciones y redes con otros investigadores</td>
+            <td>Cómo autor quiero establecer colaboraciones y redes con otros investigadores en mi campo de estudio para fomentar la colaboración y el intercambio de conocimientos en la comunidad académica.</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
+                <b>Y</b> presiona el botón de filtrar <br>
+                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US18</td>
+            <td>Herramientas de detección de plagio</td>
+            <td>Como autor quiero tener acceso a herramientas de detección de plagio para verificar la originalidad de mis trabajos de investigación para garantizar su calidad y credibilidad.</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
+                <b>Y</b> presiona el botón de filtrar <br>
+                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US19</td>
+            <td>Comentar y discutir investigaciones</td>
+            <td>Como usuario quiero poder comentar y discutir investigaciones en la plataforma para participar en la comunidad académica y enriquecer mi comprensión del tema.</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
+                <b>Y</b> presiona el botón de filtrar <br>
+                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US20</td>
+            <td>Recibir notificaciones sobre comentarios</td>
+            <td>Como autor quiero recibir notificaciones sobre comentarios de mis investigaciones para estar al tanto del feedback de la comunidad académica.</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
+                <b>Y</b> presiona el botón de filtrar <br>
+                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US21</td>
+            <td>Gestionar perfil</td>
+            <td>Como usuario quiero gestionar mi perfil para mostrar mi trayectoria académica y mejorar mi credibilidad la comunidad académica.</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
+                <b>Y</b> presiona el botón de filtrar <br>
+                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+            </td>
+            <td>EP02</td>
+        </tr>
     </tbody>
 </table>
 
