@@ -11,7 +11,7 @@
             <th>Descripción</th>
         </tr>
     </thead>
-    <tboby>
+    <tbody>
         <tr>
             <td>EP01</td>
             <td>Autenticación</td>
@@ -36,7 +36,7 @@
             <th>Relacionado con Epic ID</th>
         </tr>
     </thead>
-    <tboby>
+    <tbody>
         <tr>
             <td>US01</td>
             <td>Registrar cuenta</td>
