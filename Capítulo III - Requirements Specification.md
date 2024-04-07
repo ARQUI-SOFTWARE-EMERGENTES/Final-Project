@@ -22,6 +22,11 @@
             <td>Búsqueda de Investigaciones</td>
             <td>Como usuario deseo buscar papers para realizar mi tesis.</td>
         </tr>
+        <tr>
+            <td>EP03</td>
+            <td>Registro de Investigaciones Académicas</td>
+            <td>Como usuario, deseo solicitar la revisión de mis investigaciones para que sea evaluada para su publicación en una revista académica.</td>
+        </tr>
     </tbody>
 
 </table>
@@ -236,6 +241,25 @@
                 <b>Entonces</b> la búsqueda seleccionada se elimina exitosamente de la lista de búsquedas guardadas del usuario.
             </td>
             <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US14</td>
+            <td>Subir investigación</td>
+            <td>Como tesista, deseo solicitar la revisión de mi investigación para saber si va a ser aprobada.</td>
+            <td>
+                <b>Scenario 1:</b> Archivo cargado correctamente<br>
+                <b>Dado que</b> el tesista selecciona la opción "Subir Investigación" desde el menú principal<br>
+                <b>Y</b> completa los campos requeridos, como título, autores, resumen y palabras clave<br>
+                <b>Cuando</b> adjunta el archivo de investigación<br>
+                <b>Y</b> confirma la carga de la investigación para su revisión <br>
+                <b>Entonces</b> recibe una confirmación del sistema de que la investigación ha sido enviada correctamente.
+                <br><br>
+                <b>Scenario 2:</b> Archivo no válido <br>
+                <b>Dado que</b> el tesista adjunta el archivo de investigación para solicitar su revisión<br>
+                <b>Cuando</b> el tesista intenta confirmar la carga de su investigación<br>
+                <b>Entonces</b> El sistema muestra un mensaje de error indicando que el archivo no es válido y solicita al usuario que seleccione un archivo compatible.
+            </td>
+            <td>EP03</td>
         </tr>
     </tbody>
 </table>
