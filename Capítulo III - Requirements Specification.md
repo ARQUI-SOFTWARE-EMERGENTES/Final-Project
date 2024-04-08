@@ -471,12 +471,12 @@
                 <b>Scenario 1:</b> Ingreso a la plataforma como tesista<br>
                 <b>Dado que</b> creé una cuenta como tesista<br>
                 <b>Cuando</b> inicie sesión<br>
-                <b>Entonces</b> tendré acceso a todas las funcionalidades de un tesista
+                <b>Entonces</b> tendré acceso a todas las funcionalidades de un tesista.
                 <br><br>
                 <b>Scenario 2:</b> Ingreso a la plataforma como Autor<br>
                 <b>Dado que</b> creé una cuenta como autor<br>
                 <b>Cuando</b> inicie sesión <br>
-                <b>Entonces</b> tendré acceso a todas las funcionalidades de un autor
+                <b>Entonces</b> tendré acceso a todas las funcionalidades de un autor.
             </td>
             <td>EP01</td>
         </tr>
@@ -488,12 +488,12 @@
                 <b>Scenario 1:</b> Confirmación exitosa<br>
                 <b>Dado que</b> se ha terminado de revisar una investigación<br>
                 <b>Cuando</b> el autor confirme la publicación del estudio<br>
-                <b>Entonces</b> se muestra un mensaje indicando que el estudio ha sido almacenado en un repositorio académico de manera exitosa
+                <b>Entonces</b> se muestra un mensaje indicando que el estudio ha sido almacenado en un repositorio académico de manera exitosa.
                 <br><br>
                 <b>Scenario 2:</b> Confirmación Pendiente<br>
                 <b>Dado que</b> se ha terminado de revisar una investigación<br>
                 <b>Cuando</b> el autor confirme la publicación del estudio<br>
-                <b>Entonces</b> el sistema muestra un mensaje indicando que la investigación está en proceso de ser almacenada en el repositorio académico
+                <b>Entonces</b> el sistema muestra un mensaje indicando que la investigación está en proceso de ser almacenada en el repositorio académico.
             </td>
             <td>EP01</td>
         </tr>
@@ -567,31 +567,31 @@
         </tr>
         <tr>
             <td>8</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US14</td>
+            <td>Subir investigación</td>
+            <td>Como tesista, deseo solicitar la revisión de mi investigación para saber si va a ser aprobada.</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>9</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US22</td>
+            <td>Seguimiento del proceso</td>
+            <td>Como tesista, quiero poder rastrear el estado de la revisión de mi investigación en tiempo real, para tener una visión clara del progreso y estar informado sobre cualquier actualización o cambio en el proceso de revisión.</td>
+            <td>3</td>
         </tr>
         <tr>
             <td>10</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US30</td>
+            <td>Roles y permisos</td>
+            <td>Como usuario, quiero que la interfaz muestre únicamente las funcionalidades relevantes para mi rol, para poder acceder fácilmente a las herramientas que necesito sin distracciones innecesarias.</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>11</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US31</td>
+            <td>Aceptación de la investigación</td>
+            <td>Como autor, quiero tener la capacidad de confirmar el proceso de revisión de una investigación, para que pueda ser almacenada de manera segura en el repositorio académico y avanzar con el siguiente paso en el proceso de publicación.</td>
+            <td>8</td>
         </tr>
         <tr>
             <td>12</td>
