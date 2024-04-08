@@ -85,3 +85,5 @@ En PaperVault, nuestra solución se centra en ofrecer seguridad en cuanto a la a
 ## Software Architecture Container Level Diagrams
 
 ## Software Architecture Deployment Diagrams
+
+![Deployment Diagram](images/c4%20model%20diagrams/deployment%20diagram.png)
