@@ -352,6 +352,23 @@
             </td>
             <td>EP02</td>
         </tr>
+        <tr>
+            <td>US22</td>
+            <td>Seguimiento del proceso</td>
+            <td>Como tesista, quiero poder rastrear el estado de la revisión de mi investigación en tiempo real, para tener una visión clara del progreso y estar informado sobre cualquier actualización o cambio en el proceso de revisión.</td>
+            <td>
+                <b>Scenario 1:</b> Estado de Revisión Actualizado<br>
+                <b>Dado que</b> el tesista se encuentra en la sección "Mis Investigaciones"<br>
+                <b>Cuando</b> selecciona la opción "Seguimiento" de una de las  investigaciones enviadas<br>
+                <b>Entonces</b> encuentra que el estado de revisión de su investigación ha sido actualizado.
+                <br><br>
+                <b>Scenario 2:</b> Revisión Completada<br>
+                <b>Dado que</b> el tesista recibe una notificación de que el proceso de revisión de su investigación ha sido completado<br>
+                <b>Cuando</b> selecciona la opción "Seguimiento" de su investigación<br>
+                <b>Entonces</b> el tesista puede acceder a los comentarios y revisar el veredicto final emitido para su investigación.
+            </td>
+            <td>EP03</td>
+        </tr>
     </tbody>
 </table>
 
