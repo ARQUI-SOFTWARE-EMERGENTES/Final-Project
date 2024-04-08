@@ -517,6 +517,174 @@
     </thead>
     <tbody>
         <tr>
+            <td>1</td>
+            <td>US12</td>
+            <td>Leer paper completo </td>
+            <td>Como usuario quiero leer el paper completo para poder tener toda la información del paper</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>US07</td>
+            <td>Buscar por palabras clave </td>
+            <td>Como usuario deseo eliminar mi cuenta para borrar todos los datos de la aplicación</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>US08</td>
+            <td>Filtrar resultados por fecha </td>
+            <td>Como usuario quiero filtrar los resultados de búsqueda por fecha de publicación para acceder a papers recientes</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>US09</td>
+            <td>Filtrar resultados por tipo </td>
+            <td>Como usuario quiero filtrar los resultados de búsqueda por tipo para acceder a papers recientes</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>US11</td>
+            <td>Ordenar resultados por relevancia </td>
+            <td>Como usuario quiero tener la opción de ordenar los resultados de búsqueda por relevancia para identificar los papers más influyentes en mi campo de estudio</td>
+            <td>1</td>
+        </tr>
+         <tr>
+            <td>6</td>
+            <td>US10</td>
+            <td>Filtrar resultados por idioma </td>
+            <td>Como usuario quiero filtrar los resultados de búsqueda por idioma para acceder a papers relevantes en un idioma en específico</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>US13</td>
+            <td>Guardado de papers </td>
+            <td>Como usuario quiero poder guardar mis búsquedas anteriores en PaperVault para poder retomar la exploración ahorrando tiempo</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>US</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>25</td>
             <td>US01</td>
             <td>Registrar cuenta</td>
@@ -557,55 +725,6 @@
             <td>Eliminar cuenta</td>
             <td>Como usuario deseo eliminar mi cuenta para borrar todos los datos de la aplicación</td>
             <td>1</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>US07</td>
-            <td>Buscar por palabras clave </td>
-            <td>Como usuario deseo eliminar mi cuenta para borrar todos los datos de la aplicación</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>US08</td>
-            <td>Filtrar resultados por fecha </td>
-            <td>Como usuario quiero filtrar los resultados de búsqueda por fecha de publicación para acceder a papers recientes</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>US09</td>
-            <td>Filtrar resultados por tipo </td>
-            <td>Como usuario quiero filtrar los resultados de búsqueda por tipo para acceder a papers recientes</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>US10</td>
-            <td>Filtrar resultados por idioma </td>
-            <td>Como usuario quiero filtrar los resultados de búsqueda por idioma para acceder a papers relevantes en un idioma en específico</td>
-            <td>1</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>US11</td>
-            <td>Ordenar resultados por relevancia </td>
-            <td>Como usuario quiero tener la opción de ordenar los resultados de búsqueda por relevancia para identificar los papers más influyentes en mi campo de estudio</td>
-            <td>1</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>US12</td>
-            <td>Leer paper completo </td>
-            <td>Como usuario quiero leer el paper completo para poder tener toda la información del paper</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>US13</td>
-            <td>Guardado de papers </td>
-            <td>Como usuario quiero poder guardar mis búsquedas anteriores en PaperVault para poder retomar la exploración ahorrando tiempo</td>
-            <td>3</td>
         </tr>
     </tbody>
 </table>
