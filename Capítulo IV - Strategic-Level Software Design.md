@@ -8,6 +8,8 @@ En PaperVault, nuestra solución se centra en ofrecer seguridad en cuanto a la a
 
 ### Primary Functionality (Primary User Stories)
 
+Se seleccionaron los user stories que cuentan con una mayor relevancia para la solución a desarrollar en el siguiente cuadro:
+
 <table>
     <thead>
         <tr>
@@ -18,6 +20,43 @@ En PaperVault, nuestra solución se centra en ofrecer seguridad en cuanto a la a
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>US07</td>
+            <td>Buscar por palabras clave</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por palabra clave <br>
+                <b>Dada</b> una búsqueda en la plataforma <br>
+                <b>Cuando</b> el usuario ingresa palabras clave <br>
+                <b>Y</b> presiona el boton de buscar <br>
+                <b>Entonces</b> se muestran las publicaciones que contengan dichas palabras.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US14</td>
+            <td>Subir investigación</td>
+            <td>
+                <b>Scenario 1:</b> Archivo cargado correctamente<br>
+                <b>Dado que</b> el tesista selecciona la opción "Subir Investigación" desde el menú principal<br>
+                <b>Y</b> completa los campos requeridos, como título, autores, resumen y palabras clave<br>
+                <b>Cuando</b> adjunta el archivo de investigación<br>
+                <b>Y</b> confirma la carga de la investigación para su revisión <br>
+                <b>Entonces</b> recibe una confirmación del sistema de que la investigación ha sido enviada correctamente.
+                <br><br>
+                <b>Scenario 2:</b> Archivo no válido <br>
+                <b>Dado que</b> el tesista adjunta el archivo de investigación para solicitar su revisión<br>
+                <b>Cuando</b> el tesista intenta confirmar la carga de su investigación<br>
+                <b>Entonces</b> El sistema muestra un mensaje de error indicando que el archivo no es válido y solicita al usuario que seleccione un archivo compatible.
+            </td>
+            <td>EP03</td>
+        </tr>
+        <tr>
+            <td>US18</td>
+            <td>Herramientas de detección de plagio</td>
+            <td>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
@@ -26,6 +65,7 @@ En PaperVault, nuestra solución se centra en ofrecer seguridad en cuanto a la a
 <table>
     <thead>
         <tr>
+            <th>ID</th>
             <th>Atributo</th>
             <th>Fuente</th>
             <th>Estímulo</th>
@@ -36,6 +76,9 @@ En PaperVault, nuestra solución se centra en ofrecer seguridad en cuanto a la a
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
