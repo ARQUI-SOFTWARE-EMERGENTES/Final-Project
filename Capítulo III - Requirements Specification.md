@@ -27,6 +27,16 @@
             <td>Registro de Investigaciones Académicas</td>
             <td>Como usuario, deseo solicitar la revisión de mis investigaciones para que sea evaluada para su publicación en una revista académica.</td>
         </tr>
+        <tr>
+            <td>EP04</td>
+            <td>Información de Revistas Académicas</td>
+            <td>Como usuario, deseo tener la posibilidad de visualizar datos sobre las revistas académicas de los articulos científicos para no tener que cambiar de pestaña constantemente.</td>
+        </tr>
+        <tr>
+            <td>EP05</td>
+            <td>Gestión de Referencias Bibliográficas</td>
+            <td>Como usuario, deseo poder obtener las referencias bibliograficas de articulos cientificos para poder utilizarlos en mi tesis.</td>
+        </tr>
     </tbody>
 
 </table>
@@ -368,6 +378,90 @@
                 <b>Entonces</b> el tesista puede acceder a los comentarios y revisar el veredicto final emitido para su investigación.
             </td>
             <td>EP03</td>
+        </tr>
+        <tr>
+            <td>US23</td>
+            <td>Verificar indexación de revistas en la plataforma</td>
+            <td>Como tesista, quiero poder verificar si una revista académica está indexada para evaluar su calidad.</td>
+            <td>
+                <b>Scenario 1:</b> Verificación de indexado<br>
+                <b>Dado que</b> ingreso a la plataforma de Research Guard,<br>
+                <b>Cuando</b> selecciono una revista específica<br>
+                <b>Entonces</b> veo claramente si está indexada o no.
+            </td>
+            <td>EP04</td>
+        </tr>
+        <tr>
+            <td>US24</td>
+            <td>Ver el nivel de las revistas en la plataforma</td>
+            <td>Como tesista, deseo conocer el nivel de las revistas académicas para evaluar su prestigio.</td>
+            <td>
+                <b>Scenario 1:</b> Visualización del nivel de revistas<br>
+                <b>Dado que</b> seleccioné los artículos científicos que usaré,<br>
+                <b>Cuando</b> busco la revista del articulo seleccionado<br>
+                <b>Entonces</b> visualizo su nivel de forma clara y precisa.
+            </td>
+            <td>EP04</td>
+        </tr>
+        <tr>
+            <td>US25</td>
+            <td>Exportar referencias bibliográficas desde la plataforma</td>
+            <td>Como tesista, quiero poder exportar las referencias bibliográficas de los trabajos académicos para utilizarlas en mis investigaciones.</td>
+            <td>
+                <b>Scenario 1:</b> Exportación de referencias<br>
+                <b>Dado que</b> ingreso a la plataforma Research Guard,<br>
+                <b>Cuando</b> selecciono un trabajo académico<br>
+                <b>Entonces</b> puedo exportar sus referencias en formatos comunes como APA, MLA, etc.
+            </td>
+            <td>EP05</td>
+        </tr>
+        <tr>
+            <td>US26</td>
+            <td>Filtrar trabajos académicos por autor en la plataforma</td>
+            <td>Como tesista, deseo filtrar trabajos académicos por autor para encontrar fácilmente las publicaciones de un autor específico.</td>
+            <td>
+                <b>Scenario 1:</b> Filtrado por Autor<br>
+                <b>Dado que</b> entro a la plataforma Research Guard,<br>
+                <b>Cuando</b> ingreso el nombre del autor en el campo de búsqueda<br>
+                <b>Entonces</b> se muestran todos los trabajos académicos relacionados con ese autor.
+            </td>
+            <td>EP01</td>
+        </tr>
+        <tr>
+            <td>US27</td>
+            <td>Recibir notificaciones sobre nuevos trabajos de un autor</td>
+            <td>Como tesista, quiero recibir notificaciones cuando un autor específico publique un nuevo trabajo académico para estar al tanto de sus últimas investigaciones.</td>
+            <td>
+                <b>Scenario 1:</b> Notificaciones de nuevos trabajos<br>
+                <b>Dado que</b> sigo a un autor,<br>
+                <b>Cuando</b>  ese autor publique un nuevo trabajo académico,<br>
+                <b>Entonces</b> recibo una notificación en mi perfil o correo electrónico, según mis preferencias de configuración.
+            </td>
+            <td>EP01</td>
+        </tr>
+        <tr>
+            <td>US28</td>
+            <td>Crear grupos de investigación en la plataforma</td>
+            <td>Como autor, deseo crear grupos de investigación en la plataforma para colaborar y compartir recursos con otros investigadores en un proyecto específico.</td>
+            <td>
+                <b>Scenario 1:</b> Creación de grupos<br>
+                <b>Dado que</b> soy un autor registrado,<br>
+                <b>Cuando</b>  creo un nuevo grupo de investigación,<br>
+                <b>Entonces</b>  puedo invitar a otros usuarios a unirse al grupo y colaborar en un entorno seguro y privado.
+            </td>
+            <td>EP03</td>
+        </tr>
+        <tr>
+            <td>US29</td>
+            <td>Acceder a métricas de impacto de trabajos académicos</td>
+            <td>Como tesista, acceder a métricas de impacto (citas, descargas, etc.) de trabajos académicos para evaluar su relevancia e influencia en la comunidad académica.</td>
+            <td>
+                <b>Scenario 1:</b>Métricas de impacto<br>
+                <b>Dado que</b> accedo a un trabajo académico,<br>
+                <b>Cuando</b>  navego por las métricas de impacto,<br>
+                <b>Entonces</b>  puedo ver estadísticas actualizadas sobre citas, descargas u otras métricas relevantes.
+            </td>
+            <td>EP02</td>
         </tr>
     </tbody>
 </table>
