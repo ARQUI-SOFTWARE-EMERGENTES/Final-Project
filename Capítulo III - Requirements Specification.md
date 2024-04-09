@@ -497,6 +497,23 @@
             </td>
             <td>EP01</td>
         </tr>
+        <tr>
+            <td>US32</td>
+            <td>Colaboración en la revisión de investigaciones</td>
+            <td>Como autor, quiero poder discutir y colaborar con otros revisores sobre investigaciones específicas para garantizar una evaluación completa y justa.</td>
+            <td>
+                <b>Scenario 1:</b> Inicio de una discusión<br>
+                <b>Dado que</b> el autor tiene asignada una investigación para revisarla<br>
+                <b>Cuando</b> requiere una opinión adicional<br>
+                <b>Entonces</b> solicita la colaboración de otro autor.
+                <br><br>
+                <b>Scenario 2:</b> Respuesta a comentarios<br>
+                <b>Dado que</b> Un autor está revisando una investigación en conjunto con otro<br>
+                <b>Cuando</b> tiene un observación o comentario<br>
+                <b>Entonces</b> la envía a su compañero.
+            </td>
+            <td>EP01</td>
+        </tr>
     </tbody>
 </table>
 
@@ -595,10 +612,10 @@
         </tr>
         <tr>
             <td>12</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US32</td>
+            <td>Colaboración en la revisión de investigaciones</td>
+            <td>Como autor, quiero poder discutir y colaborar con otros revisores sobre investigaciones específicas para garantizar una evaluación completa y justa.</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>13</td>
