@@ -271,68 +271,90 @@
             </td>
             <td>EP03</td>
         </tr>
-        <tr>
+         <tr>
             <td>US15</td>
             <td>Notificaciones sobre nuevas investigaciones relevantes</td>
             <td>Cómo autor quiero recibir notificaciones sobre nuevas investigaciones relevantes en mi campo de estudio para estar al tanto de los avances en la investigación </td>
             <td>
-                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
-                <b>Dada</b> una búsqueda realizada en la plataforma <br>
-                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
-                <b>Y</b> presiona el botón de filtrar <br>
-                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+                <b>Scenario 1:</b> Configuración de Notificaciones <br>
+                <b>Dado que</b> soy un autor registrado en la plataforma <br>
+                <b>Cuando</b> acceda a la configuración de notificaciones en mi perfil <br>
+                <b>Entonces</b> podré habilitar la opción de recibir notificaciones sobre nuevas investigaciones en mi campo de estudio.
+                <br><br>
+                <b>Scenario 2:</b> Selección de Áreas de Estudio <br>
+                <b>Dado que</b> soy un autor registrado y quiero recibir notificaciones sobre investigaciones relevantes en mi campo de estudio específico<br>
+                <b>Cuando</b> acceda a mi perfil de usuario y seleccione las áreas de estudio que me interesan<br>
+                <b>Entonces</b> solo recibiré notificaciones sobre investigaciones relacionadas con esas áreas de estudio seleccionadas.
             </td>
-            <td>EP02</td>
+            <td>EP06</td>
         </tr>
         <tr>
             <td>US16</td>
             <td>Notificaciones automáticas sobre el estado de revisión</td>
             <td>Como autor quiero recibir notificaciones automáticas sobre el estado de revisión de mis trabajos de investigación para mantenerme actualizado sobre su progreso.</td>
             <td>
-                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
-                <b>Dada</b> una búsqueda realizada en la plataforma <br>
-                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
-                <b>Y</b> presiona el botón de filtrar <br>
-                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+                <b>Scenario 1:</b> Registro y Configuración de Notificaciones <br>
+                <b>Dado que</b> soy un autor registrado en la plataforma <br>
+                <b>Cuando</b>  accedo a mi cuenta de autor <br>
+                <b>Entonces</b> debería tener la opción de configurar mis preferencias de notificación sobre el estado de revisión de mis trabajos de investigación.
             </td>
-            <td>EP02</td>
+            <td>EP06</td>
         </tr>
         <tr>
             <td>US17</td>
             <td>Colaboraciones y redes con otros investigadores</td>
             <td>Cómo autor quiero establecer colaboraciones y redes con otros investigadores en mi campo de estudio para fomentar la colaboración y el intercambio de conocimientos en la comunidad académica.</td>
             <td>
-                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
-                <b>Dada</b> una búsqueda realizada en la plataforma <br>
-                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
-                <b>Y</b> presiona el botón de filtrar <br>
-                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+                <b>Scenario 1:</b> Conexión con Investigadores <br>
+                <b>Dado que</b> me encuentro en el perfil del investigador con el que deseo colaborar <br>
+                <b>Cuando</b> cuando haga click en "Conectar" <br>
+                <b>Y</b> el investigador en cuestion acepte conectar <br>
+                <b>Entonces</b> podré enviar una solicitud de colaboración
+                <br/><br/>
+                <b>Scenario 2:</b> Envío de Solicitudes de Colaboración <br>
+                <b>Dado que</b> he conectado con un investigador <br>
+                <b>Cuando</b> cuando haga click en "Solicitar colaboración" <br>
+                <b>Y</b> el investigador en cuestion acepte la solicitud <br>
+                <b>Entonces</b> podré colaborar con el investigador en cuestion
+                <br/><br/>
+                <b>Scenario 3:</b> Aceptación de Solicitudes <br>
+                <b>Dado que</b> he recibido una solicitud de colaboración de otro investigador <br>
+                <b>Cuando</b> reviso la solicitud en mi bandeja de entrada de la plataforma <br>
+                <b>Y</b> estoy interesado en colaborar con ese autor <br>
+                <b>Entonces</b> podré aceptar la solicitud de colaboración
             </td>
-            <td>EP02</td>
+            <td>EP03</td>
         </tr>
         <tr>
             <td>US18</td>
             <td>Herramientas de detección de plagio</td>
             <td>Como autor quiero tener acceso a herramientas de detección de plagio para verificar la originalidad de mis trabajos de investigación para garantizar su calidad y credibilidad.</td>
             <td>
-                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
-                <b>Dada</b> una búsqueda realizada en la plataforma <br>
-                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
-                <b>Y</b> presiona el botón de filtrar <br>
-                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+                <b>Scenario 1:</b> Acceso a Herramientas de Detección de Plagio <br>
+                <b>Dado que</b> soy un autor registrado en la plataforma <br>
+                <b>Cuando</b> subo un trabajo de investigación para su verificación de originalidad mediante la herramienta de detección de plagio <br>
+                <b>Entonces</b> el sistema debería procesar el documento y proporcionar un informe detallado sobre cualquier similitud encontrada con otros trabajos existentes.
             </td>
-            <td>EP02</td>
+            <td>EP03</td>
         </tr>
         <tr>
             <td>US19</td>
             <td>Comentar y discutir investigaciones</td>
             <td>Como usuario quiero poder comentar y discutir investigaciones en la plataforma para participar en la comunidad académica y enriquecer mi comprensión del tema.</td>
             <td>
-                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
-                <b>Dada</b> una búsqueda realizada en la plataforma <br>
-                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
-                <b>Y</b> presiona el botón de filtrar <br>
-                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+                <b>Scenario 1:</b> Comentar Investigaciones <br>
+                <b>Dado que</b> soy un usuario registrado en la plataforma <br>
+                <b>Cuando</b> accedo a una investigación que me interesa <br>
+                <b>Y</b> hago click en la seccion de comentarios <br>
+                <b>Y</b> hago escribo un comentario en la primera casilla de la seccion de comentarios <br>
+                <b>Y</b> hago click en "Comentar" <br>
+                <b>Entonces</b>  debería poder dejar comentarios y opiniones sobre la investigación en dicha sección.
+                <br><br>
+                <b>Scenario 2:</b> Visualización de Comentarios <br>
+                <b>Dado que</b> soy un usuario registrado en la plataforma <br>
+                <b>Cuando</b> accedo a una investigación que me interesa <br>
+                <b>Y</b> hago click en la seccion de comentarios <br>
+                <b>Entonces</b>  debería poder ver todos los comentarios dejados por otros usuarios en la misma investigación.
             </td>
             <td>EP02</td>
         </tr>
@@ -341,26 +363,24 @@
             <td>Recibir notificaciones sobre comentarios</td>
             <td>Como autor quiero recibir notificaciones sobre comentarios de mis investigaciones para estar al tanto del feedback de la comunidad académica.</td>
             <td>
-                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
-                <b>Dada</b> una búsqueda realizada en la plataforma <br>
-                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
-                <b>Y</b> presiona el botón de filtrar <br>
-                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+                <b>Scenario 1:</b> Recepción de Notificaciones <br>
+                <b>Dado que</b> soy un autor registrado en la plataforma <br>
+                <b>Cuando</b> alguien deja un comentario en una de mis investigaciones <br>
+                <b>Entonces</b> debería recibir una notificación automática en la plataforma, informándome sobre el comentario y proporcionando un enlace directo para acceder a él.
             </td>
-            <td>EP02</td>
+            <td>EP06</td>
         </tr>
         <tr>
             <td>US21</td>
             <td>Gestionar perfil</td>
             <td>Como usuario quiero gestionar mi perfil para mostrar mi trayectoria académica y mejorar mi credibilidad la comunidad académica.</td>
             <td>
-                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
-                <b>Dada</b> una búsqueda realizada en la plataforma <br>
-                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
-                <b>Y</b> presiona el botón de filtrar <br>
-                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+                <b>Scenario 1:</b> Edición de Perfil <br>
+                <b>Dado que</b> soy un usuario registrado en la plataforma <br>
+                <b>Cuando</b> accedo a mi perfil personal <br>
+                <b>Entonces</b>  debería poder editar la información de mi perfil, incluyendo mi nombre, institución académica, área de estudio, experiencia académica, logros y cualquier otra información relevante.
             </td>
-            <td>EP02</td>
+            <td>EP01</td>
         </tr>
         <tr>
             <td>US22</td>
