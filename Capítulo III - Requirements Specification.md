@@ -552,7 +552,7 @@
             <td>EP03</td>
         </tr>
         <tr>
-            <td>US33</td>
+            <td>US34</td>
             <td>Acceso a investigaciones en múltiples formatos</td>
             <td>Como autor, deseo acceder y descargar las investigaciones en una variedad de formatos, como PDF, Word o LaTeX, para poder revisarlas de manera conveniente y eficiente.</td>
             <td>
@@ -567,6 +567,18 @@
                 <b>Entonces</b> el archivo se descarga en el formato especificado.
             </td>
             <td>EP03</td>
+        </tr>
+        <tr>
+            <td>US35</td>
+            <td>Ordenar resultados por fecha</td>
+            <td>Como usuario quiero tener la opción de ordenar los resultados de búsqueda por fecha para identificar los papers más recientes en mi campo de estudio.</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de ordenamiento de publicación por fecha <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona la opción de ordenar los resultados por fecha <br>
+                <b>Entonces</b> se muestran las publicaciones ordenadas de más reciente a más antiguo.
+            </td>
+            <td>EP02</td>
         </tr>
     </tbody>
 </table>
@@ -743,10 +755,10 @@
         </tr>
         <tr>
             <td>23</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US35</td>
+            <td>Ordenar resultados por fecha</td>
+            <td>Como usuario quiero tener la opción de ordenar los resultados de búsqueda por fecha para identificar los papers más recientes en mi campo de estudio.</td>
+            <td>3</td>
         </tr>
         <tr>
             <td>24</td>
