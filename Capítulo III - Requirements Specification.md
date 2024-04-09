@@ -25,7 +25,7 @@
         <tr>
             <td>EP03</td>
             <td>Registro de Investigaciones Académicas</td>
-            <td>Como usuario, deseo solicitar la revisión de mis investigaciones para que sea evaluada para su publicación en una revista académica.</td>
+            <td>Como usuario, deseo solicitar la revisión de mis investigaciones para que sean evaluadas para su publicación en una revista académica.</td>
         </tr>
         <tr>
             <td>EP04</td>
@@ -532,7 +532,41 @@
                 <b>Cuando</b> tiene un observación o comentario<br>
                 <b>Entonces</b> la envía a su compañero.
             </td>
-            <td>EP01</td>
+            <td>EP03</td>
+        </tr>
+        <tr>
+            <td>US33</td>
+            <td>Visualización del plazo de revisión</td>
+            <td>Como autor, deseo poder visualizar claramente el plazo de tiempo restante para revisar una investigación asignada, para gestionar eficientemente mi tiempo.</td>
+            <td>
+                <b>Scenario 1:</b> Plazo restante<br>
+                <b>Dado que</b> el autor desea ver cuánto tiempo le queda para revisar una investigación<br>
+                <b>Cuando</b> selecciona la investigación asignada<br>
+                <b>Entonces</b> el sistema muestra información relevante de la investigación como las fechas importantes.
+                <br><br>
+                <b>Scenario 2:</b> Extensión de plazo<br>
+                <b>Dado que</b> el autor desea extender el plazo de revisión de una investigación<br>
+                <b>Cuando</b> solicita la extensión<br>
+                <b>Entonces</b> el sistema actualiza las fechas importantes de la revisión. 
+            </td>
+            <td>EP03</td>
+        </tr>
+        <tr>
+            <td>US33</td>
+            <td>Acceso a investigaciones en múltiples formatos</td>
+            <td>Como autor, deseo acceder y descargar las investigaciones en una variedad de formatos, como PDF, Word o LaTeX, para poder revisarlas de manera conveniente y eficiente.</td>
+            <td>
+                <b>Scenario 1:</b> Descarga en PDF<br>
+                <b>Dado que</b> el autor se encuentra en la vista de revisión de una investigación<br>
+                <b>Cuando</b> selecciona la opción "Descargar archivo como pdf"<br>
+                <b>Entonces</b> el archivo se descarga en el formato especificado.
+                <br><br>
+                <b>Scenario 2:</b> Descarga en Word<br>
+                <b>Dado que</b> el autor se encuentra en la vista de revisión de una investigación<br>
+                <b>Cuando</b> selecciona la opción "Descargar archivo como documento word"<br>
+                <b>Entonces</b> el archivo se descarga en el formato especificado.
+            </td>
+            <td>EP03</td>
         </tr>
     </tbody>
 </table>
@@ -639,17 +673,17 @@
         </tr>
         <tr>
             <td>13</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US33</td>
+            <td>Visualización del plazo de revisión</td>
+            <td>Como autor, deseo poder visualizar claramente el plazo de tiempo restante para revisar una investigación asignada, para gestionar eficientemente mi tiempo.</td>
+            <td>2</td>
         </tr>
         <tr>
             <td>14</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US34</td>
+            <td>Acceso a investigaciones en múltiples formatos</td>
+            <td>Como autor, deseo acceder y descargar las investigaciones en una variedad de formatos, como PDF, Word o LaTeX, para poder revisarlas de manera conveniente y eficiente.</td>
+            <td>3</td>
         </tr>
         <tr>
             <td>15</td>
