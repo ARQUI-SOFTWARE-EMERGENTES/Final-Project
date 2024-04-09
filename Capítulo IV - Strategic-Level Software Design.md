@@ -186,6 +186,128 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
 
 ## Architectural Design Decisions
 
+<table>
+    <thead>
+        <tr>
+            <th rowspan=2>Driver ID</th>
+            <th rowspan=2>Título del driver</th>
+            <th colspan=2>Factory Method</th>
+            <th colspan=2>Decorator</th>
+            <th colspan=2>Singleton</th>
+        </tr>
+        <tr>
+            <th>Pro</th>
+            <th>Con</th>
+            <th>Pro</th>
+            <th>Con</th>
+            <th>Pro</th>
+            <th>Con</th>
+        </tr>
+    <thead>
+    <tbody>
+        <tr>
+            <td>D1</td>
+            <td>Publicar paper</td>
+            <td>Permite publicar papers sin preocuparse en la implementación exactos</td>
+            <td>Complicación si existe sobrecarga de clases</td>
+            <td>Puede desarrollar nuevas funcionalidades sin modificar el código existente</td>
+            <td>Dificultad para especificar funcionalidades específicas</td>
+            <td>Facilita la gestión de recursos entre la apalicación y el blockchain</td>
+            <td>Genera un acoplamiento fuerte entre los componentes</td>
+        </tr>
+        <tr>
+            <td>D2</td>
+            <td>Visualizar paper</td>
+            <td>Reusabilidad del código</td>
+            <td>Existe una complejidad inicial al implementar el patrón</td>
+            <td>Reusar código para distintos tipos de visualización</td>
+            <td>Pérdida de rendimiento al haber mayor número de objetos involucrados</td>
+            <td>Acceso centralizado a una instancia para visualizar un paper</td>
+            <td>Es complejo para adaptar cambios en un futuro</td>
+        </tr>
+        <tr>
+            <td>D3</td>
+            <td>Guardar papers</td>
+            <td>Facilidad en la creación de nuevas implementaciones</td>
+            <td>Posible problemas de rendimiento</td>
+            <td>Agregar distintas funcionalidades sin alterar el código base</td>
+            <td>Al agregar varios objetos, puede haber una sobrecarga de memoria</td>
+            <td>Garantiza que haya una sola clase para guardar papers</td>
+            <td>Limitación en cuanto a cambios o nuevas funcionalidades</td>
+        </tr>
+        <tr>
+            <td>D4</td>
+            <td>Buscar papers</td>
+            <td>Permite manejar distintos tipos de búsqueda sin necesidad de modificar el código</td>
+            <td>Aumenta la complejidad de mantenimiento de la funcionalidad</td>
+            <td>Crear diferentes decoradores para buscar mediante distintos tipos de criterios</td>
+            <td>Tiempo de carga alta al haber más objetos involucrados</td>
+            <td>Permite conservar el estado de la búsqueda</td>
+            <td>Díficil de mantener</td>
+        </tr>
+        <tr>
+            <td>D5</td>
+            <td>Aplicación rápida</td>
+            <td>Mejora la modularidad y separa responsabilidades</td>
+            <td>Puede agregar una complegidad innecesaria al proyecto</td>
+            <td>Permite rapidez en el desarrollo de nuevas funcionalidades</td>
+            <td>Es necesario diseñar correctamenta la arquitectura para evitar sobrecarga de objetos</td>
+            <td>Optimiza los recursos del sistema</td>
+            <td>Alto potencial en generar cuellos de botellas</td>
+        </tr>
+        <tr>
+            <td>D6</td>
+            <td>Seguridad en la aplicación</td>
+            <td>Permite centralizar la gestión de seguridad en un solo lugar</td>
+            <td>El fallo en la implementación del patrón puede exponer a vulneerabilidades</td>
+            <td>Se puede aumentar capas de seguridad mediante decoradores</td>
+            <td>Requiere una complejidad adicional para el desarrollo</td>
+            <td>Permite implementar la seguridad en una sola clase</td>
+            <td>Si una clase se ve compromentida, puede dañar gran parte de la aplaicación</td>
+        </tr>
+        <tr>
+            <td>D7</td>
+            <td>Filtrar papers por año</td>
+            <td>Reutilizar el código y evitar la duplicidad</td>
+            <td>Sobrecarga de clases</td>
+            <td>Crear nuevos criterios de filtrado fácilmente</td>
+            <td>Alto potencial en tener complejidad excesiva</td>
+            <td>Evita incosistencia de resultados</td>
+            <td>Limita la escabilidad cuando hay una mayor cantidad de criterios</td>
+        </tr>
+        <tr>
+            <td>D8</td>
+            <td>Ordenar papers por rating</td>
+            <td>Ayuda a la separación de responsabilidades</td>
+            <td>Si la cantidad de papers es amplia, puede haber problemas de rendimiento</td>
+            <td>Promueve la modularidad, lo que es más fácil de mantener y entender</td>
+            <td>Si hay muchos criterios, puede generar una sobrecarga</td>
+            <td>Centralizar el proceso de ordenación para la correcta gestión</td>
+            <td>Si hay muchos criterios, se limita su escalabilidad</td>
+        </tr>
+        <tr>
+            <td>D9</td>
+            <td>Visualizar perfil</td>
+            <td>Permite flexibilidad en caso ocurra cambios en los requisitos</td>
+            <td>Puede agregar complejidad en el proyecto si los beneficios no son relevantes</td>
+            <td>Permite agregar o modificar componentes visuales fácilmente</td>
+            <td>Aumenta la complejidad de la arquitectura de la aplicación</td>
+            <td>Consistencia de los datos</td>
+            <td>Alto acoplamiento de la aplicación</td>
+        </tr>
+        <tr>
+            <td>D10</td>
+            <td>Escribir comentarios</td>
+            <td>Abstrae la lógica de negocio de los comentarios</td>
+            <td>Se pueden crear varias clases para distintos tipo, lo que genera en una sobrecarga.</td>
+            <td>Permite la separación de responsabilidades</td>
+            <td>El exceso de decoradores repercute en el rendimiento</td>
+            <td>Optimización de recursos al evitar crear objetos innecesarios</td>
+            <td>Dificultad para la concurrencia</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Quality Attribute Scenario Refinements
 
 # Strategic-Level Domain-Driven Design
