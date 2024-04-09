@@ -100,6 +100,90 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
 
 ## Architectural Drivers Backlog
 
+<table>
+    <thead>
+        <tr>
+            <th>Driver ID</th>
+            <th>Título de Driver</th>
+            <th>Descripción</th>
+            <th>Importancia para Stakeholders (High, Medium, Low)</th>
+            <th>Impacto en Architecture Technical Complexity (High, Medium, Low)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>D1</td>
+            <td>Publicar paper</td>
+            <td>Como investigador quiero publicar mis papers en la blockchain para evitar mantener la integridad de mis trabajos</td>
+            <td>High</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>D2</td>
+            <td>Visualizar paper</td>
+            <td>Como tesista quiero visualizar papers para tenerlas como referencias en mi tesis</td>
+            <td>High</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>D3</td>
+            <td>Guardar papers</td>
+            <td>Como tesista quiero guardar papers para tenerlas en la mano cuando lo necesite</td>
+            <td>High</td>
+            <td>Medium</td>
+        </tr>
+        <tr>
+            <td>D4</td>
+            <td>Buscar papers</td>
+            <td>Como tesistas quiero buscar papers con palabras claves para encontrar los papers relacionados con mi tema de investigación</td>
+            <td>High</td>
+            <td>Medium</td>
+        </tr>
+        <tr>
+            <td>D5</td>
+            <td>Aplicación rápida</td>
+            <td>Como usuario quiero que la aplicación sea rápida para no perder tiempo en cargas lentas</td>
+            <td>High</td>
+            <td>Medium</td>
+        </tr>
+        <tr>
+            <td>D6</td>
+            <td>Seguridad en la aplicación</td>
+            <td>Como usuario quiero que la aplicación sea segura para evitar hackeos y filtraciones de datos</td>
+            <td>High</td>
+            <td>Medium</td>
+        </tr>
+        <tr>
+            <td>D7</td>
+            <td>Filtrar papers por año</td>
+            <td>Como tesista quiero filtrar papers por año para obtener los papers de los años que necesito</td>
+            <td>Medium</td>
+            <td>Low</td>
+        </tr>
+        <tr>
+            <td>D8</td>
+            <td>Ordenar papers por rating</td>
+            <td>Como tesista quiero ordenar los resultados por rating para visualizar los mejores papers por la comunidad</td>
+            <td>Medium</td>
+            <td>Low</td>
+        </tr>
+        <tr>
+            <td>D9</td>
+            <td>Visualizar perfil</td>
+            <td>Como investigador quiero tener un perfil para que puedan ver mi trayectoria y me puedan contactar</td>
+            <td>Low</td>
+            <td>Low</td>
+        </tr>
+        <tr>
+            <td>D10</td>
+            <td>Escribir comentarios</td>
+            <td>Como tesista quiero escribir comentarios en los papers para dar una opinión personal a la comunidad</td>
+            <td>Low</td>
+            <td>Low</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Architectural Design Decisions
 
 ## Quality Attribute Scenario Refinements
