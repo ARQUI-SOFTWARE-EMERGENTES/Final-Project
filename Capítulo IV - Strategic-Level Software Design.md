@@ -85,26 +85,6 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP03</td>
         </tr>
         <tr>
-            <td>US19</td>
-            <td>Comentar y discutir investigaciones</td>
-            <td>
-                <b>Scenario 1:</b> Comentar Investigaciones <br>
-                <b>Dado que</b> soy un usuario registrado en la plataforma <br>
-                <b>Cuando</b> accedo a una investigación que me interesa <br>
-                <b>Y</b> hago click en la seccion de comentarios <br>
-                <b>Y</b> hago escribo un comentario en la primera casilla de la seccion de comentarios <br>
-                <b>Y</b> hago click en "Comentar" <br>
-                <b>Entonces</b>  debería poder dejar comentarios y opiniones sobre la investigación en dicha sección.
-                <br><br>
-                <b>Scenario 2:</b> Visualización de Comentarios <br>
-                <b>Dado que</b> soy un usuario registrado en la plataforma <br>
-                <b>Cuando</b> accedo a una investigación que me interesa <br>
-                <b>Y</b> hago click en la seccion de comentarios <br>
-                <b>Entonces</b>  debería poder ver todos los comentarios dejados por otros usuarios en la misma investigación.
-            </td>
-            <td>EP02</td>
-        </tr>
-        <tr>
             <td>US22</td>
             <td>Seguimiento del proceso</td>
             <td>
@@ -130,28 +110,6 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
                 <b>Entonces</b> visualizo su nivel de forma clara y precisa.
             </td>
             <td>EP04</td>
-        </tr>
-        <tr>
-            <td>US25</td>
-            <td>Exportar referencias bibliográficas desde la plataforma</td>
-            <td>
-                <b>Scenario 1:</b> Exportación de referencias<br>
-                <b>Dado que</b> ingreso a la plataforma Research Guard,<br>
-                <b>Cuando</b> selecciono un trabajo académico<br>
-                <b>Entonces</b> puedo exportar sus referencias en formatos comunes como APA, MLA, etc.
-            </td>
-            <td>EP05</td>
-        </tr>
-        <tr>
-            <td>US28</td>
-            <td>Crear grupos de investigación en la plataforma</td>
-            <td>
-                <b>Scenario 1:</b> Creación de grupos<br>
-                <b>Dado que</b> soy un autor registrado,<br>
-                <b>Cuando</b>  creo un nuevo grupo de investigación,<br>
-                <b>Entonces</b>  puedo invitar a otros usuarios a unirse al grupo y colaborar en un entorno seguro y privado.
-            </td>
-            <td>EP03</td>
         </tr>
         <tr>
             <td>US29</td>
@@ -199,7 +157,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
     </tbody>
 </table>
 
-### Quality attribute Scenarios
+### Quality Attribute Scenarios
 
 <table>
     <thead>
@@ -216,7 +174,94 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
     </thead>
     <tbody>
         <tr>
-            <td></td>
+            <td>QA1</td>
+            <td>Rendimiento</td>
+            <td>Usuario</td>
+            <td>Realiza una búsqueda de palabras clave</td>
+            <td>Sistema de búsqueda</td>
+            <td>Plataforma de investigación</td>
+            <td>Mostrar resultados relevantes dentro de un tiempo razonable</td>
+            <td>Tiempo de respuesta</td>
+        </tr>
+        <tr>
+            <td>QA2</td>
+            <td>Usabilidad</td>
+            <td>Usuario</td>
+            <td>Publicar paper</td>
+            <td>Funcionalidad de carga de archivos</td>
+            <td>Interfaz de usuario</td>
+            <td>Permite al usuario seleccionar fácilmente un archivo y recibir retroalimentación clara sobre la carga exitosa o los errores de validación</td>
+            <td>Tasa de éxito de carga, claridad de los mensajes de error</td>
+        </tr>
+        <tr>
+            <td>QA4</td>
+            <td>Fiabilidad</td>
+            <td>Usuario</td>
+            <td>Visualizar paper</td>
+            <td>Motor de búsqueda interno</td>
+            <td>Plataforma de investigación</td>
+            <td>Proporciona acceso constante y confiable a los trabajos académicos sin errores de servidor o interrupciones inesperadas</td>
+            <td>Disponibilidad del servicio, tiempo medio entre fallos</td>
+        </tr>
+        <tr>
+            <td>QA5</td>
+            <td>Mantenibilidad</td>
+            <td>Humano</td>
+            <td>Uso de la solución</td>
+            <td>Sistema</td>
+            <td>En ejecución</td>
+            <td>Facilidad para realizar actualizaciones y mejoras en el sistema sin interrupciones significativas del servicio</td>
+            <td>Tiempo de inactividad planificada menor a un segundo.</td>
+        </tr>
+        <tr>
+            <td>QA6</td>
+            <td>Escalabilidad</td>
+            <td>Usuario</td>
+            <td>Aplicación rápida</td>
+            <td>Servidores de aplicación</td>
+            <td>Entorno de producción</td>
+            <td>El sistema maneja un aumento en la carga sin degradación del rendimiento</td>
+            <td>Throughput, tiempo de respuesta bajo carga</td>
+        </tr>
+        <tr>
+            <td>QA7</td>
+            <td>Eficiencia de desempeño</td>
+            <td>Humano</td>
+            <td>Visualizar perfil</td>
+            <td>Sistema</td>
+            <td>En ejecución</td>
+            <td>Tiempo de carga rápidde datos</td>
+            <td>En menos de 5 segundos</td>
+        </tr>
+        <tr>
+            <td>QA8</td>
+            <td>Seguridad</td>
+            <td>Humano</td>
+            <td>Acceso a la aplicación</td>
+            <td>Mecanismos de autenticación y autorización</td>
+            <td>Entorno de producción</td>
+            <td>La aplicación verifica las credenciales del usuario y garantiza que solo los usuarios autorizados puedan acceder a funcionalidades sensibles o datos confidenciales.</td>
+            <td>Tasa de éxito en la autenticación, detección de intentos de acceso no autorizados.</td>
+        </tr>
+        <tr>
+            <td>QA9</td>
+            <td>Usabilidad</td>
+            <td>Usuario</td>
+            <td>Filtrar y ordenar papers</td>
+            <td>Funcionalidad de filtrado y ordenamiento</td>
+            <td>Interfaz de usuario</td>
+            <td>Permite al usuario filtrar y ordenar los papers de manera intuitiva y eficiente, facilitando la búsqueda de información relevante.</td>
+            <td>Tiempo necesario para filtrar y ordenar, facilidad de uso de las herramientas de filtrado y ordenamiento.</td>
+        </tr>
+        <tr>
+            <td>QA10</td>
+            <td>Usabilidad</td>
+            <td>Usuario</td>
+            <td>Escribir comentarios</td>
+            <td>Funcionalidad de comentarios</td>
+            <td>Interfaz de usuario</td>
+            <td>Permite al usuario escribir comentarios de manera clara y sencilla, facilitando la comunicación y colaboración entre usuarios.</td>
+            <td>Tiempo necesario para escribir comentarios, facilidad de uso del sistema de comentarios.</td>
         </tr>
     </tbody>
 </table>
