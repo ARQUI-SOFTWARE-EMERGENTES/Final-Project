@@ -33,6 +33,29 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP02</td>
         </tr>
         <tr>
+            <td>US08</td>
+            <td>Filtrar resultados por fecha</td>
+            <td>
+                <b>Scenario 1:</b> Aplicación de filtros por fecha de publicación <br>
+                <b>Dada</b> una búsqueda realizada en la plataforma <br>
+                <b>Cuando</b> el usuario selecciona un rango de fechas <br>
+                <b>Y</b> presiona el botón de filtrar <br>
+                <b>Entonces</b> se muestran las publicaciones con fechas dentro del rango establecido.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US12</td>
+            <td>Leer paper completo</td>
+            <td>
+                <b>Scenario 1:</b> Redirección a página de publicación <br>
+                <b>Dada</b> una publicación seleccionada <br>
+                <b>Cuando</b> el usuario selecciona la opción de leer el paper completo <br>
+                <b>Entonces</b> se redirige a la página de publicación original. <br>
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
             <td>US14</td>
             <td>Subir investigación</td>
             <td>
@@ -54,8 +77,124 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>US18</td>
             <td>Herramientas de detección de plagio</td>
             <td>
+                <b>Scenario 1:</b> Acceso a Herramientas de Detección de Plagio <br>
+                <b>Dado que</b> soy un autor registrado en la plataforma <br>
+                <b>Cuando</b> subo un trabajo de investigación para su verificación de originalidad mediante la herramienta de detección de plagio <br>
+                <b>Entonces</b> el sistema debería procesar el documento y proporcionar un informe detallado sobre cualquier similitud encontrada con otros trabajos existentes.
             </td>
-            <td></td>
+            <td>EP03</td>
+        </tr>
+        <tr>
+            <td>US19</td>
+            <td>Comentar y discutir investigaciones</td>
+            <td>
+                <b>Scenario 1:</b> Comentar Investigaciones <br>
+                <b>Dado que</b> soy un usuario registrado en la plataforma <br>
+                <b>Cuando</b> accedo a una investigación que me interesa <br>
+                <b>Y</b> hago click en la seccion de comentarios <br>
+                <b>Y</b> hago escribo un comentario en la primera casilla de la seccion de comentarios <br>
+                <b>Y</b> hago click en "Comentar" <br>
+                <b>Entonces</b>  debería poder dejar comentarios y opiniones sobre la investigación en dicha sección.
+                <br><br>
+                <b>Scenario 2:</b> Visualización de Comentarios <br>
+                <b>Dado que</b> soy un usuario registrado en la plataforma <br>
+                <b>Cuando</b> accedo a una investigación que me interesa <br>
+                <b>Y</b> hago click en la seccion de comentarios <br>
+                <b>Entonces</b>  debería poder ver todos los comentarios dejados por otros usuarios en la misma investigación.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US22</td>
+            <td>Seguimiento del proceso</td>
+            <td>
+                <b>Scenario 1:</b> Estado de Revisión Actualizado<br>
+                <b>Dado que</b> el tesista se encuentra en la sección "Mis Investigaciones"<br>
+                <b>Cuando</b> selecciona la opción "Seguimiento" de una de las  investigaciones enviadas<br>
+                <b>Entonces</b> encuentra que el estado de revisión de su investigación ha sido actualizado.
+                <br><br>
+                <b>Scenario 2:</b> Revisión Completada<br>
+                <b>Dado que</b> el tesista recibe una notificación de que el proceso de revisión de su investigación ha sido completado<br>
+                <b>Cuando</b> selecciona la opción "Seguimiento" de su investigación<br>
+                <b>Entonces</b> el tesista puede acceder a los comentarios y revisar el veredicto final emitido para su investigación.
+            </td>
+            <td>EP03</td>
+        </tr>
+        <tr>
+            <td>US24</td>
+            <td>Ver el nivel de las revistas en la plataforma</td>
+            <td>
+                <b>Scenario 1:</b> Visualización del nivel de revistas<br>
+                <b>Dado que</b> seleccioné los artículos científicos que usaré,<br>
+                <b>Cuando</b> busco la revista del articulo seleccionado<br>
+                <b>Entonces</b> visualizo su nivel de forma clara y precisa.
+            </td>
+            <td>EP04</td>
+        </tr>
+        <tr>
+            <td>US25</td>
+            <td>Exportar referencias bibliográficas desde la plataforma</td>
+            <td>
+                <b>Scenario 1:</b> Exportación de referencias<br>
+                <b>Dado que</b> ingreso a la plataforma Research Guard,<br>
+                <b>Cuando</b> selecciono un trabajo académico<br>
+                <b>Entonces</b> puedo exportar sus referencias en formatos comunes como APA, MLA, etc.
+            </td>
+            <td>EP05</td>
+        </tr>
+        <tr>
+            <td>US28</td>
+            <td>Crear grupos de investigación en la plataforma</td>
+            <td>
+                <b>Scenario 1:</b> Creación de grupos<br>
+                <b>Dado que</b> soy un autor registrado,<br>
+                <b>Cuando</b>  creo un nuevo grupo de investigación,<br>
+                <b>Entonces</b>  puedo invitar a otros usuarios a unirse al grupo y colaborar en un entorno seguro y privado.
+            </td>
+            <td>EP03</td>
+        </tr>
+        <tr>
+            <td>US29</td>
+            <td>Acceder a métricas de impacto de trabajos académicos</td>
+            <td>
+                <b>Scenario 1:</b>Métricas de impacto<br>
+                <b>Dado que</b> accedo a un trabajo académico,<br>
+                <b>Cuando</b>  navego por las métricas de impacto,<br>
+                <b>Entonces</b>  puedo ver estadísticas actualizadas sobre citas, descargas u otras métricas relevantes.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US30</td>
+            <td>Roles y permisos</td>
+            <td>
+                <b>Scenario 1:</b> Ingreso a la plataforma como tesista<br>
+                <b>Dado que</b> creé una cuenta como tesista<br>
+                <b>Cuando</b> inicie sesión<br>
+                <b>Entonces</b> tendré acceso a todas las funcionalidades de un tesista.
+                <br><br>
+                <b>Scenario 2:</b> Ingreso a la plataforma como Autor<br>
+                <b>Dado que</b> creé una cuenta como autor<br>
+                <b>Cuando</b> inicie sesión <br>
+                <b>Entonces</b> tendré acceso a todas las funcionalidades de un autor.
+            </td>
+            <td>EP01</td>
+        </tr>
+        <tr>
+            <td>US31</td>
+            <td>Aceptación de la investigación</td>
+            <td>
+                <b>Scenario 1:</b> Confirmación exitosa<br>
+                <b>Dado que</b> se ha terminado de revisar una investigación<br>
+                <b>Cuando</b> el autor confirme la publicación del estudio<br>
+                <b>Entonces</b> se muestra un mensaje indicando que el estudio ha sido almacenado en un repositorio académico de manera exitosa.
+                <br><br>
+                <b>Scenario 2:</b> Confirmación Pendiente<br>
+                <b>Dado que</b> se ha terminado de revisar una investigación<br>
+                <b>Cuando</b> el autor confirme la publicación del estudio<br>
+                <b>Entonces</b> el sistema muestra un mensaje indicando que la investigación está en proceso de ser almacenada en el repositorio académico.
+            </td>
+            <td>EP01</td>
         </tr>
     </tbody>
 </table>
