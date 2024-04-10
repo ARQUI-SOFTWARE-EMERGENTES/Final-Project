@@ -699,59 +699,59 @@
         </tr>
         <tr>
             <td>15</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US18</td>
+            <td>Herramientas de detección de plagio</td>
+            <td>Como autor quiero tener acceso a herramientas de detección de plagio para verificar la originalidad de mis trabajos de investigación para garantizar su calidad y credibilidad.</td>
+            <td>8</td>
         </tr>
         <tr>
             <td>16</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US28</td>
+            <td>Crear grupos de investigación en la plataforma</td>
+            <td>Como autor, deseo crear grupos de investigación en la plataforma para colaborar y compartir recursos con otros investigadores en un proyecto específico.</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>17</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US29</td>
+            <td>Acceder a métricas de impacto de trabajos académicos</td>
+            <td>Como tesista, acceder a métricas de impacto (citas, descargas, etc.) de trabajos académicos para evaluar su relevancia e influencia en la comunidad académica.</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>18</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US17</td>
+            <td>Colaboraciones y redes con otros investigadores</td>
+            <td>Cómo autor quiero establecer colaboraciones y redes con otros investigadores en mi campo de estudio para fomentar la colaboración y el intercambio de conocimientos en la comunidad académica.</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>19</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US19</td>
+            <td>Comentar y discutir investigaciones</td>
+            <td>Como usuario quiero poder comentar y discutir investigaciones en la plataforma para participar en la comunidad académica y enriquecer mi comprensión del tema.</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>20</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US23</td>
+            <td>Verificar indexación de revistas en la plataforma</td>
+            <td>Como tesista, quiero poder verificar si una revista académica está indexada para evaluar su calidad.</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>21</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US24</td>
+            <td>Ver el nivel de las revistas en la plataforma</td>
+            <td>Como tesista, deseo conocer el nivel de las revistas académicas para evaluar su prestigio.</td>
+            <td>1</td>
         </tr>
         <tr>
             <td>22</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US21</td>
+            <td>Gestionar perfil</td>
+            <td>Como usuario quiero gestionar mi perfil para mostrar mi trayectoria académica y mejorar mi credibilidad la comunidad académica.</td>
+            <td>3</td>
         </tr>
         <tr>
             <td>23</td>
@@ -762,48 +762,83 @@
         </tr>
         <tr>
             <td>24</td>
-            <td>US</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US15</td>
+            <td>Notificaciones sobre nuevas investigaciones relevantes</td>
+            <td>Cómo autor quiero recibir notificaciones sobre nuevas investigaciones relevantes en mi campo de estudio para estar al tanto de los avances en la investigación</td>
+            <td>1</td>
         </tr>
         <tr>
             <td>25</td>
+            <td>US25</td>
+            <td>Exportar referencias bibliográficas desde la plataforma</td>
+            <td>Como tesista, quiero poder exportar las referencias bibliográficas de los trabajos académicos para utilizarlas en mis investigaciones.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>US27</td>
+            <td>Recibir notificaciones sobre nuevos trabajos de un autor</td>
+            <td>Como tesista, quiero recibir notificaciones cuando un autor específico publique un nuevo trabajo académico para estar al tanto de sus últimas investigaciones.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>US26</td>
+            <td>Filtrar trabajos académicos por autor en la plataforma</td>
+            <td>Como tesista, deseo filtrar trabajos académicos por autor para encontrar fácilmente las publicaciones de un autor específico.</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>US16</td>
+            <td>Notificaciones automáticas sobre el estado de revisión</td>
+            <td>Como autor quiero recibir notificaciones automáticas sobre el estado de revisión de mis trabajos de investigación para mantenerme actualizado sobre su progreso.</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>US20</td>
+            <td>Recibir notificaciones sobre comentarios</td>
+            <td>Como autor quiero recibir notificaciones sobre comentarios de mis investigaciones para estar al tanto del feedback de la comunidad académica.</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>30</td>
             <td>US01</td>
             <td>Registrar cuenta</td>
             <td>Como usuario deseo registrar una cuenta para crear mi perfil.</td>
             <td>5</td>
         </tr>
         <tr>
-            <td>26</td>
+            <td>31</td>
             <td>US02</td>
             <td>Iniciar sesión</td>
             <td>Como usuario deseo iniciar sesión para acceder a la aplicación.</td>
             <td>3</td>
         </tr>
         <tr>
-            <td>27</td>
+            <td>32</td>
             <td>US03</td>
             <td>Cerrar sesión</td>
             <td>Como usuario deseo cerrar sesión para salir de mi cuenta.</td>
             <td>1</td>
         </tr>
         <tr>
-            <td>28</td>
+            <td>33</td>
             <td>US04</td>
             <td>Correo electrónico para cambiar contraseña</td>
             <td>Como usuario deseo enviar un correo electrónico para cambiar mi contraseña</td>
             <td>3</td>
         </tr>
         <tr>
-            <td>29</td>
+            <td>34</td>
             <td>US05</td>
             <td>Cambiar contraseña</td>
             <td>Como usuario deseo cambiar mi contraseña para acceder nuevamente a mi cuenta.</td>
             <td>3</td>
         </tr>
         <tr>
-            <td>30</td>
+            <td>35</td>
             <td>US06</td>
             <td>Eliminar cuenta</td>
             <td>Como usuario deseo eliminar mi cuenta para borrar todos los datos de la aplicación</td>
