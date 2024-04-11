@@ -290,6 +290,17 @@
 
 **Resumen**: Paulo nos cuenta que tiene pocas esperanzas en que su tesis sea publicada en una revista Q1. Asimismo, para la validación de sus fuentes, realiza el analisis de meta-data, para saber si la fuente es confiable. Además, menciona que el sistema actual es tedioso y quisiera un sistema que permita visualizar si la revista es indexada y el nivel de la revista.
 
+#### Entrevistado 4
+
+* **Nombre**: Joseph Carrillo
+* **Link**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a972_upc_edu_pe/EeUTCYU0MZpJpOL3cqDxdcYBdYLaErpVofEL-9N-bTDZgg?e=6rfGvQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+* **Duración**: 9:29
+* **Captura**:
+
+  ![Entrevista a usuario Tesista](images/screenshots-interview/Entrevista%20Tesista%204.png)
+
+* **Resumen**: Como un estudiante que se encuentra realizando investigaciones académicas, Joseph comenta que tiene dudas sobre los requisitos que se necesitan cumplir para publicar una investigación en una revista científica, ya que, en algunas revistas, los requisitos pueden ser más rigurosos que en otros. Además, nos comenta que, para validar la veracidad de sus fuentes, él se fija en que la investigación esté publicada en su totalidad. Comenta que, a veces, lo único que se redacta es la metodología de un estudio, pero no se adjunta el detalle de esta metodología. También, valora mucho que la discusión de los resultados esté descrita lo más completa posible. Para seleccionar una fuente bibliográfica, Joseph realiza su busqueda con palabras clave. Por otra parte, nos comenta que no sabe cómo funciona el proceso de la revisión para una revista científica. En cuanto a las funcionalidades que le gustaría ver en la solución de software propuesta, menciona que le gustaría que se pueda encontrar investigaciones de diferentes temas y no se límite solo a uno.
+
 ## Análisis de entrevistas
 
 # NeedFinding
