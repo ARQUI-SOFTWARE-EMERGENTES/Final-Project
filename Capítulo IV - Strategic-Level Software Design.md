@@ -620,6 +620,85 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
 
 ## Quality Attribute Scenario Refinements
 
+<table> 
+<tr> <strong>Scenario Refinement for Scenario 1 <strong> </tr> 
+<tr> <td>Scenario(s):</td> 
+    <td>Durante períodos de alta demanda, como lanzamientos de nuevas publicaciones, la plataforma debe mantenerse disponible con una disponibilidad del 99.5%, para garantizar que los usuarios puedan acceder a la información crítica en todo momento. </td> </tr> 
+<tr> <td>Business Goals:</td> <td>Garantizar que los usuarios puedan acceder a la plataforma en todo momento</td> </tr> 
+<tr> <td>Relevant Quality Attributes:</td> <td>Fiabilidad, Escalabilidad</td> </tr> 
+<tr> <td>Stimulus:</td> <td>Aumento repentino en la demanda de usuarios</td> </tr> 
+<tr> <th>Scenario Components</th> <th></th> 
+<tr> <td>Stimulus Source:</td> <td>Incremento en el tráfico de la plataforma debido a la participación masiva</td> </tr> 
+<tr> <td>Environment:</td> <td>La plataforma escala automáticamente sus recursos de servidor para manejar el aumento de tráfico, garantizando una disponibilidad del 99.5% y evitando la interrupción del servicio.</td> </tr> 
+<tr> <td>Artifact (if Known):</td> <td>Proceso en BackEnd</td> </tr> 
+<tr> <td>Response:</td> <td>La plataforma escala automáticamente</td> </tr> 
+<tr> <td>Response Measure:</td> <td> menos de 5 segundo</td> </tr> 
+</tr> 
+<tr> <th>Questions:</th> <td>¿El sistema respondió eficazmente al aumento repentino en el tráfico? ¿La disponibilidad de la plataforma se mantuvo dentro del rango objetivo durante el evento?</td> </tr> 
+<tr> <td>Issues:</td> <td>La disponibilidad del sistema puede verse comprometida durante picos de tráfico inesperados, especialmente para usuarios con conexiones de red inestables.</td> </tr> 
+</table>
+
+<br><br>
+
+
+<table> 
+<tr> Scenario Refinement for Scenario 2 </tr> 
+<tr> <td>Scenario(s):</td> <td> Durante la búsqueda de publicaciones académicas, el sistema debe ser capaz de procesar y mostrar resultados relevantes en menos de 3 segundos, garantizando así una experiencia de usuario rápida y eficiente. </td> </tr> 
+<tr> <td>Business Goals:</td> <td>Asegurar que los usuarios puedan acceder y revisar las publicaciones académicas de manera rápida y eficiente. </td> </tr> 
+<tr> <td>Relevant Quality Attributes:</td> <td> Rendimiento</td> </tr> 
+<tr> <td>Stimulus:</td> <td> Usuario realiza una búsqueda</td> </tr> 
+<tr> <th>Scenario Components</th> <th></th> </tr> 
+<tr> <td>Stimulus Source:</td> <td>Interacción del usuario con la función de búsqueda de la plataforma.</td> </tr> 
+<tr> <td>Environment:</td> <td>La plataforma está experimentando un volumen típico de tráfico de usuarios que realizan búsquedas de publicaciones académicas.</td> </tr> 
+<tr> <td>Artifact (if Known):</td> <td></td> </tr> 
+<tr> <td>Response:</td> <td>El sistema procesa y muestra los resultados de la búsqueda de manera rápida</td> </tr> 
+<tr> <td>Response Measure:</td> <td>menor o igual a 3 segundos</td> </tr> 
+<tr> <th>Questions:</th> <th>¿El sistema es capaz de mantener un tiempo de respuesta por debajo de los 3 segundos incluso durante periodos de carga pico? ¿Cómo afecta el rendimiento del sistema a la satisfacción del usuario y la retención?</th> </tr> 
+<tr> <td>Issues:</td> <td>Posibles retrasos en el procesamiento de búsqueda debido a la carga del servidor</td> </tr> 
+</table>
+
+<br><br>
+
+<table> 
+<tr> Scenario Refinement for Scenario 3 </tr> 
+<tr> <td>Scenario(s):</td> <td>Cuando un investigador aplica filtros de búsqueda como año de publicación y tema para refinar los resultados de búsqueda, el sistema debe procesar y aplicar los filtros seleccionados en menos de 1 segundo, actualizando los resultados de búsqueda de acuerdo con los criterios establecidos. </td> </tr> 
+<tr> <td>Business Goals:</td> <td>Permitir a los usuarios refinar y personalizar los resultados de búsqueda para encontrar rápidamente la información relevante</td> </tr> 
+<tr> <td>Relevant Quality Attributes:</td> <td>Eficiencia de desempeño, Rendimiento, Usabilidad</td> </tr> 
+<tr> <td>Stimulus:</td> <td>Usuario aplica filtros de búsqueda como año de publicación y tema.</td> </tr> 
+<tr> <th>Scenario Components</th> <th></th> </tr> 
+<tr> <td>Stimulus Source:</td> <td> Interacción del usuario con las opciones de filtro de búsqueda </td> </tr> 
+<tr> <td>Environment:</td> <td>La plataforma está experimentando un flujo constante de usuarios que aplican filtros</td> </tr> 
+<tr> <td>Artifact (if Known):</td> <td>Proceso en BackEnd
+</td> </tr> 
+<tr> <td>Response:</td> <td>El sistema procesa y aplica los filtros seleccionados por el usuario de manera rápida y precisa, actualizando los resultados de búsqueda de acuerdo con los criterios establecidos en menos de 1 segundo.</td> </tr> 
+<tr> <td>Response Measure:</td> <td>menor o igual a 1 segundo</td> </tr> 
+<tr> <th>Questions:</th> <th>¿El sistema puede manejar múltiples filtros aplicados simultáneamente sin experimentar retrasos significativos?</th> </tr> 
+<tr> <td>Issues:</td> <td>Posibles demoras en la respuesta al aplicar filtros debido a la complejidad de las consultas</td> </tr> 
+</table>
+
+<br><br>
+
+<table> 
+<tr> Scenario Refinement for Scenario 4 </tr> 
+<tr> <td>Scenario(s):</td> <td>Cuando un autor desea subir un artículo de investigación a la plataforma, el sistema debe procesar y almacenar el documento en menos de 5 segundos, garantizando la integridad y seguridad de los datos. </td> </tr> 
+<tr> <td>Business Goals:</td> <td>Facilitar a los usuarios la carga eficiente de sus investigaciones a la plataforma</td> </tr> 
+<tr> <td>Relevant Quality Attributes:</td> <td>Rendimiento, Seguridad.</td> </tr> 
+<tr> <td>Stimulus:</td> <td>El investigador selecciona el archivo de investigación y hace clic en el botón de carga en la plataforma.</td> </tr> 
+<tr> <th>Scenario Components</th> <th></th> </tr> 
+<tr> <td>Stimulus Source:</td> <td>Interacción del usuario con la función de carga de la plataforma.</td> </tr> 
+<tr> <td>Environment:</td> <td>La plataforma está en un estado normal de tráfico, con varios usuarios realizando acciones simultáneas.</td> </tr> 
+<tr> <td>Artifact (if Known):</td> <td>Proceso en BackEnd</td> </tr> 
+<tr> <td>Response:</td> <td>El sistema procesa y almacena el archivo de investigación en menos de 5 segundos, asegurando que la información esté disponible y segura en la plataforma.</td> </tr> 
+<tr> <td>Response Measure:</td> <td> menor o igual a 5 segundos</td> </tr> 
+<tr> <th>Questions:</th> <th>¿El sistema es capaz de mantener un tiempo de carga de archivos por debajo de los 5 segundos incluso durante picos de tráfico?</th> </tr> 
+<tr> <td>Issues:</td> <td>Posibles retrasos en la carga debido a la capacidad del servidor o la velocidad de la conexión a Internet del usuario. </td> </tr> 
+</table>
+
+
+<br><br>
+
+
+
 # Strategic-Level Domain-Driven Design
 
 ## Event Storming

@@ -39,7 +39,12 @@
         <tr>
             <td>EP05</td>
             <td>Gestión de Referencias Bibliográficas</td>
-            <td>Como usuario, deseo poder obtener las referencias bibliograficas de articulos cientificos para poder utilizarlos en mi tesis.</td>
+            <td>Como usuario, deseo recibir notificaciones personalizadas y relevantes en tiempo real para mantenerme informado sobre eventos importantes y actualizaciones en la plataforma.</td>
+        </tr>
+        <tr>
+            <td>EP06</td>
+            <td>Gestión de Notificaciones</td>
+            <td>Como usuario, deseo poder recibir las notificaciones de articulos cientificos para poder utilizarlos en mi tesis.</td>
         </tr>
     </tbody>
 
