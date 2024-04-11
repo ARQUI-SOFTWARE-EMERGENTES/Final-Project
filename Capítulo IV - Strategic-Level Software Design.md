@@ -279,6 +279,132 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>TC01</td>
+            <td>Topología de la Red</td>
+            <td>La topología de red existente puede influir en la forma en que se despliega y accede a la aplicación.</td>
+            <td>
+                La arquitectura debe ser compatible con la topología de red existente de la empresa.
+                Se deben considerar las limitaciones y requisitos de la infraestructura de red al diseñar la arquitectura de la aplicación.
+            </td>
+            <td>EP01, EP02, EP03, EP04</td>
+        </tr>
+        <tr>
+            <td>TC02</td>
+            <td>Base de Datos Existente o Proveedor de Base de Datos</td>
+            <td>La elección de la tecnología de base de datos puede estar influenciada por la base de datos existente utilizada para otros fines dentro de la empresa.</td>
+            <td>
+                La arquitectura debe ser compatible con la base de datos existente utilizada para otros fines, como la gestión médica.
+                Se debe seleccionar una tecnología de base de datos que sea compatible con la base de datos existente o el proveedor de base de datos preferido de la empresa.
+            </td>
+            <td>EP01, EP02, EP03, EP04</td>
+        </tr>
+        <tr>
+            <td>TC03</td>
+            <td>Entorno Web</td>
+            <td>Las configuraciones de servidor, cortafuegos y medidas de seguridad en el entorno web son críticas para proteger los datos de los pacientes y garantizar la disponibilidad de la aplicación.</td>
+            <td>
+                La arquitectura debe respetar y considerar las configuraciones de servidor, cortafuegos y medidas de seguridad en el entorno web.
+                Se deben implementar medidas de seguridad adecuadas para proteger los datos de los pacientes y garantizar la disponibilidad de la aplicación.
+            </td>
+            <td>EP01, EP02, EP03, EP04</td>
+        </tr>
+        <tr>
+            <td>TC04</td>
+            <td>Servidores</td>
+            <td>Las restricciones en cuanto al modelo de hardware y sistema operativo utilizados por la empresa pueden influir en la selección de tecnologías y plataformas para desarrollar y desplegar la aplicación.</td>
+            <td>
+                La arquitectura debe ser compatible con el modelo de hardware y sistema operativo preferido o utilizado por la empresa.
+                Se deben seleccionar tecnologías y plataformas que sean compatibles con el modelo de hardware y sistema operativo de los servidores de la empresa.
+            </td>
+            <td>EP01, EP02, EP03, EP04</td>
+        </tr>
+        <tr>
+            <td>TC05</td>
+            <td>Uso de Software de Terceros o Tecnologías Particulares</td>
+            <td>La integración con software de terceros para funciones específicas puede ser una restricción que debe ser tenida en cuenta al diseñar la arquitectura de la aplicación.</td>
+            <td>
+                La arquitectura debe ser compatible con el uso de software de terceros o tecnologías particulares requeridas para funciones específicas.
+                Se deben considerar las restricciones y requisitos de integración al seleccionar tecnologías y plataformas para desarrollar la aplicación.
+            </td>
+            <td>EP01, EP02, EP03, EP04</td>
+        </tr>
+        <tr>
+            <td>TC06</td>
+            <td>Cumplimiento de Normativas Existentes</td>
+            <td>El cumplimiento de normativas de privacidad de datos y regulaciones de salud es una restricción crítica debido a la naturaleza médica de la aplicación.</td>
+            <td>
+                La arquitectura debe ser diseñada para cumplir con las normativas de privacidad de datos y regulaciones de salud aplicables.
+                Se deben implementar medidas de seguridad y protección de datos para garantizar el cumplimiento de las normativas existentes.
+            </td>
+            <td>EP01, EP02, EP03, EP04</td>
+        </tr>
+        <tr>
+            <td>TC07</td>
+            <td>Seguridad de datos</td>
+            <td>Se deben implementar medidas de seguridad para proteger los datos sensibles de los usuarios.</td>
+            <td>
+                Los datos de los usuarios se almacenan de forma cifrada en la base de datos.
+                Se utilizan técnicas de encriptación para proteger la comunicación entre el cliente y el servidor.
+                Se implementan políticas de acceso y autenticación para garantizar que solo los usuarios autorizados puedan acceder a datos sensibles.
+            </td>
+            <td>EP01, EP02, EP03, EP04</td>
+        </tr>
+        <tr>
+            <td>TC08</td>
+            <td>Disponibilidad del servicio</td>
+            <td>La aplicación debe estar disponible para su uso la mayor parte del tiempo, minimizando cualquier tiempo de inactividad no planificado.</td>
+            <td>
+                El tiempo de inactividad no planificado de la aplicación no debe superar el 0.1% del tiempo total.
+                Se implementan medidas de monitoreo para detectar y resolver rápidamente cualquier problema que afecte la disponibilidad del servicio.
+                Se establece un plan de contingencia para garantizar una rápida recuperación en caso de fallas o interrupciones inesperadas.
+            </td>
+            <td>EP01, EP02, EP03, EP04</td>
+        </tr>
+        <tr>
+            <td>TC09</td>
+            <td>Escalabilidad</td>
+            <td>La aplicación debe ser capaz de manejar un aumento significativo en la carga de usuarios y datos sin degradación del rendimiento.</td>
+            <td>
+                La aplicación puede manejar al menos el doble de usuarios concurrentes sin experimentar una disminución significativa en el rendimiento.
+                Los tiempos de respuesta de la aplicación se mantienen dentro de rangos aceptables incluso bajo cargas de trabajo pesadas.
+                Se implementan técnicas de escalado horizontal y vertical para distribuir la carga y mejorar la capacidad de respuesta del sistema.
+            </td>
+            <td>EP01, EP02, EP03, EP04</td>
+        </tr>
+        <tr>
+            <td>TC10</td>
+            <td>Respaldo de datos</td>
+            <td>Se debe realizar regularmente el respaldo de los datos para prevenir pérdidas de información.</td>
+            <td>
+                Se realiza un respaldo completo de la base de datos al menos una vez al día.
+                Se implementan procedimientos de respaldo incremental para minimizar el tiempo y los recursos necesarios para realizar copias de seguridad.
+                Los datos de respaldo se almacenan en ubicaciones seguras y fuera del sitio para proteger contra desastres naturales y otros eventos catastróficos.
+            </td>
+            <td>EP01, EP02, EP03, EP04</td>
+        </tr>
+        <tr>
+            <td>TC11</td>
+            <td>Escalabilidad del equipo de desarrollo</td>
+            <td>El equipo de desarrollo debe ser capaz de adaptarse y escalar según las necesidades del proyecto.</td>
+            <td>
+                El equipo de desarrollo puede expandirse o contraerse según los requisitos del proyecto, manteniendo al mismo tiempo la productividad y la calidad del trabajo.
+                Se implementan prácticas ágiles y flexibles para facilitar la incorporación de nuevos miembros al equipo y la distribución eficiente de tareas.
+                Se establecen procesos de comunicación efectivos para garantizar una colaboración fluida entre los miembros del equipo, incluso en entornos distribuidos o remotos.
+            </td>
+            <td>EP01, EP02, EP03, EP04</td>
+        </tr>
+        <tr>
+            <td>TC12</td>
+            <td>Documentación</td>
+            <td>Se debe mantener una documentación detallada y actualizada del sistema y su funcionamiento.</td>
+            <td>
+                Se documentan los requisitos del sistema, incluidas las funcionalidades, las interfaces, y los casos de uso.
+                Se proporciona documentación técnica para los desarrolladores, incluyendo diagramas de arquitectura, bases de datos, y flujos de datos.
+                Se genera documentación de usuario para ayudar a los usuarios finales a comprender y utilizar eficazmente la aplicación.
+            </td>
+            <td>EP01, EP02, EP03, EP04</td>
+        </tr>
     </tbody>
 </table>
 
