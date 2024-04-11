@@ -1,5 +1,9 @@
 # To-Be Scenario Mapping
+## Segmento Tesista
+<img src="images\To-be_Scenario_Mapping_Tesista.png"/>
 
+## Segmento Autor
+<img src="images\To-be_Scenario_Mapping_Autor.png"/>
 
 # User Stories
 
