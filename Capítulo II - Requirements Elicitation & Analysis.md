@@ -247,9 +247,20 @@
 * **Duración**: 41:00
 * **Captura**:
 
-  <img src="images/screenshots-interview//Entrevista-autor-2.png" width=400/>
+  <img src="images/screenshots-interview/Entrevista-autor-2.png" width=400/>
 
 * **Resumen**: Tamara nos cuenta su experiencia haciendo su tesis, nos dice que le gustó la experiencia a pesar de que eso implique sacrificios, también siente satisfacción al presentar un buen trabajo. Sus principales preocupaciones son las de buscar tesis que tengan temas cercanos a los propios, lo considera complicado. El sistema que utiliza para gestionar su trabajo es Mendeley. Nos menciona que suele encontrar publicaciones similares y quisiera un método para saber si una publicación es un plagio o no, y saber quien es el autor original. 
+
+#### Entrevistado 2
+
+* **Nombre**: Keiko Nakamatsu
+* **Links**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191d928_upc_edu_pe/EYqkB5cd6lJMumCt3Qh2mfcBqAPH5EzW-SZk8mY1HTbnVg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jkNcuC
+* **Duración**: 4:47
+* **Captura**:
+
+  <img src="images/screenshots-interview/Entrevista Autor 1.png" width=400/>
+
+* **Resumen**: Keiko actualmente es una profesora e hizo su tesis cuando estaba cursando la universidad. Nos cuenta que al momento de realizar su tesis experimenta cierta frustación ya que no sale como quiere y al momento de buscar bibliografías es bastante engorroso ya que tiene que buscar las que les sean pertinentes. Además, menciona que la parte de la metodología se da la mayor cantidad de objeciones. Ha usado herramientas como excel y SSPS. Para revisar la autenticidad de las fuentes, normalmente busca en buscadores famosos y usa su pensamiento crítico. Su principal desafío es hacer un proceso muy riguroso.
 
 ### Entrevistas del segmento de tesistas
 
