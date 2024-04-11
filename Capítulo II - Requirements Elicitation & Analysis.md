@@ -240,12 +240,12 @@
 ### Entrevistas del segmento de autores
 
 #### Entrevistado 1
-* **Nombre**: Tamara Llauri <br>
-* **Links**: <br>
-* **Pt1**: https://drive.google.com/file/d/1fzhAOiJfHZgFsnZ-6HXLaQrEoHN3KQoP/view?usp=sharing<br>
-* **Pt2**: https://drive.google.com/file/d/1V5CB4wm_bv7BugCXq-ZZ-21dyNt-SyL2/view?usp=sharing <br>
-* **Duración**: 41:00 <br>
-* **Captura**: <br>
+* **Nombre**: Tamara Llauri
+* **Links**:
+  * **Pt1**: https://drive.google.com/file/d/1fzhAOiJfHZgFsnZ-6HXLaQrEoHN3KQoP/view?usp=sharing
+  * **Pt2**: https://drive.google.com/file/d/1V5CB4wm_bv7BugCXq-ZZ-21dyNt-SyL2/view?usp=sharing
+* **Duración**: 41:00
+* **Captura**:
 
 <img src="images/screenshots-interview//Entrevista-autor-2.png" width=400/>
 
@@ -255,10 +255,10 @@
 
 #### Entrevistado 1
 
-* **Nombre**: Mauricio Prado Chumbes <br>
-* **Link**: https://drive.google.com/file/d/1zcyt5tAg9A6llACITZkjjFZCTD_TT11B/view?usp=sharing <br>
-* **Duración**: 8:48 <br>
-* **Captura**: <br>
+* **Nombre**: Mauricio Prado Chumbes
+* **Link**: https://drive.google.com/file/d/1zcyt5tAg9A6llACITZkjjFZCTD_TT11B/view?usp=sharing
+* **Duración**: 8:48
+* **Captura**:
 
 <img src="images/screenshots-interview/entrevista tesista-1.png" width=400/>
 
@@ -269,7 +269,7 @@
 * **Nombre:** Jorge Diaz Chanchari
 * **Link:** https://www.youtube.com/watch?v=GxbhKSQ3y9g
 * **Duración:** 8:01
-* **Captura:** 
+* **Captura:**
 
 <div>
     <p style = 'text-align:center;'>
@@ -281,10 +281,10 @@
 
 #### Entrevistado 3
 
-* **Nombre**: Paulo Costa Mondragón <br>
-* **Link**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912404_upc_edu_pe/ERAOGfkZz9hJkOqGSCI3lyIBKDFMlZ-ne3mCe6PApNkABg <br>
-* **Duración**: 7:51 <br>
-* **Captura**: <br>
+* **Nombre**: Paulo Costa Mondragón
+* **Link**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912404_upc_edu_pe/ERAOGfkZz9hJkOqGSCI3lyIBKDFMlZ-ne3mCe6PApNkABg
+* **Duración**: 7:51
+* **Captura**:
 
 <img src="images/screenshots-interview/Entrevista Tesista 2.png" width=500/>
 
