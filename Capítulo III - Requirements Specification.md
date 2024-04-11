@@ -589,6 +589,7 @@
 
 # Impact Mapping
 
+<img src="images\Impact_Mapping.png"/>
 
 # Product Backlog
 
