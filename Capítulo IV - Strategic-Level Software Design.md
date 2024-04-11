@@ -624,7 +624,15 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
 
 ## Event Storming
 
+![Unstructured Exploration 1](images/Unstructured%20Exploration%201.jpg)
+
+![Unstructured Exploration 2](images/Unstructured%20Exploration%202.jpg)
+
+![Timelines](images/Timelines.jpg)
+
 ## Candidate Context Discovery
+
+![Candidate Context Discovery](images/Candidate%20Context%20Discovery.jpg)
 
 ## Domain Message Flows Modeling
 
