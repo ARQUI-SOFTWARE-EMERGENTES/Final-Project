@@ -247,9 +247,9 @@
 * **Duración**: 41:00
 * **Captura**:
 
-<img src="images/screenshots-interview//Entrevista-autor-2.png" width=400/>
+  <img src="images/screenshots-interview//Entrevista-autor-2.png" width=400/>
 
-**Resumen**: Tamara nos cuenta su experiencia haciendo su tesis, nos dice que le gustó la experiencia a pesar de que eso implique sacrificios, también siente satisfacción al presentar un buen trabajo. Sus principales preocupaciones son las de buscar tesis que tengan temas cercanos a los propios, lo considera complicado. El sistema que utiliza para gestionar su trabajo es Mendeley. Nos menciona que suele encontrar publicaciones similares y quisiera un método para saber si una publicación es un plagio o no, y saber quien es el autor original. 
+* **Resumen**: Tamara nos cuenta su experiencia haciendo su tesis, nos dice que le gustó la experiencia a pesar de que eso implique sacrificios, también siente satisfacción al presentar un buen trabajo. Sus principales preocupaciones son las de buscar tesis que tengan temas cercanos a los propios, lo considera complicado. El sistema que utiliza para gestionar su trabajo es Mendeley. Nos menciona que suele encontrar publicaciones similares y quisiera un método para saber si una publicación es un plagio o no, y saber quien es el autor original. 
 
 ### Entrevistas del segmento de tesistas
 
@@ -260,9 +260,9 @@
 * **Duración**: 8:48
 * **Captura**:
 
-<img src="images/screenshots-interview/entrevista tesista-1.png" width=400/>
+  <img src="images/screenshots-interview/entrevista tesista-1.png" width=400/>
 
-**Resumen**: Mauricio nos cuenta que tiene como preocupacion el rechazo de su trabajo, además, tiene expectativas de poder lograr una mejora con la publicacion de su trabajo. Suele tener dificultades al buscar información precisa sobre su tema, el método que usa para seleccionar los papers es generando preguntas de investigación y descartando los papers que no neccesita.
+* **Resumen**: Mauricio nos cuenta que tiene como preocupacion el rechazo de su trabajo, además, tiene expectativas de poder lograr una mejora con la publicacion de su trabajo. Suele tener dificultades al buscar información precisa sobre su tema, el método que usa para seleccionar los papers es generando preguntas de investigación y descartando los papers que no neccesita.
 
 #### Entrevistado 2
 
@@ -271,13 +271,13 @@
 * **Duración:** 8:01
 * **Captura:**
 
-<div>
-    <p style = 'text-align:center;'>
-    <img src="images/screenshots-interview/vivian-interview.png"/>
-    </p>
-</div>
+  <div>
+      <p style = 'text-align:center;'>
+      <img src="images/screenshots-interview/vivian-interview.png"/>
+      </p>
+  </div>
 
-**Resumen:** El entrevistado, Jorge Diaz, un estudiante de la carrera de ingeniería de Sistemas del noveno ciclo, de 22 años y residente del distrtito Lince, quien comparte sus ideas sobre el proceso de revisión y publicación de investigaciones científicas. Se destaca su inquietud por la evaluación de su trabajo y la esperanza de que sea reconocido en su comunidad universitaria y tenga un impacto positivo en futuros investigadores. Reconoce las dificultades para encontrar trabajos verificados en su área de estudio, aunque aprovecha las herramientas proporcionadas por la universidad como Scopus y WOS para mitigar este desafío. Además, señala la importancia de utilizar tecnologías emergentes, como la Inteligencia Artificial, para mejorar la eficiencia y precisión en el análisis de datos. También discute estrategias para fomentar la colaboración e intercambio de ideas, como la participación en conferencias y grupos de investigación en línea. Por último, destaca la importancia de mantener la integridad y calidad de los datos a lo largo de toda la investigación mediante métodos de recopilación estandarizados y documentación detallada de los procesos.
+* **Resumen:** El entrevistado, Jorge Diaz, un estudiante de la carrera de ingeniería de Sistemas del noveno ciclo, de 22 años y residente del distrtito Lince, quien comparte sus ideas sobre el proceso de revisión y publicación de investigaciones científicas. Se destaca su inquietud por la evaluación de su trabajo y la esperanza de que sea reconocido en su comunidad universitaria y tenga un impacto positivo en futuros investigadores. Reconoce las dificultades para encontrar trabajos verificados en su área de estudio, aunque aprovecha las herramientas proporcionadas por la universidad como Scopus y WOS para mitigar este desafío. Además, señala la importancia de utilizar tecnologías emergentes, como la Inteligencia Artificial, para mejorar la eficiencia y precisión en el análisis de datos. También discute estrategias para fomentar la colaboración e intercambio de ideas, como la participación en conferencias y grupos de investigación en línea. Por último, destaca la importancia de mantener la integridad y calidad de los datos a lo largo de toda la investigación mediante métodos de recopilación estandarizados y documentación detallada de los procesos.
 
 #### Entrevistado 3
 
@@ -286,9 +286,9 @@
 * **Duración**: 7:51
 * **Captura**:
 
-<img src="images/screenshots-interview/Entrevista Tesista 2.png" width=500/>
+  <img src="images/screenshots-interview/Entrevista Tesista 2.png" width=500/>
 
-**Resumen**: Paulo nos cuenta que tiene pocas esperanzas en que su tesis sea publicada en una revista Q1. Asimismo, para la validación de sus fuentes, realiza el analisis de meta-data, para saber si la fuente es confiable. Además, menciona que el sistema actual es tedioso y quisiera un sistema que permita visualizar si la revista es indexada y el nivel de la revista.
+* **Resumen**: Paulo nos cuenta que tiene pocas esperanzas en que su tesis sea publicada en una revista Q1. Asimismo, para la validación de sus fuentes, realiza el analisis de meta-data, para saber si la fuente es confiable. Además, menciona que el sistema actual es tedioso y quisiera un sistema que permita visualizar si la revista es indexada y el nivel de la revista.
 
 #### Entrevistado 4
 
