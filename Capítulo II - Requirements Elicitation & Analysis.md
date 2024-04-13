@@ -181,6 +181,11 @@
 
 ## Estrategias y tácticas frente a competidores
 
+- **Mejorar la transparencia y la autenticación**: se utilizará la tecnología blockchain para verificar y autenticar cada investigación, garantizando la integridad y transparencia del proceso.
+- **Interfaz de usuario más amigable**: Se incluirá una navegación clara con acceso rápido a las investigaciones y funcionalidades de búsqueda avanzadas y sencillas de usar.
+- **Facilitar la colaboración y la interacción**: Se incorporarán funciones para fomentar la colaboración entre usuarios, como foros de discusión, herramientas de coautoría y capacidad para compartir investigaciones. Esto aumentará el valor de la plataforma para investigadores y estudiantes. 
+- **Servicios de revisión mejorados**: PaperVault ofrecerá un sistema de revisión por pares más eficiente y transparente, con retroalimentación detallada y constructiva para los autores.
+
 # Entrevistas
 
 ## Diseño de entrevistas
