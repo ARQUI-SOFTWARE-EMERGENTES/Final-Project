@@ -724,6 +724,22 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
 
 ## Bounded Context Canvases
 
+### Envio de investigaciones
+
+<img src="images/Bounded-context-canvas-1.png"/>
+
+### Asignación de investigaciones
+
+<img src="images/Bounded-context-canvas-2.png"/>
+
+### Plazo de revisión
+
+<img src="images/Bounded-context-canvas-3.png"/>
+
+### Comentarios
+
+<img src="images/Bounded-context-canvas-4.png"/>
+
 ## Context Mapping
 
 ![Context-Mapping](images/Context%20Mapping.png)
