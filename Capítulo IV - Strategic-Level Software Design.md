@@ -715,6 +715,13 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
 
 ## Domain Message Flows Modeling
 
+<p> El Domain Message Flows Modeling para el escenario "Autor envía solicitud de revisión" describe la interacción entre los actores principales: el autor y el revisor. El autor hace uso del servicio de busquedas para mejorar su investigacion y envía una solicitud a otro autor para revisar su artículo. El autor analiza el articulo y proporciona los comentarios respectivos. Finalmente, el sistema comunica al autor la decisión final sobre la aceptación del artículo para su publicación.
+</p>
+
+![domain-message-flows](images/domain-message-flows.jpg)
+
+</br>
+
 ## Bounded Context Canvases
 
 ## Context Mapping
