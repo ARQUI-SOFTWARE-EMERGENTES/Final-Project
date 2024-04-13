@@ -726,6 +726,8 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
 
 ## Context Mapping
 
+![Context-Mapping](images/Context%20Mapping.png)
+
 # Software Architecture
 
 ## Software Architecture System Landscape Diagram
