@@ -267,6 +267,17 @@
 
 * **Resumen**: Keiko actualmente es una profesora e hizo su tesis cuando estaba cursando la universidad. Nos cuenta que al momento de realizar su tesis experimenta cierta frustación ya que no sale como quiere y al momento de buscar bibliografías es bastante engorroso ya que tiene que buscar las que les sean pertinentes. Además, menciona que la parte de la metodología se da la mayor cantidad de objeciones. Ha usado herramientas como excel y SSPS. Para revisar la autenticidad de las fuentes, normalmente busca en buscadores famosos y usa su pensamiento crítico. Su principal desafío es hacer un proceso muy riguroso.
 
+#### Entrevistado 3
+
+* **Nombre**: Jhon Saba
+* **Links**: 
+* **Duración**: 24:00
+* **Captura**:
+
+  <img src="images/screenshots-interview/Entrevista-autor-3.png" width=400/>
+
+* **Resumen**: Jhon es un ingeniero de sistemas, el cual actualmente tiene el cargo de lider tecnico. Nos detalla las ansias y la preocupación que tenia al realizar su investigación académica, y sobre el miedo de no encontrar un tema novedoso o tener equivocaciones. Asimismo, al publicar su investigación siente tranquilidad y alegria. Le gustaría tener una plataforma para encontrar las investigaciones de manera más comoda para el usuario, ya que para personas que no son del rubro de sistemas es muy dificil intuir las funcionalidades de las aplicaciones.
+
 ### Entrevistas del segmento de tesistas
 
 #### Entrevistado 1
