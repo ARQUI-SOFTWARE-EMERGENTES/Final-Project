@@ -5,7 +5,13 @@ En un mundo cada vez más digitalizado, la integridad académica es fundamental 
 
 Por esta razón, en nuestra startup "Research Guard", buscamos empoderar a los investigadores y estudiantes con herramientas que garanticen la autenticidad y la transparencia de la investigación, fomentando así un ambiente académico más justo y colaborativo.
 
-En Research Guard, los objetivos que buscamos alcanzar con las soluciones que desarrollamos son:
+### Misión
+Nuestra misión en Research Guard es impulsar la integridad académica y promover un entorno de investigación transparente y colaborativo. Nos comprometemos a desarrollar herramientas innovadoras y tecnologías de vanguardia para combatir la falsificación de autoría, proteger la integridad de los documentos académicos y facilitar el acceso equitativo a la investigación verificada y autenticada.
+
+### Visión 
+En Research Guard, aspiramos a ser líderes en la transformación del panorama académico, siendo reconocidos como la plataforma de referencia para la autenticidad y transparencia en la investigación. Visualizamos un futuro donde la comunidad académica confíe en nuestras soluciones para garantizar la honestidad intelectual y el mérito académico en todos los campos del conocimiento.
+
+Además, en Research Guard, nos hemos fijado los siguientes objetivos para alcanzar con nuestras soluciones:
 
 - **Combatir la Falsificación de Autoría**: Nos dedicamos a desarrollar herramientas y tecnologías que ayuden a prevenir la falsificación de autoría en trabajos académicos. Creemos en la importancia de reconocer y atribuir correctamente la autoría para garantizar la honestidad intelectual y el mérito académico.
 
