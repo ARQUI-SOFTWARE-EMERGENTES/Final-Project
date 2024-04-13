@@ -730,6 +730,9 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
 
 ## Software Architecture System Landscape Diagram
 
+![Software Architecture System Landscap](images/landscape.PNG)
+
+<br>
 
 ## Software Architecture Context Level Diagrams
 
