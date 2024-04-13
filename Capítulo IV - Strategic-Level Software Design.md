@@ -194,7 +194,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>Tasa de éxito de carga, claridad de los mensajes de error</td>
         </tr>
         <tr>
-            <td>QA4</td>
+            <td>QA3</td>
             <td>Fiabilidad</td>
             <td>Usuario</td>
             <td>Visualizar paper</td>
@@ -204,7 +204,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>Disponibilidad del servicio, tiempo medio entre fallos</td>
         </tr>
         <tr>
-            <td>QA5</td>
+            <td>QA4</td>
             <td>Mantenibilidad</td>
             <td>Humano</td>
             <td>Uso de la solución</td>
@@ -214,7 +214,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>Tiempo de inactividad planificada menor a un segundo.</td>
         </tr>
         <tr>
-            <td>QA6</td>
+            <td>QA5</td>
             <td>Escalabilidad</td>
             <td>Usuario</td>
             <td>Aplicación rápida</td>
@@ -224,7 +224,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>Throughput, tiempo de respuesta bajo carga</td>
         </tr>
         <tr>
-            <td>QA7</td>
+            <td>QA6</td>
             <td>Eficiencia de desempeño</td>
             <td>Humano</td>
             <td>Visualizar perfil</td>
@@ -234,7 +234,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>En menos de 5 segundos</td>
         </tr>
         <tr>
-            <td>QA8</td>
+            <td>QA7</td>
             <td>Seguridad</td>
             <td>Humano</td>
             <td>Acceso a la aplicación</td>
@@ -244,7 +244,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>Tasa de éxito en la autenticación, detección de intentos de acceso no autorizados.</td>
         </tr>
         <tr>
-            <td>QA9</td>
+            <td>QA8</td>
             <td>Usabilidad</td>
             <td>Usuario</td>
             <td>Filtrar y ordenar papers</td>
@@ -254,7 +254,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>Tiempo necesario para filtrar y ordenar, facilidad de uso de las herramientas de filtrado y ordenamiento.</td>
         </tr>
         <tr>
-            <td>QA10</td>
+            <td>QA9</td>
             <td>Usabilidad</td>
             <td>Usuario</td>
             <td>Escribir comentarios</td>
@@ -280,7 +280,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
     </thead>
     <tbody>
         <tr>
-            <td>TC01</td>
+            <td>TS01</td>
             <td>Topología de la Red</td>
             <td>La topología de red existente puede influir en la forma en que se despliega y accede a la aplicación.</td>
             <td>
@@ -290,7 +290,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP01, EP02, EP03, EP04</td>
         </tr>
         <tr>
-            <td>TC02</td>
+            <td>TS02</td>
             <td>Base de Datos Existente o Proveedor de Base de Datos</td>
             <td>La elección de la tecnología de base de datos puede estar influenciada por la base de datos existente utilizada para otros fines dentro de la empresa.</td>
             <td>
@@ -300,7 +300,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP01, EP02, EP03, EP04</td>
         </tr>
         <tr>
-            <td>TC03</td>
+            <td>TS03</td>
             <td>Entorno Web</td>
             <td>Las configuraciones de servidor, cortafuegos y medidas de seguridad en el entorno web son críticas para proteger los datos de los pacientes y garantizar la disponibilidad de la aplicación.</td>
             <td>
@@ -310,7 +310,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP01, EP02, EP03, EP04</td>
         </tr>
         <tr>
-            <td>TC04</td>
+            <td>TS04</td>
             <td>Servidores</td>
             <td>Las restricciones en cuanto al modelo de hardware y sistema operativo utilizados por la empresa pueden influir en la selección de tecnologías y plataformas para desarrollar y desplegar la aplicación.</td>
             <td>
@@ -320,7 +320,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP01, EP02, EP03, EP04</td>
         </tr>
         <tr>
-            <td>TC05</td>
+            <td>TS05</td>
             <td>Uso de Software de Terceros o Tecnologías Particulares</td>
             <td>La integración con software de terceros para funciones específicas puede ser una restricción que debe ser tenida en cuenta al diseñar la arquitectura de la aplicación.</td>
             <td>
@@ -330,7 +330,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP01, EP02, EP03, EP04</td>
         </tr>
         <tr>
-            <td>TC06</td>
+            <td>TS06</td>
             <td>Cumplimiento de Normativas Existentes</td>
             <td>El cumplimiento de normativas de privacidad de datos y regulaciones de salud es una restricción crítica debido a la naturaleza médica de la aplicación.</td>
             <td>
@@ -340,7 +340,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP01, EP02, EP03, EP04</td>
         </tr>
         <tr>
-            <td>TC07</td>
+            <td>TS07</td>
             <td>Seguridad de datos</td>
             <td>Se deben implementar medidas de seguridad para proteger los datos sensibles de los usuarios.</td>
             <td>
@@ -351,7 +351,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP01, EP02, EP03, EP04</td>
         </tr>
         <tr>
-            <td>TC08</td>
+            <td>TS08</td>
             <td>Disponibilidad del servicio</td>
             <td>La aplicación debe estar disponible para su uso la mayor parte del tiempo, minimizando cualquier tiempo de inactividad no planificado.</td>
             <td>
@@ -362,7 +362,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP01, EP02, EP03, EP04</td>
         </tr>
         <tr>
-            <td>TC09</td>
+            <td>TS09</td>
             <td>Escalabilidad</td>
             <td>La aplicación debe ser capaz de manejar un aumento significativo en la carga de usuarios y datos sin degradación del rendimiento.</td>
             <td>
@@ -373,7 +373,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP01, EP02, EP03, EP04</td>
         </tr>
         <tr>
-            <td>TC10</td>
+            <td>TS10</td>
             <td>Respaldo de datos</td>
             <td>Se debe realizar regularmente el respaldo de los datos para prevenir pérdidas de información.</td>
             <td>
@@ -384,7 +384,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP01, EP02, EP03, EP04</td>
         </tr>
         <tr>
-            <td>TC11</td>
+            <td>TS11</td>
             <td>Escalabilidad del equipo de desarrollo</td>
             <td>El equipo de desarrollo debe ser capaz de adaptarse y escalar según las necesidades del proyecto.</td>
             <td>
@@ -395,7 +395,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
             <td>EP01, EP02, EP03, EP04</td>
         </tr>
         <tr>
-            <td>TC12</td>
+            <td>TS12</td>
             <td>Documentación</td>
             <td>Se debe mantener una documentación detallada y actualizada del sistema y su funcionamiento.</td>
             <td>
@@ -736,7 +736,7 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
 
 ## Software Architecture Context Level Diagrams
 
-<img src="images/structurizr-74120-SystemContext-001.png"/>
+<img src="images/c4 model diagrams/structurizr-74120-SystemContext-001.png"/>
 
 ## Software Architecture Container Level Diagrams
 
