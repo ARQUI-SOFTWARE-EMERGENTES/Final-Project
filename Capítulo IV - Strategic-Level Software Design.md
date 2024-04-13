@@ -758,6 +758,8 @@ Se seleccionaron los user stories que cuentan con una mayor relevancia para la s
 
 ## Software Architecture Container Level Diagrams
 
+<img src="images/c4 model diagrams/Container-Diagram.png"/>
+
 ## Software Architecture Deployment Diagrams
 
 ![Deployment Diagram](images/c4%20model%20diagrams/deployment%20diagram.png)
