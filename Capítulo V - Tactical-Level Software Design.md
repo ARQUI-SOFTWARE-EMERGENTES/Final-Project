@@ -319,10 +319,133 @@
 
 El Application Layer en la arquitectura de software es responsable de coordinar las operaciones y flujos de trabajo del sistema.
 
+<table>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Nombre: </td>
+        <td colspan="2">SendInvestigationService</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Categoría:</td>
+        <td colspan="2">Servicio de aplicación</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Propósito:</td>
+        <td colspan="2">Este servicio maneja la lógica de aplicación relacionada con el envío de investigaciones en PaperVault</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Nombre</td>
+        <td style="font-weight: bold;">Tipo de retorno</td>
+        <td style="font-weight: bold;">Visibilidad</td>
+        <td style="font-weight: bold;">Descripción</td>
+    </tr>
+    <tr>
+        <td>submitInvestigation</td>
+        <td>ResponseEntity< String></td>
+        <td>public</td>
+        <td>Este método coordina el proceso de envío de una nueva investigación.</td>
+    </tr>
+</table>
 
+<br>
+
+<table>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Nombre: </td>
+        <td colspan="2">DeleteInvestigationService</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Categoría:</td>
+        <td colspan="2">Servicio de aplicación</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Propósito:</td>
+        <td colspan="2">Este servicio maneja la lógica de aplicación relacionada con la eliminacion de investigaciones en PaperVault</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Nombre</td>
+        <td style="font-weight: bold;">Tipo de retorno</td>
+        <td style="font-weight: bold;">Visibilidad</td>
+        <td style="font-weight: bold;">Descripción</td>
+    </tr>
+    <tr>
+        <td>deleteInvestigation</td>
+        <td>void</td>
+        <td>public</td>
+        <td>Coordina el proceso de eliminación de una investigación específica.</td>
+    </tr>
+</table>
+
+<br>
 
 ## Infrastructure Layer
+
+El Infrastructure Layer se encarga de implementar los detalles técnicos y de infraestructura necesarios para que la aplicación funcione correctamente. 
+
+<table>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Nombre:</td>
+        <td colspan="2">SendInvestigationRepository</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Categoría:</td>
+        <td colspan="2">Repositorio de infraestructura</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Propósito:</td>
+        <td colspan="2">Este repositorio proporciona métodos para interactuar con el almacenamiento de datos relacionados con el envío de investigaciones.</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="font-weight: bold; text-align: center;">Métodos</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Nombre</td>
+        <td style="font-weight: bold;">Tipo de retorno</td>
+        <td style="font-weight: bold;">Visibilidad</td>
+        <td style="font-weight: bold;">Descripción</td>
+    </tr>
+    <tr>
+        <td>saveInvestigation</td>
+        <td>void</td>
+        <td>protected</td>
+        <td>Guarda una nueva investigación en el almacenamiento de datos.</td>
+    </tr>
+    <tr>
+        <td>updateInvestigation</td>
+        <td>void</td>
+        <td>protected</td>
+        <td>Actualiza los detalles de una investigación existente en el almacenamiento de datos.</td>
+    </tr>
+    <tr>
+        <td>deleteInvestigation</td>
+        <td>void</td>
+        <td>protected</td>
+        <td>Elimina una investigación del almacenamiento de datos.</td>
+    </tr>
+    <tr>
+        <td>getInvestigationById</td>
+        <td>int</td>
+        <td>protected</td>
+        <td>Recupera una investigación del almacenamiento de datos según su identificador.</td>
+    </tr>
+       <tr>
+        <td>getInvestigationsByAuthor</td>
+        <td>string</td>
+        <td>protected</td>
+        <td> Recupera todas las investigaciones asociadas a un autor específico.</td>
+    </tr>
+    </tr>
+       <tr>
+        <td>updateReviewStatus</td>
+        <td>void</td>
+        <td>protected</td>
+        <td> Actualiza el estado de revisión de una investigación en el almacenamiento de datos.</td>
+    </tr>
+</table>
+
+<br>
+
 ## Bounded Context Software Architecture Component Level Diagrams
+
 ## Bounded Context Software Architecture Code Level Diagrams
 ### Bounded Context Domain Layer Class Diagrams
 ### Bounded Context Database Design Diagram
