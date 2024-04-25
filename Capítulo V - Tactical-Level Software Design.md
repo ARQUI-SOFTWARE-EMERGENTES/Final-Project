@@ -257,6 +257,51 @@
 ## Interface Layer
 
 <table>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Nombre:</td>
+        <td colspan="2">CreateUserInterface</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Categoría:</td>
+        <td colspan="2">Interface</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Propósito:</td>
+        <td colspan="2">interface de creacion de cuenta de usuario dentro de la aplicación</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="font-weight: bold; text-align: center;">Atributos</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Nombre</td>
+        <td style="font-weight: bold;">Tipo de Dato</td>
+        <td style="font-weight: bold;">Visibilidad</td>
+        <td style="font-weight: bold;">Descripción</td>
+    </tr>
+    <tr>
+        <td>Name</td>
+        <td>String</td>
+        <td>public</td>
+        <td>Representa el nombre de la persona</td>
+    </tr>
+    <tr>
+        <td>Email</td>
+        <td>String</td>
+        <td>public</td>
+        <td>Representa al email de la persona</td>
+    </tr>
+    <tr>
+        <td>Password</td>
+        <td>String</td>
+        <td>private</td>
+        <td>Representa la constraseña de la persona</td>
+    </tr>
+    
+</table>
+
+<br> <br>
+
+<table>
   <tr>
     <td colspan="2" style="font-weight: bold;">Nombre:</td>
     <td colspan="2">SendInvestigationController</td>
@@ -446,8 +491,13 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
 
 ## Bounded Context Software Architecture Component Level Diagrams
 
+<img src="images\bc_send_investigation.jpg"/>
+
 ## Bounded Context Software Architecture Code Level Diagrams
+
 ### Bounded Context Domain Layer Class Diagrams
+<img src="images\Domain_layer_send.png"/>
+
 ### Bounded Context Database Design Diagram
 
 # Bounded Context: Bounded Context Name
