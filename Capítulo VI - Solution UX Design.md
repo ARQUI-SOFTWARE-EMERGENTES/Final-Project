@@ -40,6 +40,55 @@ La guía de estilo de PaperVault no solo establece los principios y elementos fu
 
 
 ## Web, Mobile & Devices Style Guidelines
+
+**Unidad Básica:**
+
+La unidad básica para el diseño en PaperVault es un cuadrado de 8x8 píxeles. Para crear márgenes y relleno, esta unidad se escala en dos, asegurando consistencia y alineación en todos los elementos de la interfaz.
+
+<img src="images\unidad.PNG"/>
+
+<br>
+
+**Tipografía:**
+
+Se ha seleccionado la fuente Roboto para garantizar una legibilidad óptima en todos los dispositivos y tamaños de pantalla. Roboto ofrece una combinación perfecta de claridad, modernidad y versatilidad para adaptarse a las necesidades de nuestra audiencia.
+
+<img src="images\roboto.PNG"/>
+
+<br>
+
+**Colores Primarios:**
+
+En PaperVault usaremos los siguientes colores: 
+
+1. #012030 - Azul oscuro para encabezados y elementos de alto contraste.
+2. #13678A - Azul para destacar acciones principales y enlaces.
+3. #0CABA8 - Turquesa para resaltar información importante y llamadas a la acción.
+4. #0FC2C0 - Verde azulado para indicadores de éxito y confirmación.
+5. #DAFDBA - Amarillo pálido para realzar mensajes informativos y destacados.
+6. #6CD6FC - Azul claro para elementos secundarios y de navegación.
+7. #86C4BB - Verde azulado suave para fondos y áreas de contenido.
+8. #FFFFFF - Blanco para texto sobre fondos oscuros y áreas de enfoque.
+9. #000000 - Negro para texto sobre fondos claros y áreas de contraste.
+
+<img src="images\PAPERCOLORS.jpeg"/>
+
+<br>
+
+**Tonos de Grises:**
+
+Los tonos de grises se utilizan para crear los mockups y proporcionar profundidad y diferenciación en la interfaz, sin distraer la atención del contenido principal:
+
+* #606160
+* #727476
+* #9C9EA0
+* #DEE0E2
+* #EDEFF0
+
+<img src="images\papergrises.jpeg"/>
+
+<br>
+
 # Information Architecture
 ## Labeling Systems
 ## Searching Systems
