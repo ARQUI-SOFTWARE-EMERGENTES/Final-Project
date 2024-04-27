@@ -493,12 +493,20 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
 
 <img src="images\bc_send_investigation.jpg"/>
 
+<br>
+
 ## Bounded Context Software Architecture Code Level Diagrams
 
 ### Bounded Context Domain Layer Class Diagrams
-<img src="images\Domain_layer_send.png"/>
+<img src="images\Domain_Layer_send.png"/>
+
+<br>
 
 ### Bounded Context Database Design Diagram
+
+<img src="images\send_investigation-diagram.png"/>
+
+<br>
 
 # Bounded Context: Bounded Context Name
 ## Domain Layer
