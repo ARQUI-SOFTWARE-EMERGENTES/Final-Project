@@ -109,6 +109,13 @@ Los tonos de grises se utilizan para crear los mockups y proporcionar profundida
 * **Author**: "Equipo de PaperVault"
 
 ## Navigation Systems
+
+1. **Menús intuitivos y claros**: Se diseñarán menús de navegación simples y bien estructurados que permitan a los usuarios acceder fácilmente a las diferentes secciones del sitio web o la aplicación. Esto puede incluir categorías como "Inicio", "Buscar", "Mis Investigaciones", "Colaboraciones", etc.
+2. **Botones de llamada a la acción (CTA)**: Habrán botones de CTA estratégicamente en el Landing Page y en las páginas de la aplicación para dirigir a los usuarios hacia acciones específicas, como "Registrarse", "Iniciar Sesión", "Buscar Investigaciones", "Publicar Investigación", etc.
+3. **Barra de búsqueda prominente**: Destacará una barra de búsqueda visible y fácil de usar que permita a los usuarios buscar investigaciones por título, autor, palabras clave, etc.
+4. **Rutas de navegación claramente definidas**: Se proporcionarán rutas de navegación claras y lógicas que guíen a los usuarios a través del proceso de búsqueda, lectura y colaboración en investigaciones. Esto puede incluir pasos específicos, como buscar una investigación, leerla, dejar comentarios y compartir con otros usuarios.
+5. **Indicadores de progreso**: Para procesos largos o complejos, como el registro de una nueva investigación, habrán indicadores de progreso visuales que muestren a los usuarios en qué etapa del proceso se encuentran y cuánto falta para completarlo.
+
 # Landing Page UI Design
 ## Landing Page Wireframe
 ## Landing Page Mock-up
