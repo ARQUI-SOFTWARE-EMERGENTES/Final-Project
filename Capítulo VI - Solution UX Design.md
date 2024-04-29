@@ -93,6 +93,21 @@ Los tonos de grises se utilizan para crear los mockups y proporcionar profundida
 ## Labeling Systems
 ## Searching Systems
 ## SEO Tags and Meta Tags
+
+**Sitio Web Estático (Landing Page)**
+
+* **Title:** "PaperVault - Tu Repositorio de Investigación Académica"
+* **Meta Description**: "PaperVault es una plataforma que ofrece acceso a investigaciones académicas verificadas y autenticadas. Encuentra, lee y colabora en investigaciones de alta calidad en cualquier campo académico."
+* **Keywords**: "Repositorio de investigación, Acceso a investigaciones, Plataforma académica, Investigación verificada, Colaboración académica"
+* **Author**: "Equipo de PaperVault"
+  
+**Aplicación Web**
+
+* **Title**: "PaperVault - Tu Repositorio de Investigación Académica"
+* **Meta Description**: "PaperVault es una plataforma web que te permite acceder y colaborar en investigaciones académicas verificadas y autenticadas. Encuentra y lee investigaciones de alta calidad en cualquier campo académico."
+* **Keywords**: "Repositorio de investigación, Acceso a investigaciones, Plataforma académica, Investigación verificada, Colaboración académica"
+* **Author**: "Equipo de PaperVault"
+
 ## Navigation Systems
 # Landing Page UI Design
 ## Landing Page Wireframe
