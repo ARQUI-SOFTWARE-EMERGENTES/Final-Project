@@ -81,7 +81,23 @@
 **FormularioCreacionPlazoRevision**: Un formulario de entrada que permite a los usuarios crear nuevos plazos de revisión. Este formulario estará representado por una clase que maneja la validación y el envío de los datos del formulario al controlador correspondiente.
 
 ## Application Layer
+
+**CrearPlazoRevisionCommandHandler**: Se encarga de procesar solicitudes para crear nuevos plazos de revisión. Este handler tomaría un comando de creación de plazo de revisión como entrada y realizaría las validaciones necesarias antes de persistir el nuevo plazo de revisión en el sistema.
+
+**ActualizarPlazoRevisionCommandHandler**: Un handler de comandos encargado de procesar solicitudes para actualizar los plazos de revisión existentes. Este handler tomaría un comando de actualización de plazo de revisión como entrada y realizaría las validaciones necesarias antes de actualizar el estado del plazo de revisión en el sistema.
+
+**EliminarPlazoRevisionCommandHandler**: Un manejador de comandos encargado de procesar solicitudes para eliminar plazos de revisión existentes. Este manejador tomaría un comando de eliminación de plazo de revisión como entrada y realizaría las validaciones necesarias antes de eliminar el plazo de revisión del sistema.
+
+**NotificarProgresoEventHandler**: Un handler de eventos encargado de procesar eventos relacionados con el progreso de la revisión de investigaciones. Este handler escuchará eventos de progreso de revisión y enviaría notificaciones a los usuarios correspondientes sobre el estado actual de sus investigaciones.
+
 ## Infrastructure Layer
+
+**PlazoRevisionRepository**: Clase encargada de interactuar con la base de datos para realizar operaciones de persistencia relacionadas con los plazos de revisión.
+
+**NotificacionEmailService**: Esta clase se encargará de enviar notificaciones por correo electrónico a los usuarios sobre el progreso de la revisión de sus investigaciones. Esta clase utilizará un servicio externo de correo electrónico para enviar los correos electrónicos correspondientes.
+
+**DatabaseConnection**: Una clase encargada de establecer conexiones con la base de datos y proporcionar instancias de conexiones para ser utilizadas por los repositorios y otras clases que necesiten acceder a la base de datos.
+
 ## Bounded Context Software Architecture Component Level Diagrams
 ## Bounded Context Software Architecture Code Level Diagrams
 ### Bounded Context Domain Layer Class Diagrams
