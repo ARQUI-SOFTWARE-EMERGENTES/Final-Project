@@ -1,6 +1,85 @@
-# Bounded Context: Bounded Context Name
+# Bounded Context: Plaza de revisión
 ## Domain Layer
+
+<table>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Nombre</td>
+    <td colspan="2">Investigación</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Categoría</td>
+    <td colspan="2">Entity</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Propósito</td>
+    <td colspan="2">bounded context engloba el comportamiento de multiples entidades y objetos.</td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center; font-weight: bold;">Atributos</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Nombre</td>
+    <td style="font-weight: bold;">Tipo de dato</td>
+    <td style="font-weight: bold;">Visibilidad</td>
+    <td style="font-weight: bold;">Descripción</td>
+  </tr>
+  <tr>
+    <td>Title</td>
+    <td>String</td>
+    <td>private</td>
+    <td>Título de la investigación</td>
+  </tr>
+  <tr>
+    <td>Author</td>
+    <td>String</td>
+    <td>private</td>
+    <td>El autor de la investigación</td>
+  </tr>
+  <tr>
+    <td>dateSent</td>
+    <td>Date</td>
+    <td>public</td>
+    <td>La fecha en que se envió la investigación.</td>
+  </tr>
+  <tr>
+    <td>reviewStatus</td>
+    <td>ReviewStatus</td>
+    <td>public</td>
+    <td>El estado de revisión de la investigación</td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center;font-weight: bold;">Métodos</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Nombre</td>
+    <td style="font-weight: bold;">Tipo de retorno</td>
+    <td style="font-weight: bold;">Visibilidad</td>
+    <td style="font-weight: bold;">Descripción</td>
+  </tr>
+  <tr>
+    <td>getReviewStatus</td>
+    <td>ReviewStatus</td>
+    <td>public</td>
+    <td>Método para obtener el estado de la revisión actual.</td>
+  </tr>
+  <tr>
+    <td>setReviewStatus</td>
+    <td>void</td>
+    <td>public</td>
+    <td>Método para asignar o actualizar el estado de revisión de una investigación.</td>
+  </tr>
+</table>
+
 ## Interface Layer
+
+**RevisiónController**: Es el controlador encargado de manejar las solicitudes relacionadas con la gestión de los plazos de revisión, como la creación, actualización y eliminación de plazos de revisión, así como la notificación de progreso al usuario.
+
+**NotificacionService**: Es el servicio encargado de enviar notificaciones a los usuarios sobre el progreso de la revisión de sus investigaciones. Este servicio recibirá eventos de progreso de revisión y envía notificaciones a los usuarios correspondientes.
+
+**PlazoRevisionDTO**: Un objeto de transferencia de datos (DTO) que encapsula la información necesaria para mostrar los detalles de un plazo de revisión en la interfaz de usuario. Este DTO incluirá campos como la fecha de inicio, la fecha límite, el estado de progreso, etc.
+
+**FormularioCreacionPlazoRevision**: Un formulario de entrada que permite a los usuarios crear nuevos plazos de revisión. Este formulario estará representado por una clase que maneja la validación y el envío de los datos del formulario al controlador correspondiente.
+
 ## Application Layer
 ## Infrastructure Layer
 ## Bounded Context Software Architecture Component Level Diagrams
