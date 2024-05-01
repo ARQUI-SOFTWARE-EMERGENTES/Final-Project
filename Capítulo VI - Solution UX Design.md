@@ -118,6 +118,11 @@ Los tonos de grises se utilizan para crear los mockups y proporcionar profundida
 
 # Landing Page UI Design
 ## Landing Page Wireframe
+
+<img src="./images/landing-page-wireframe.png" />
+
+Link figma: https://www.figma.com/file/zNPrqfJSAqfuPlOdPKYcnK/Landing-Page---PaperVault?type=design&node-id=0%3A1&mode=design&t=HEXAmxc46zu9d3Sq-1
+
 ## Landing Page Mock-up
 # Applications UX/UI Design
 ## Applications Wireframes
@@ -144,7 +149,3 @@ Subir Investigación
 <img src="images/wireflow/subir investigacion - wireflow.png" width=1000>
 
 Link figma: https://www.figma.com/file/Vm0pccqYgyLcYtaHlbmyCb/PaperVault-Wireframes?type=design&node-id=1%3A2&mode=design&t=4bvVK7eQomvPfNaK-1
-
-## Applications Mock-ups
-## Applications User Flow Diagrams
-# Applications Prototyping
