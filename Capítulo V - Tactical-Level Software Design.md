@@ -1,4 +1,4 @@
-# Bounded Context: Plaza de revisión
+# Bounded Context: Plazo de revisión
 ## Domain Layer
 
 <table>
@@ -613,9 +613,118 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
 ### Bounded Context Domain Layer Class Diagrams
 ### Bounded Context Database Design Diagram
 
-# Bounded Context: Bounded Context Name
+# Bounded Context: Asignación de investigaciones
 ## Domain Layer
+
+<table>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Nombre:</td>
+    <td colspan="2">Reviewer</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Categoría:</td>
+    <td colspan="2">Entity</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Propósito:</td>
+    <td colspan="2">Revisa y aprueba investigaciones</td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center; font-weight: bold;">Atributos</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Nombre</td>
+    <td style="font-weight: bold;">Tipo de dato</td>
+    <td style="font-weight: bold;">Visibilidad</td>
+    <td style="font-weight: bold;">Descripción</td>
+  </tr>
+  <tr>
+    <td>reviewerUserId</td>
+    <td>int</td>
+    <td>private</td>
+    <td>Identificador único del revisor</td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td>string</td>
+    <td>private</td>
+    <td>Nombre del revisor</td>
+  </tr>
+  <tr>
+    <td>correo</td>
+    <td>string</td>
+    <td>private</td>
+    <td>correo del usuario revisor</td>
+  </tr>
+  <tr>
+    <td>location</td>
+    <td>Location</td>
+    <td>private</td>
+    <td>Ubicación del usuario revisor</td>
+  </tr>
+  <tr>
+    <td>password</td>
+    <td>string</td>
+    <td>private</td>
+    <td>Contraseña del usuario</td>
+  </tr>
+  <tr>
+    <td>numberReviews</td>
+    <td>int</td>
+    <td>private</td>
+    <td>Cantidad de revisionas realizadas</td>
+  </tr>
+  <tr>
+    <td>assignedReviews</td>
+    <td>int</td>
+    <td>private</td>
+    <td>Cantidad de revisionas asignadas</td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center;font-weight: bold;">Métodos</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Nombre</td>
+    <td style="font-weight: bold;">Tipo de retorno</td>
+    <td style="font-weight: bold;">Visibilidad</td>
+    <td style="font-weight: bold;">Descripción</td>
+  </tr>
+  <tr>
+    <td>AssignResearch</td>
+    <td>void</td>
+    <td>public</td>
+    <td>Un método para que el usuario revisor pueda seleccionar las investigaciones que quiera revisar.</td>
+  </tr>
+  <tr>
+    <td>ChangeStatusResearch</td>
+    <td>void</td>
+    <td>public</td>
+    <td>Un método para que el usuario revisor cambie el estado de la investigación</td>
+  </tr>
+  <tr>
+    <td>ChangeName</td>
+    <td>void</td>
+    <td>public</td>
+    <td>Método para cambiar el nombre del usuario</td>
+  </tr>
+   <tr>
+    <td>ChangePassword</td>
+    <td>void</td>
+    <td>public</td>
+    <td>Cambiar la contraseña</td>
+  </tr>
+  <tr>
+    <td>ChangeEmail</td>
+    <td>void</td>
+    <td>public</td>
+    <td>Cambiar el correo del usuario</td>
+  </tr>
+</table>
+
 ## Interface Layer
+
+
+
 ## Application Layer
 ## Infrastructure Layer
 ## Bounded Context Software Architecture Component Level Diagrams
