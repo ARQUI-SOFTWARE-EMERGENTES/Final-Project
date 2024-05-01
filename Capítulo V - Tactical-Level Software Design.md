@@ -416,8 +416,7 @@
     <td style="font-weight: bold;">Nombre</td>
     <td style="font-weight: bold;">Tipo de retorno</td>
     <td style="font-weight: bold;">Visibilidad</td>
-    <td style="font-weight: bold;">Desc
-    ripción</td>
+    <td style="font-weight: bold;">Descripción</td>
   </tr>
   <tr>
     <td>submitInvestigation </td>
@@ -723,6 +722,91 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
 
 ## Interface Layer
 
+<table>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Nombre:</td>
+        <td colspan="2">AssignInvestigationReviewerInterface</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Categoría:</td>
+        <td colspan="2">Interface</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Propósito:</td>
+        <td colspan="2">Interface de asignación de investigaciones a revisores</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="font-weight: bold; text-align: center;">Atributos</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Nombre</td>
+        <td style="font-weight: bold;">Tipo de Dato</td>
+        <td style="font-weight: bold;">Visibilidad</td>
+        <td style="font-weight: bold;">Descripción</td>
+    </tr>
+    <tr>
+        <td>InvestigationId</td>
+        <td>String</td>
+        <td>public</td>
+        <td>Representa el identificador único de la investigación</td>
+    </tr>
+    <tr>
+        <td>ReviewerId</td>
+        <td>String</td>
+        <td>public</td>
+        <td>Representa el identificador único del revisor</td>
+    </tr>
+    <tr>
+        <td>ReviewPeriod</td>
+        <td>String</td>
+        <td>public</td>
+        <td>Representa el plazo máximo de la revisión</td>
+    </tr>
+    <tr>
+        <td>Result</td>
+        <td>String</td>
+        <td>public</td>
+        <td>Representa el resultado de la revisión</td>
+    </tr>
+</table>
+
+<br> <br>
+
+<table>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Nombre:</td>
+    <td colspan="2">AssignInvestigationController</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Categoría:</td>
+    <td colspan="2">Controller</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Propósito:</td>
+    <td colspan="2">Maneja la solicitudes sobre la asignación de investigaciones a los revisores</td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center;font-weight: bold;">Métodos</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Nombre</td>
+    <td style="font-weight: bold;">Tipo de retorno</td>
+    <td style="font-weight: bold;">Visibilidad</td>
+    <td style="font-weight: bold;">Descripción</td>
+  </tr>
+  <tr>
+    <td>assignReviewer</td>
+    <td>ResponseEntity< String></td>
+    <td>public</td>
+    <td>Este método maneja la solicitud de asignación de revisión. Para ello, se envía el id de la investigación y el id del revisor. Retorna una respuesta dependiendo del resultado de la operación.</td>
+  </tr>
+  <tr>
+    <td>deleteAssignReviewer</td>
+    <td>ResponseEntity< String></td>
+    <td>public</td>
+    <td>Este método maneja la solicitud de eliminación de revisión. Para ello, se envía el id de la investigación y el id del revisor. Retorna una respuesta dependiendo del resultado de la operación.</td>
+  </tr>
+</table>
 
 
 ## Application Layer
