@@ -808,8 +808,41 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
   </tr>
 </table>
 
-
 ## Application Layer
+
+<table>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Nombre: </td>
+        <td colspan="2">AssignInvestigationService</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Categoría:</td>
+        <td colspan="2">Servicio</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Propósito:</td>
+        <td colspan="2">Maneja la lógica de negocio relacionada con la asignación de investigaciones a revisores</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Nombre</td>
+        <td style="font-weight: bold;">Tipo de retorno</td>
+        <td style="font-weight: bold;">Visibilidad</td>
+        <td style="font-weight: bold;">Descripción</td>
+    </tr>
+    <tr>
+        <td>createAssignInvestigation</td>
+        <td>ResponseEntity< String></td>
+        <td>public</td>
+        <td>Este método verifica que exista la investigación y el revisor, y en caso exista, crea un nuevo registro de asignación.</td>
+    </tr>
+    <tr>
+        <td>deleteAssignInvestigation</td>
+        <td>ResponseEntity< String></td>
+        <td>public</td>
+        <td>Este método verifica que exista la asignación entre la investigación y el revisor, y en caso exista, elimina dicha asignación.</td>
+    </tr>
+</table>
+
 ## Infrastructure Layer
 ## Bounded Context Software Architecture Component Level Diagrams
 ## Bounded Context Software Architecture Code Level Diagrams
