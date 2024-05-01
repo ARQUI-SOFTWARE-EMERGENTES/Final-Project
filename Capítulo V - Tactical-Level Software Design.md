@@ -657,7 +657,7 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
   </tr>
   <tr>
     <td>location</td>
-    <td>Location</td>
+    <td>string</td>
     <td>private</td>
     <td>Ubicación del usuario revisor</td>
   </tr>
@@ -877,7 +877,7 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
 
 ## Bounded Context Software Architecture Component Level Diagrams
 
-
+<img src="./images/Component diagram - assignment.png" />
 
 ## Bounded Context Software Architecture Code Level Diagrams
 ### Bounded Context Domain Layer Class Diagrams
