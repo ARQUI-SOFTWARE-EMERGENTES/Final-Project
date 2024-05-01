@@ -121,7 +121,30 @@ Los tonos de grises se utilizan para crear los mockups y proporcionar profundida
 ## Landing Page Mock-up
 # Applications UX/UI Design
 ## Applications Wireframes
+
+Los wireframes realizados son los siguientes:
+
+<img src="images/wireframes.png" width=1000>
+
+Link figma: https://www.figma.com/file/Vm0pccqYgyLcYtaHlbmyCb/PaperVault-Wireframes?type=design&node-id=0%3A1&mode=design&t=4bvVK7eQomvPfNaK-1
+
 ## Applications Wireflow Diagrams
+
+Los diagramas que hemos detectado son los siguientes:
+
+Inicio de sesión
+<img src="images/wireflow/inicio sesion - wireflow.png" width=1000>
+Registro de usuario
+<img src="images/wireflow/registro - wireflow.png" width=1000>
+Buscar paper
+<img src="images/wireflow/buscar paper - wireflow.png" width=1000>
+Ver perfil
+<img src="images/wireflow/ver perfil - wireflow.png" width=1000>
+Subir Investigación
+<img src="images/wireflow/subir investigacion - wireflow.png" width=1000>
+
+Link figma: https://www.figma.com/file/Vm0pccqYgyLcYtaHlbmyCb/PaperVault-Wireframes?type=design&node-id=1%3A2&mode=design&t=4bvVK7eQomvPfNaK-1
+
 ## Applications Mock-ups
 ## Applications User Flow Diagrams
 # Applications Prototyping
