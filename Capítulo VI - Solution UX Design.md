@@ -124,6 +124,11 @@ Los tonos de grises se utilizan para crear los mockups y proporcionar profundida
 Link figma: https://www.figma.com/file/zNPrqfJSAqfuPlOdPKYcnK/Landing-Page---PaperVault?type=design&node-id=0%3A1&mode=design&t=HEXAmxc46zu9d3Sq-1
 
 ## Landing Page Mock-up
+
+<img src="./images/Landing page - mockups.png" />
+
+Link figma: https://www.figma.com/file/zNPrqfJSAqfuPlOdPKYcnK/Landing-Page---PaperVault?type=design&node-id=9%3A129&mode=design&t=HEXAmxc46zu9d3Sq-1
+
 # Applications UX/UI Design
 ## Applications Wireframes
 
