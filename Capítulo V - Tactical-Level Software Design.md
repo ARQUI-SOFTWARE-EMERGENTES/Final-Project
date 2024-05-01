@@ -689,34 +689,10 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
     <td style="font-weight: bold;">Descripción</td>
   </tr>
   <tr>
-    <td>AssignResearch</td>
+    <td>AssignInvestigation</td>
     <td>void</td>
     <td>public</td>
     <td>Un método para que el usuario revisor pueda seleccionar las investigaciones que quiera revisar.</td>
-  </tr>
-  <tr>
-    <td>ChangeStatusResearch</td>
-    <td>void</td>
-    <td>public</td>
-    <td>Un método para que el usuario revisor cambie el estado de la investigación</td>
-  </tr>
-  <tr>
-    <td>ChangeName</td>
-    <td>void</td>
-    <td>public</td>
-    <td>Método para cambiar el nombre del usuario</td>
-  </tr>
-   <tr>
-    <td>ChangePassword</td>
-    <td>void</td>
-    <td>public</td>
-    <td>Cambiar la contraseña</td>
-  </tr>
-  <tr>
-    <td>ChangeEmail</td>
-    <td>void</td>
-    <td>public</td>
-    <td>Cambiar el correo del usuario</td>
   </tr>
 </table>
 
@@ -725,7 +701,7 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
 <table>
     <tr>
         <td colspan="2" style="font-weight: bold;">Nombre:</td>
-        <td colspan="2">AssignInvestigationReviewerInterface</td>
+        <td colspan="2">AssignInvestigationInterface</td>
     </tr>
     <tr>
         <td colspan="2" style="font-weight: bold;">Categoría:</td>
@@ -746,19 +722,19 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
     </tr>
     <tr>
         <td>InvestigationId</td>
-        <td>String</td>
+        <td>int</td>
         <td>public</td>
         <td>Representa el identificador único de la investigación</td>
     </tr>
     <tr>
         <td>ReviewerId</td>
-        <td>String</td>
+        <td>int</td>
         <td>public</td>
         <td>Representa el identificador único del revisor</td>
     </tr>
     <tr>
         <td>ReviewPeriod</td>
-        <td>String</td>
+        <td>date</td>
         <td>public</td>
         <td>Representa el plazo máximo de la revisión</td>
     </tr>
@@ -806,6 +782,12 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
     <td>public</td>
     <td>Este método maneja la solicitud de eliminación de revisión. Para ello, se envía el id de la investigación y el id del revisor. Retorna una respuesta dependiendo del resultado de la operación.</td>
   </tr>
+  <tr>
+    <td>getAssignInvestigationByReviewerId</td>
+    <td>Array</td>
+    <td>public</td>
+    <td>Este método maneja la solicitud para obtener los asignamientos de un revisor. Para ello, el id del revisor. Retorna una array dependiendo del resultado de la operación.</td>
+  </tr>
 </table>
 
 ## Application Layer
@@ -833,7 +815,7 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
         <td>createAssignInvestigation</td>
         <td>ResponseEntity< String></td>
         <td>public</td>
-        <td>Este método verifica que exista la investigación y el revisor, y en caso exista, crea un nuevo registro de asignación.</td>
+        <td>Este método verifica que exista la investigación y el revisor, y en caso exista, crea un nuevo registro de asignación y asigna el plazo de revisión.</td>
     </tr>
     <tr>
         <td>deleteAssignInvestigation</td>
@@ -841,9 +823,58 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
         <td>public</td>
         <td>Este método verifica que exista la asignación entre la investigación y el revisor, y en caso exista, elimina dicha asignación.</td>
     </tr>
+    <tr>
+        <td>getAssignInvestigationByReviewerId</td>
+        <td>ResponseEntity< String></td>
+        <td>public</td>
+        <td>Este método se encarga de devolver las asignaciones de un revisor</td>
+    </tr>
 </table>
 
 ## Infrastructure Layer
+
+<table>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Nombre:</td>
+        <td colspan="2">AssignInvestigationRepository</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Categoría:</td>
+        <td colspan="2">Repositorio</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Propósito:</td>
+        <td colspan="2">Proporciona métodos para interactuar con la base de datos relacionados con la asignación de investigaciones a revisores</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="font-weight: bold; text-align: center;">Métodos</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Nombre</td>
+        <td style="font-weight: bold;">Tipo de retorno</td>
+        <td style="font-weight: bold;">Visibilidad</td>
+        <td style="font-weight: bold;">Descripción</td>
+    </tr>
+    <tr>
+        <td>saveAssignInvestigation</td>
+        <td>void</td>
+        <td>protected</td>
+        <td>Guarda una nueva asignación de investigación a un revisor en la base de datos</td>
+    </tr>
+    <tr>
+        <td>deleteAssignInvestigation</td>
+        <td>void</td>
+        <td>protected</td>
+        <td>Elimina una asignación de investigación a un revisor en la base de datos</td>
+    </tr>
+    <tr>
+        <td>getAssignInvestigationByReviewerId</td>
+        <td>array</td>
+        <td>protected</td>
+        <td>Recupera las asignaciones de la base de datos según el id del revisor.</td>
+    </tr>
+</table>
+
 ## Bounded Context Software Architecture Component Level Diagrams
 ## Bounded Context Software Architecture Code Level Diagrams
 ### Bounded Context Domain Layer Class Diagrams
