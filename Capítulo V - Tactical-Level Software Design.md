@@ -644,13 +644,13 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
     <td>Identificador único del revisor</td>
   </tr>
   <tr>
-    <td>Name</td>
+    <td>name</td>
     <td>string</td>
     <td>private</td>
     <td>Nombre del revisor</td>
   </tr>
   <tr>
-    <td>correo</td>
+    <td>email</td>
     <td>string</td>
     <td>private</td>
     <td>correo del usuario revisor</td>
@@ -876,6 +876,11 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
 </table>
 
 ## Bounded Context Software Architecture Component Level Diagrams
+
+
+
 ## Bounded Context Software Architecture Code Level Diagrams
 ### Bounded Context Domain Layer Class Diagrams
 ### Bounded Context Database Design Diagram
+
+<img src="./images/assign-review-db-diagram.png" />
