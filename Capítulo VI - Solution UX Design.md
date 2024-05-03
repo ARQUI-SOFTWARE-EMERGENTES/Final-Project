@@ -91,7 +91,43 @@ Los tonos de grises se utilizan para crear los mockups y proporcionar profundida
 
 # Information Architecture
 ## Labeling Systems
+
+A continuación, se mostrará el sistema de etiquetado que permitirá a nuestros visitantes recibir la información que nuestra Web Application ofrece a tráves de una sola palabra
+
+En el caso de los tesistas contamos con 4 "headings" ubicadas en el menú principal:
+
+* **Inicio**: Sección seleccionada por defecto dónde los tesistas verán infomación relevante que captará su atención y mostrará las opciones principales dirigidas al tesistas.
+* **Buscar**: Sección en donde se visualizarán todos los articulos segun lo ingresado por el tesista, además de los filtros que seleccione.
+* **Mis Articulos**: Sección enfocada en listar y detallar los articulos seleccionados por el usuario.
+* **Mi perfil**: Sección dónde se encuentran los datos personales del tesista.
+
+En el caso de los investigadores contamos con 4 "headings ubicados en el menú principal:
+
+* **Inicio**: Sección seleccionada por defecto dónde los investigadores verán infomación relevante que captará su atención y mostrará las opciones principales dirigidas al investigadores.
+* **Mis Investigaciones**: Sección enfocada en listar y detallar los articulos seleccionados por el usuario.
+* **Colaboraciones**: Sección en donde se visualizarán los articulos que el investigador ha colaborado.
+* **Mi perfil**: Sección dónde se encuentran los datos personales del investigador.
+
 ## Searching Systems
+
+A continuación, se mostrará los sistemas de búsqueda que permitirán a nuestros visitantes encontrar la información que nuestra Web Application ofrece.
+
+**Segmento Tesistas**
+
+* **Búsqueda por Título**: Los tesistas podrán buscar investigaciones académicas por título, lo que les permitirá encontrar rápidamente los documentos que necesitan para sus trabajos de investigación.
+
+* **Búsqueda por Autor**: Los tesistas también podrán buscar investigaciones por autor, lo que les permitirá identificar y acceder a trabajos específicos de investigadores reconocidos en su campo de estudio.
+
+* **Búsqueda por Palabras Clave**: La búsqueda por palabras clave permitirá a los tesistas encontrar investigaciones relevantes en función de los temas o conceptos específicos que estén investigando.
+
+* **Filtros de Búsqueda Avanzada**: Se proporcionarán filtros de búsqueda avanzada que permitirán a los tesistas refinar sus resultados en función de criterios específicos, como fecha de publicación, tipo de investigación, área temática, etc.
+
+**Segmento Investigadores**
+
+* **Comentarios**: Los investigadores podrán visualizar los comentarios realizados en cada una de sus investigaciones subidas a la aplicación.
+
+* **Búsqueda de las investigaciones**: Los investigadores podrán buscar las investigaciones que han subido a la aplicación.
+
 ## SEO Tags and Meta Tags
 
 **Sitio Web Estático (Landing Page)**
