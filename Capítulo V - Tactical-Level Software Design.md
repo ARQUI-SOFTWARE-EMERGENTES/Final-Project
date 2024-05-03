@@ -104,10 +104,11 @@
 ## Bounded Context Software Architecture Code Level Diagrams
 ### Bounded Context Domain Layer Class Diagrams
 
+![](images/Diagrama%20de%20clases.png)
 
 ### Bounded Context Database Design Diagram
 
-
+![](images/investigation_db_diagram.png)
 
 # Bounded Context: Envío de investigaciones
 ## Domain Layer
