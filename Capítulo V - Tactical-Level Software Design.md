@@ -99,9 +99,15 @@
 **DatabaseConnection**: Una clase encargada de establecer conexiones con la base de datos y proporcionar instancias de conexiones para ser utilizadas por los repositorios y otras clases que necesiten acceder a la base de datos.
 
 ## Bounded Context Software Architecture Component Level Diagrams
+
+
 ## Bounded Context Software Architecture Code Level Diagrams
 ### Bounded Context Domain Layer Class Diagrams
+
+
 ### Bounded Context Database Design Diagram
+
+
 
 # Bounded Context: Envío de investigaciones
 ## Domain Layer
@@ -602,15 +608,276 @@ El Infrastructure Layer se encarga de implementar los detalles técnicos y de in
 
 <br>
 
-# Bounded Context: Bounded Context Name
+# Bounded Context: Comentarios
 ## Domain Layer
+
+<table>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Nombre:</td>
+    <td colspan="2">Reviewer</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Categoría:</td>
+    <td colspan="2">Entity</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Propósito:</td>
+    <td colspan="2">Realiza comentarios de las investigaciones</td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center; font-weight: bold;">Atributos</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Nombre</td>
+    <td style="font-weight: bold;">Tipo de dato</td>
+    <td style="font-weight: bold;">Visibilidad</td>
+    <td style="font-weight: bold;">Descripción</td>
+  </tr>
+  <tr>
+    <td>commenterId</td>
+    <td>int</td>
+    <td>private</td>
+    <td>Identificador único del usuario que comenta</td>
+  </tr>
+  <tr>
+    <td>name</td>
+    <td>string</td>
+    <td>private</td>
+    <td>Nombre del usuario que comenta</td>
+  </tr>
+  <tr>
+    <td>email</td>
+    <td>string</td>
+    <td>private</td>
+    <td>correo del usuario que comenta</td>
+  </tr>
+  <tr>
+    <td>location</td>
+    <td>string</td>
+    <td>private</td>
+    <td>Ubicación del usuario que comenta</td>
+  </tr>
+  <tr>
+    <td>password</td>
+    <td>string</td>
+    <td>private</td>
+    <td>Contraseña del usuario que comenta</td>
+  </tr>
+  <tr>
+    <td>commentsMade</td>
+    <td>int</td>
+    <td>private</td>
+    <td>Cantidad de comentarios realizadas</td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center;font-weight: bold;">Métodos</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Nombre</td>
+    <td style="font-weight: bold;">Tipo de retorno</td>
+    <td style="font-weight: bold;">Visibilidad</td>
+    <td style="font-weight: bold;">Descripción</td>
+  </tr>
+  <tr>
+    <td>AddComment</td>
+    <td>void</td>
+    <td>public</td>
+    <td>Método para que el usuario agregue comentarios a investigaciones.</td>
+  </tr>
+</table>
+
 ## Interface Layer
+
+<table>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Nombre:</td>
+        <td colspan="2">CommentInterface</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Categoría:</td>
+        <td colspan="2">Interface</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Propósito:</td>
+        <td colspan="2">Interface para la gestión de comentarios en investigaciones</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="font-weight: bold; text-align: center;">Atributos</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Nombre</td>
+        <td style="font-weight: bold;">Tipo de Dato</td>
+        <td style="font-weight: bold;">Visibilidad</td>
+        <td style="font-weight: bold;">Descripción</td>
+    </tr>
+    <tr>
+        <td>InvestigationId</td>
+        <td>int</td>
+        <td>public</td>
+        <td>Representa el identificador único de la investigación</td>
+    </tr>
+    <tr>
+        <td>ReviewerId</td>
+        <td>int</td>
+        <td>public</td>
+        <td>Representa el identificador único del comentarista</td>
+    </tr>
+    <tr>
+        <td>CommentContent</td>
+        <td>string</td>
+        <td>public</td>
+        <td>Contenido del comentario</td>
+    </tr>
+    <tr>
+        <td>CommentDate</td>
+        <td>date</td>
+        <td>public</td>
+        <td>Representa la fecha en la que se realizó el comentario</td>
+    </tr>
+</table>
+
+<br> <br>
+
+<table>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Nombre:</td>
+    <td colspan="2">CommentController</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Categoría:</td>
+    <td colspan="2">Controller</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">Propósito:</td>
+    <td colspan="2">Controlador para la gestión de comentarios en investigaciones</td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center;font-weight: bold;">Métodos</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Nombre</td>
+    <td style="font-weight: bold;">Tipo de retorno</td>
+    <td style="font-weight: bold;">Visibilidad</td>
+    <td style="font-weight: bold;">Descripción</td>
+  </tr>
+  <tr>
+    <td>addComment</td>
+    <td>ResponseEntity< String></td>
+    <td>public</td>
+    <td>Maneja la solicitud de agregar un nuevo comentario.</td>
+  </tr>
+  <tr>
+    <td>deleteComment</td>
+    <td>ResponseEntity< String></td>
+    <td>public</td>
+    <td>Maneja la solicitud de eliminación de un comentario.</td>
+  </tr>
+  <tr>
+    <td>editComment</td>
+    <td>Array</td>
+    <td>public</td>
+    <td>Maneja la solicitud de editar un comentario existente.</td>
+  </tr>
+</table>
+
 ## Application Layer
+
+<table>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Nombre: </td>
+        <td colspan="2">CommentService</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Categoría:</td>
+        <td colspan="2">Servicio</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Propósito:</td>
+        <td colspan="2">Lógica de negocio para la gestión de comentarios en investigaciones</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Nombre</td>
+        <td style="font-weight: bold;">Tipo de retorno</td>
+        <td style="font-weight: bold;">Visibilidad</td>
+        <td style="font-weight: bold;">Descripción</td>
+    </tr>
+    <tr>
+        <td>addComment</td>
+        <td>ResponseEntity< String></td>
+        <td>public</td>
+        <td>Verifica que exista la investigación y el comentarista, y en caso exista, agrega un nuevo comentario.</td>
+    </tr>
+    <tr>
+        <td>deleteComment</td>
+        <td>ResponseEntity< String></td>
+        <td>public</td>
+        <td>Verifica que exista el comentario, y en caso exista, lo elimina.</td>
+    </tr>
+    <tr>
+        <td>editComment</td>
+        <td>ResponseEntity< String></td>
+        <td>public</td>
+        <td>Verifica que exista el comentario y el contenido editado, y en caso exista, actualiza el comentario</td>
+    </tr>
+</table>
+
 ## Infrastructure Layer
+
+<table>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Nombre:</td>
+        <td colspan="2">commentRepository</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Categoría:</td>
+        <td colspan="2">Repositorio</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-weight: bold;">Propósito:</td>
+        <td colspan="2">Interacción con la base de datos para la gestión de datos para la gestión de comentarios en investigaciones</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="font-weight: bold; text-align: center;">Métodos</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Nombre</td>
+        <td style="font-weight: bold;">Tipo de retorno</td>
+        <td style="font-weight: bold;">Visibilidad</td>
+        <td style="font-weight: bold;">Descripción</td>
+    </tr>
+    <tr>
+        <td>addComment</td>
+        <td>void</td>
+        <td>protected</td>
+        <td>Guarda un nuevo comentario en la base de datos.</td>
+    </tr>
+    <tr>
+        <td>deleteComment</td>
+        <td>void</td>
+        <td>protected</td>
+        <td>Elimina un comentario existente de la base de datos.</td>
+    </tr>
+    <tr>
+        <td>editComment</td>
+        <td>array</td>
+        <td>protected</td>
+        <td>Actualiza un comentario existente en la base de datos.</td>
+    </tr>
+</table>
+
 ## Bounded Context Software Architecture Component Level Diagrams
+
+<img src="./images/bc_comment.png" />
+
+
 ## Bounded Context Software Architecture Code Level Diagrams
 ### Bounded Context Domain Layer Class Diagrams
+
+<img src="./images/Class_Diagram_Comments.png" />
+
 ### Bounded Context Database Design Diagram
+
+<img src="./images/Bd_comments.png" />
 
 # Bounded Context: Asignación de investigaciones
 ## Domain Layer
