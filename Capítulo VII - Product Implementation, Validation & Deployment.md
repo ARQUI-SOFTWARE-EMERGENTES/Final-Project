@@ -46,6 +46,47 @@
 
 ## Software Deployment Configuration
 
+En esta sección, el equipo especifica la configuración del despliegue de la solución, incluyendo los pasos necesarios para que, a partir de los repositorios de código fuente, se pueda lograr el despliegue o publicación satisfactorio de cada uno de los productos digitales en la solución.
+
+### Requisitos previos
+
+**Repositorios de código fuente**
+
+* Backend (Java y Spring Boot): Repositorio en GitHub (https://github.com/orgs/ARQUI-SOFTWARE-EMERGENTES/repositories).
+* Frontend (Flutter y Angular): Repositorios separados en GitHub (https://github.com/orgs/ARQUI-SOFTWARE-EMERGENTES/repositories).
+* Base de datos: PostgreSQL.
+
+**Entorno de desarrollo**
+
+* Java Development Kit (JDK).
+* Node.js y npm.
+* Flutter SDK.
+* PostgreSQL.
+
+### Pasos de despliegue
+
+1. Configuración de PostgreSQL en AWS RDS
+    - Crear una instancia de PostgreSQL en Amazon RDS. 
+    - Configurar las credenciales y parámetros de conexión (host, puerto, usuario, contraseña, base de datos).,
+
+2. Configuración de instancias EC2 
+   - Crear una instancia de EC2 para el backend. 
+   - Instalar JDK y configurar variables de entorno. 
+   - Instalar PostgreSQL client tools para pruebas de conectividad.
+
+3. Despliegue del Backend (Spring Boot)
+   - Compilación del proyecto 
+   - Clonar el repositorio del backend. 
+   - Ejecutar ./mvnw clean package para compilar el proyecto y generar el archivo .jar.
+ 
+4. Configuración del entorno
+
+   - Establecer variables de entorno necesarias (e.g., DB_HOST, DB_PORT, DB_USER, DB_PASSWORD).
+   
+5. Despliegue en EC2
+   - Transferir el archivo .jar a la instancia de EC2.
+   - Ejecutar java -jar nombre-del-archivo.jar.
+
 # Solution Implementation
 
 ## Sprint 1
