@@ -168,9 +168,19 @@ Link figma: https://www.figma.com/file/zNPrqfJSAqfuPlOdPKYcnK/Landing-Page---Pap
 # Applications UX/UI Design
 ## Applications Wireframes
 
-Los wireframes realizados son los siguientes:
+### Web
+
+Los wireframes para la versión web realizados son los siguientes:
 
 <img src="images/wireframes.png" width=1000>
+
+Link figma: https://www.figma.com/file/Vm0pccqYgyLcYtaHlbmyCb/PaperVault-Wireframes?type=design&node-id=0%3A1&mode=design&t=4bvVK7eQomvPfNaK-1
+
+### Web
+
+Los wireframes para la versión mobile realizados son los siguientes:
+
+<img src="images/wireframes mobile.png" width=1000>
 
 Link figma: https://www.figma.com/file/Vm0pccqYgyLcYtaHlbmyCb/PaperVault-Wireframes?type=design&node-id=0%3A1&mode=design&t=4bvVK7eQomvPfNaK-1
 
@@ -190,3 +200,51 @@ Subir Investigación
 <img src="images/wireflow/subir investigacion - wireflow.png" width=1000>
 
 Link figma: https://www.figma.com/file/Vm0pccqYgyLcYtaHlbmyCb/PaperVault-Wireframes?type=design&node-id=1%3A2&mode=design&t=4bvVK7eQomvPfNaK-1
+
+## Applications Mock-ups
+
+### Web
+
+Los mockups diseñados para la plataforma web son los siguientes.
+
+<img src="images/mockups.png" width=1000>
+
+Link figma: https://www.figma.com/design/Vm0pccqYgyLcYtaHlbmyCb/PaperVault-Wireframes?node-id=89-2&t=5SP10YNu9MGuVHqX-1
+
+### Mobile
+
+Los mockups diseñados para la plataforma mobile son los siguientes.
+
+<img src="images/mockups mobile.png" width=1000>
+
+## Applications User Flow Diagrams
+
+User Goal: Como tesista, quiero buscar y acceder a papers relevantes para realizar mi investigación de manera eficiente.
+
+<img src="images/userflow/1.png" width=1000>
+
+User Goal: Como autor, quiero subir mis investigaciones a la plataforma para poder mostrar mi trabajo. 
+
+<img src="images/userflow/2.png" width=1000>
+
+User Goal: Como autor quiero ver mis investigaciones en curso para llevar un registro del progreso de las investigaciones en revisión.
+
+<img src="images/userflow/3.png" width=1000>
+
+User Goal: Como tesista quiero descargar un paper de mi interés para poder leerlo estando sin conexión.
+
+<img src="images/userflow/4.png" width=1000>
+
+# Applications Prototyping
+
+### Web
+
+<img src="images/prototipe web.png" width=1000>
+
+Link: https://drive.google.com/file/d/1G8TrTdDMzdaAFt92k3vQZMo2_lzsILqI/view?usp=sharing
+
+### Mobile
+
+<img src="images/prototipe mobile.png" width=1000>
+
+Link: https://drive.google.com/file/d/1wgMb-sgji-cue_H3moMvJBBpFm7Cs9Gb/view?usp=sharing
