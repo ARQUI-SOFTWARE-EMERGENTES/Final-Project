@@ -93,22 +93,73 @@ En esta sección, el equipo especifica la configuración del despliegue de la so
 
 ### Sprint Planning 1
 
-| **Sprint #** | **Sprint 1** |
-| --- | --- |
-| **Sprint Planning Background** |
-| **Date** | 02-06-2024 |
-| **Time** | 06:00 PM |
-| **Location** | Reunión por Meet |
-| **Prepared By** | Gonzalo Barrazueta |
-| **Attendees** | Jonatan Curi / Gonzalo Barrazueta / Vivian Pongo / Gonzalo Sakuda / Jackeline Salomé|
-| **Sprint n Review Summary** | En esta entrega no hay un Sprint anterior, por lo tanto, no hay resúmen de Sprint |
-| **Sprint n Retrospective Summary** | En esta entrega no hay un Sprint anterior, por lo tanto, no hay resúmen de Sprint |
-| **Sprint Goal & User Stories**|
-| **Sprint 1 Goal** | La meta de este Sprint es el desarrollo de la primera versión de la aplicación web, frontend y backend |
-| **Sprint 1 Velocity** | X Velocity |
-| **Sum of Story Points** | X Story Points. |
+<table>
+   <thead>
+      <tr>
+         <th> Sprint # </th>
+         <th> Sprint 1 </th>
+      </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td> Date </td>
+      <td> 02-06-2024 </td>    
+   </tr>
+
+   <tr>
+      <td> Time </td>
+      <td> 06:00 PM </td>
+   </tr>
+
+   <tr>
+      <td> Location </td>
+      <td> Reunión por Meet </td>
+   </tr>
+
+   <tr>
+      <td> Prepared By </td>
+      <td> Gonzalo Barrazueta </td>
+   </tr>
+
+   <tr>
+      <td> Attendees </td>
+      <td> Jonatan Curi / Gonzalo Barrazueta / Vivian Pongo / Gonzalo Sakuda / Jackeline Salomé </td>
+   </tr>
+
+   <tr>
+      <td> Sprint n Review Summary </td>
+      <td> En esta entrega no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint anterior   </td>
+   </tr>
+
+   <tr>
+      <td> Sprint n Retrospective Summary </td>
+      <td> En esta entrega no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint anterior   </td>
+   </tr>
+
+   <tr>
+      <th colspan="2"> Sprint Goal </th>
+   </tr>
+
+   <tr>
+      <td> Sprint 1 Goal </td>
+      <td> La meta de este Sprint es el desarrollo de la primera versión de la aplicación web, frontend y backend </td>
+   </tr>
+
+   <tr>
+      <td> Sprint 1 Velocity </td>
+      <td> X Velocity </td>
+   </tr>
+
+   <tr>
+      <td> Sum of Story Points </td>
+      <td> X Story Points </td>
+   </tr>
+      
+</table>
 
 ### Sprint Backlog 1
+
+
 
 ### Development Evidence for Sprint Review
 
