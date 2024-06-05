@@ -120,6 +120,34 @@ En esta sección, el equipo especifica la configuración del despliegue de la so
 
 ### Software Deployment Evidence for Sprint Review
 
+**Introducción**
+
+Durante este Sprint, el equipo se centró en establecer y configurar la infraestructura de despliegue necesaria para nuestro proyecto. Esto incluyó la creación de cuentas en proveedores de la nube, la configuración de recursos necesarios y la integración de procesos de despliegue para asegurar flujos de trabajo fluidos y automatizados. El objetivo fue crear un pipeline de despliegue robusto que pudiera manejar todos los productos digitales, incluyendo el backend (Java y Spring Boot), el frontend (Flutter y Angular) y la base de datos PostgreSQL.
+
+**Actividades Realizadas**
+
+1. Creación de Cuentas en Proveedores de la Nube
+   
+   - Se creó y configuró una cuenta de AWS para gestionar los recursos en la nube. 
+   - Se configuraron roles y permisos de usuario utilizando AWS Identity and Access Management (IAM) para asegurar el acceso seguro a los recursos.
+
+
+2. Configuración de Recursos en la Nube
+
+   * Se creó una instancia de Amazon RDS para PostgreSQL.
+   * Se configuró la instancia de la base de datos con los grupos de seguridad y los parámetros adecuados.
+   * Se establecieron configuraciones de conectividad para asegurar un acceso seguro y fiable a la base de datos.
+   * Se lanzaron instancias de EC2 para los servicios del backend. 
+   * Se instaló el software necesario (JDK, herramientas de cliente de PostgreSQL) en las instancias de EC2. 
+   * Se configuraron grupos de seguridad para gestionar el tráfico entrante y saliente de las instancias.
+
+
+3. Configuración de Proyectos de Desarrollo
+
+   * Se clonó el repositorio del backend y se configuró el proyecto para conectarse a la nueva instancia de PostgreSQL.
+   * Se actualizaron las propiedades de la aplicación con las credenciales necesarias y los detalles de conexión a la base de datos.
+   * Se empaquetó la aplicación utilizando Maven y se preparó para el despliegue.
+
 ### Team Collaboration Insights during Sprint
 
 # Validation Interviews
