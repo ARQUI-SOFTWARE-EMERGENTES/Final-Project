@@ -159,7 +159,140 @@ En esta sección, el equipo especifica la configuración del despliegue de la so
 
 ### Sprint Backlog 1
 
-
+<table>
+   <thead>
+      <tr>
+         <th colspan="1"> Sprint # </th>
+         <th colspan="7"> Sprint 1 </th>
+      </tr>
+      <tr>
+         <th colspan="2"> User Story </th>
+         <th colspan="6"> Work-Item / Task </th>
+      </tr>
+      <tr>
+         <th> Id </th>
+         <th> Title </th>
+         <th> Id </th>
+         <th> Title </th>
+         <th> Description </th>
+         <th> Estimation (Hours) </th>
+         <th> Assigned To </th>
+         <th> Status (To-do / Doing / Done) </th>
+      </tr>
+   </thead>
+      <tbody>
+      <tr>
+         <td> US01 </td>
+         <td> Registrar cuenta </td>
+         <td> T1 </td>
+         <td> Crear formulario de registro </td>
+         <td> Diseñar e implementar el formulario de registro para nuevos usuarios </td>
+         <td> 5 </td>
+         <td> Gonzalo Sakuda </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US02 </td>
+         <td> Iniciar Sesión </td>
+         <td> T2 </td>
+         <td> Implementar inicio de sesión </td>
+         <td> Desarrollar la funcionalidad de inicio de sesión con autenticación </td>
+         <td> 4 </td>
+         <td> Fernanda Salomé </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US03 </td>
+         <td> Cambiar contraseña </td>
+         <td> T3 </td>
+         <td> Restablecer contraseña </td>
+         <td> Implementar la funcionalidad para permitir a los usuarios cambiar su contraseña </td>
+         <td> 6 </td>
+         <td> Gonzalo Sakuda </td>
+         <td> En progreso </td>
+      </tr>
+      <tr>
+         <td> US08 </td>
+         <td> Filtrar resultados por fecha </td>
+         <td> T4 </td>
+         <td> Filtro por fecha </td>
+         <td> Añadir funcionalidad de filtro para ordenar los resultados por fecha </td>
+         <td> 3 </td>
+         <td> Fernanda Salomé </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US09 </td>
+         <td> Filtrar resultados por tipo </td>
+         <td> T5 </td>
+         <td> Filtro por tipo </td>
+         <td> Implementar filtro de resultados basado en el tipo </td>
+         <td> 3 </td>
+         <td> Gonzalo Sakuda </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US10 </td>
+         <td> Filtrar resultados por idioma </td>
+         <td> T6 </td>
+         <td> Filtro por idioma </td>
+         <td> Añadir filtro de idioma a los resultados </td>
+         <td> 3 </td>
+         <td> Fernanda Salomé </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US11 </td>
+         <td> Ordenar resultados por relevancia </td>
+         <td> T7 </td>
+         <td> Ordenar por relevancia </td>
+         <td> Implementar la ordenación de resultados por relevancia </td>
+         <td> 4 </td>
+         <td> Gonzalo Sakuda </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US12 </td>
+         <td> Leer paper completo </td>
+         <td> T8 </td>
+         <td> Vista completa del paper </td>
+         <td> Desarrollar la funcionalidad para ver el paper completo </td>
+         <td> 5 </td>
+         <td> Fernanda Salomé </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US13 </td>
+         <td> Guardado de papers </td>
+         <td> T9 </td>
+         <td> Guardar papers </td>
+         <td> Implementar la funcionalidad de guardado de papers </td>
+         <td> 6 </td>
+         <td> Gonzalo Sakuda </td>
+         <td> En progreso </td>
+      </tr>
+      <tr>
+         <td> US14 </td>
+         <td> Subir investigación </td>
+         <td> T10 </td>
+         <td> Subir investigación </td>
+         <td> Desarrollar la funcionalidad para subir papers de investigación </td>
+         <td> 7 </td>
+         <td> Fernanda Salomé </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US21 </td>
+         <td> Gestionar perfil </td>
+         <td> T11 </td>
+         <td> Gestionar perfil </td>
+         <td> Implementar las características de gestión de perfil </td>
+         <td> 5 </td>
+         <td> Gonzalo Sakuda </td>
+         <td> Hecho </td>
+      </tr>
+   </tbody>
+</table>
 
 ### Development Evidence for Sprint Review
 
