@@ -327,7 +327,39 @@ En esta sección, el equipo especifica la configuración del despliegue de la so
 
 ### Execution Evidence for Sprint Review
 
+Sección Back-End
+
+**Alcance:**
+
+En el área de desarrollo back-end, se han creado los bounded contexts de “Envio de Investigaciones”, “Asignación de Investigaciones”, “Plazo de Revisión” y “Comentarios”. Estos bounded contexts están integrados a una API que proporciona todos los servicios necesarios para cada uno. La documentación de estos servicios se realizará utilizando Swagger, lo que permitirá una vista previa de los métodos aplicados en cada contexto.
+
+
+
+
+
 ### Services Documentation Evidence for Sprint Review
+
+<h3>Bounded Context : ProfileManagement</h3>
+Entidad : Usuario
+
+| Endpoint | Acciones realizadas                            | Ruta del Endpoint                     | Parámetros                                                                           |
+| -------- | ---------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------ |
+| POST     | Crea un usuario, a partir de un id del usuario | /api/users/user/register              | userId, nombre, apellidos, email, teléfono, dirección, fechaNacimiento, genero       |
+| GET      | Muestra un usuario según su id                 | /api/users/user/{userId}              | userId                                                                               |
+| DELETE   | Elimina un usuario por su id                   | /api/users/user/delete/{userId}       | userId                                                                               |
+| PUT      | Edita la información del usuario               | /api/users/user/edit/{userId}         | userId y los campos a editar del usuario                                             |
+
+
+<h3>Bounded Context : ProfileManagement</h3>
+Entidad : Research
+
+| Endpoint | Acciones realizadas                            | Ruta del Endpoint                        | Parámetros                                               |
+| -------- | ---------------------------------------------- | ---------------------------------------- | -------------------------------------------------------- |
+| POST     | Crea una investigación, a partir de un id del usuario | /api/research/register                   | userId, title, description, startDate, endDate, status   |
+| GET      | Muestra una investigación según su id          | /api/research/{researchId}               | researchId                                               |
+| DELETE   | Elimina una investigación por su id            | /api/research/delete/{researchId}        | researchId                                               |
+| PUT      | Edita la información de la investigación       | /api/research/edit/{researchId}          | researchId y los campos a editar de la investigación     |
+
 
 ### Software Deployment Evidence for Sprint Review
 
