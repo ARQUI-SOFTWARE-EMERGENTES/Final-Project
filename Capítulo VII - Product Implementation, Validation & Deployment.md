@@ -298,6 +298,23 @@ En esta sección, el equipo especifica la configuración del despliegue de la so
 
 ### Testing Suite Evidence for Sprint Review
 
+| **Repository** | **Branch** |  **Commit Id**  | **Commit Message** | **Commited on (Date)** |
+|-----------|-----------|-----------|-----------|-----------|
+| Final Project    | realease/tb2    | 90b8ec755d4f995e602947d427ded8ee59adb086    | feat(docs): new chapter and sprint planning 1 added    | 04/06/2024    | 
+| Final Project    | realease/tb2    | 2b3badfd78a7e5ffcc9716ab57d5857da7c6ec61    | feat(docs): describe Source Code Style Guide & Conventions    | 04/06/2024    |
+| Final Project    | realease/tb2    | bd01f526f63bdf87bf3a5d0ccbf5e9270e3083fe    | feat(docs): describe Software Deployment Configuration    | 05/06/2024    | 
+| Final Project    | realease/tb2    | 416f09fa0e4beeb617f8da54959f8b6f5b4026db    | feat(docs): describe Software Deployment Evidence for Sprint Review    | 05/06/2024    | 
+| Final Project    | realease/tb2    | c7eb07e3928e591716c53f21235fd4416817601d    | feat(docs): add version history    | 05/06/2024    | 
+| Final Project    | realease/tb2    | 37d0aa530d05902b496e89fd86365a14c9e1554a    | feat(docs): add mockups and prototipe    | 05/06/2024    | 
+| Final Project    | realease/tb2    | a38ce7f8b5ba0c8043d4cdd1125a18b6e7144fdf    | feat(docs): add student outcome tb2    | 05/06/2024    |
+| Final Project    | realease/tb2    | 791313d78074750cd3d1766f55d4119e2a2b9337    | feat: validation interview added    | 07/06/2024    |
+| Final Project    | realease/tb2    | 5c70bf9ce34521d4b1831ca274405592daeea84c    | feat: video about-the-product added    | 07/06/2024    |
+| api_user    | main    | b73d8dfb092cb79ad2117a86d724b4a97228b093   | feat: first commit   | 03/06/2024   |
+| papervault-app    | realease/tb2    | 41fdee1f97e142d60662fc25519d78e41dab8d27   | feat: add my-research design
+   | 01/06/2024   |
+| research-service    | main    | ed6b138aab78585ba17dced884c02015ed23b729   | feat: first commit   | 03/06/2024   |
+
+
 ### Execution Evidence for Sprint Review
 
 ### Services Documentation Evidence for Sprint Review
