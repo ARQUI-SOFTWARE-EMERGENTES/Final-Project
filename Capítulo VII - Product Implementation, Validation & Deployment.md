@@ -14,6 +14,18 @@ Para el desarrollo de la aplicación, se usaron las siguientes herramientas:
 
 ## Source Code Management
 
+Utilizaremos GitHub como Plataforma y sistema de control de versiones de nuestro proyecto. 
+
+Bajo el modelo de creación de ramas Gitflow es que se crearon los repositorios para el Back-end y Front-end, donde se crearon las siguientes ramas para el desarrollo del proyecto:
+
+**Main**: En esta rama se encuentra la versión completa, que ha pasado pruebas y no hay problemas en su ejecución. Por lo tanto, es la que se va a desplegar y mostrar a los usuarios.
+
+**Hotfix**: En caso hubiera un problema con la versión del proyecto en la rama Main, se usará esta rama como respaldo para encontrar y solucionar el problema lo más rápido posible
+
+**Release**: En esta rama la aplicación web se ejecuta sin problema, pero debe pasar por pruebas para validar todas las funcionalidades. Cuando se realicen las pruebas y no haya errores esta versión pasa a la rama Main.
+
+**Develop**: Esta rama sigue en desarrollo, solucionar distintos problemas o requerimientos aún en desarrollo. Cuando esta rama se encuentre terminada para un sprint, entonces pasa a la Rama Release
+
 ## Source Code Style Guide & Conventions
 
 ### Java y Spring Boot
