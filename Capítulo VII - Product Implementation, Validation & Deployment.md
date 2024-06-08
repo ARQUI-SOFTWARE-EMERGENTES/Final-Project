@@ -338,7 +338,30 @@ Durante este Sprint, el equipo se centró en establecer y configurar la infraest
 
 ## Diseño de entrevistas
 
+1. ¿Cómo descrbirías tu experiencia general con la interfaz de usuario?
+2. ¿Encontraste la aplicaicón fácil de navegar o hubo algo que te resultó confuso?
+3. ¿Qué opinas de las funciones disponibles para subir y visualizar los artículos?
+5. ¿Qué opinas sobre el proceso de validación por otros investigadores?
+6. ¿Crees que esta aplicación será útil para tu trabajo de investigación o tesis?
+7. ¿Qué tan seguro te sientes respecto a la fiabilidad de los documentos en la plataforma?
+8. ¿Hay alguna característica adicional que te gustaría ver en la aplicación?
+9. ¿Tienes alguna sugerencia para mejorar la alguna funcionalidad actual?
+10. ¿Recomendarías esta aplicación a otros tesistas o investigadores? ¿Por qué?
+
+
 ## Registro de entrevistas
+
+### Entrevista 1:
+
+* **Nombre**: Paulo Costa Mondragón
+* **Link**: https://www.youtube.com/watch?v=yTkus_3xJaA
+* **Duración**: 7:15
+* **Captura**:
+
+  <img src="images/screenshots-interview/Entrevista_validacion_1.png" width=500/>
+
+* **Resumen**: Paulo nos cuenta que le gustaría una funcionalidad diferencial a otras journals o bases de datos. Asimismo, destaca la importancia de la validación de los papers y la facilidad de uso de la plataforma. Además, sugiere la posibilidad de agregar un sistema de validación de papers y de investigadores más seguro.
+
 
 ## Evaluaciones según heurísticas
 
