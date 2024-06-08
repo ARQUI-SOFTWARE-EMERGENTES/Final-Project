@@ -423,6 +423,19 @@ Durante este Sprint, el equipo se centró en establecer y configurar la infraest
 * **Resumen**: Paulo nos cuenta que le gustaría una funcionalidad diferencial a otras journals o bases de datos. Asimismo, destaca la importancia de la validación de los papers y la facilidad de uso de la plataforma. Además, sugiere la posibilidad de agregar un sistema de validación de papers y de investigadores más seguro.
 
 
+### Entrevista 2:
+
+* **Nombre**: Jorge Diaz Chanchari
+* **Link**: https://youtu.be/r1ikRECviTs
+* **Duración**: 6:47
+* **Captura**:
+
+  <img src="images/screenshots-interview/entrevista_val2.PNG" width=500/>
+<br/>
+
+* **Resumen**: El usuario, Jorge, encuentra la interfaz intuitiva, minimalista y amigable, lo que facilita la gestión eficiente de documentos de investigación. Sin embargo, sugiere mejorar la funcionalidad de búsqueda con opciones de filtrado avanzado y mejorar el rendimiento de la aplicación para manejar grandes volúmenes de usuarios. La aplicación es recomendada por él por su fiabilidad, capacidad de organización y una interfaz agradable.
+
+
 ## Evaluaciones según heurísticas
 
 # Video About-the-Product
