@@ -359,6 +359,7 @@ Durante este Sprint, el equipo se centró en establecer y configurar la infraest
 * **Captura**:
 
   <img src="images/screenshots-interview/Entrevista_validacion_1.png" width=500/>
+<br/>
 
 * **Resumen**: Paulo nos cuenta que le gustaría una funcionalidad diferencial a otras journals o bases de datos. Asimismo, destaca la importancia de la validación de los papers y la facilidad de uso de la plataforma. Además, sugiere la posibilidad de agregar un sistema de validación de papers y de investigadores más seguro.
 
@@ -367,5 +368,11 @@ Durante este Sprint, el equipo se centró en establecer y configurar la infraest
 
 # Video About-the-Product
 
+* **Link**: https://www.youtube.com/watch?v=13vUkeYQZns
+* **Duración**: 3:00
+* **Captura**:
 
+<img src="images/screenshots-interview/Entrevista_validacion_1.png" width=500/>
 
+<br/>
+* **Resumen**: En el video se presenta las funcionalidades implementadas de momento en la aplicación, como el registro de usuarios, la visualización de papers, la búsqueda y filtrado de papers, y la gestión de perfil. Se destaca la facilidad de uso y la interfaz intuitiva de la aplicación, así como la importancia de la validación de los papers y la seguridad de la plataforma.
