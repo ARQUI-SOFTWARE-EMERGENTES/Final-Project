@@ -2,6 +2,12 @@
 
 ## Software Development Environment Configuration
 
+Para el desarrollo de la aplicación, se usaron las siguientes herramientas:
+
+- **Angular**: Un framework opensource manetenido por Google que utiliza typescript para el desarrollo de aplicaciones de una sola página (SPA) y aplicaciones web dinámicas. Además, ofrece una arquitectura de componentes, lo que permite realizar interfaces más complejas.
+
+- **Springboot**: Un framework de desarrollo web badado en Java. Para el proyecto, se va a utilizar para el desarrollo de un API que permitir brindar los datos al front-end, manejar la lógica de negocio y
+
 ## Source Code Management
 
 ## Source Code Style Guide & Conventions
