@@ -2,7 +2,29 @@
 
 ## Software Development Environment Configuration
 
+Para el desarrollo de la aplicación, se usaron las siguientes herramientas:
+
+- **Angular**: Un framework opensource manetenido por Google que utiliza typescript para el desarrollo de aplicaciones de una sola página (SPA) y aplicaciones web dinámicas. Además, ofrece una arquitectura de componentes, lo que permite realizar interfaces más complejas.
+
+- **Springboot**: Un framework de desarrollo web badado en Java. Para el proyecto, se va a utilizar para el desarrollo de un API que va a permitir brindar los datos al front-end, manejar la lógica de negocio y guardar los datos en la blockchain.
+
+- **Ganache**: Es una herramienta que brinda una blockchain personal para desarrollar aplicaciones descentralizadas en un entorno controlado y seguro.
+
+- **Truffle**: Es un framework que permite el desarrollo de contratos inteligentes y aplicaciones descentralizadas en el ecosistema Ethereum
+
 ## Source Code Management
+
+Utilizaremos GitHub como Plataforma y sistema de control de versiones de nuestro proyecto. 
+
+Bajo el modelo de creación de ramas Gitflow es que se crearon los repositorios para el Back-end y Front-end, donde se crearon las siguientes ramas para el desarrollo del proyecto:
+
+**Main**: En esta rama se encuentra la versión completa, que ha pasado pruebas y no hay problemas en su ejecución. Por lo tanto, es la que se va a desplegar y mostrar a los usuarios.
+
+**Hotfix**: En caso hubiera un problema con la versión del proyecto en la rama Main, se usará esta rama como respaldo para encontrar y solucionar el problema lo más rápido posible
+
+**Release**: En esta rama la aplicación web se ejecuta sin problema, pero debe pasar por pruebas para validar todas las funcionalidades. Cuando se realicen las pruebas y no haya errores esta versión pasa a la rama Main.
+
+**Develop**: Esta rama sigue en desarrollo, solucionar distintos problemas o requerimientos aún en desarrollo. Cuando esta rama se encuentre terminada para un sprint, entonces pasa a la Rama Release
 
 ## Source Code Style Guide & Conventions
 
