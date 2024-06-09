@@ -18,7 +18,7 @@
 - Sakuda Nakamatsu, Gonzalo - U20191D928
 - Salomé Nina, Jackeline Fernanda - U202015772
 
-### Marzo de 2024
+### Junio de 2024
 
 # Registro de Versiones del Informe
 
