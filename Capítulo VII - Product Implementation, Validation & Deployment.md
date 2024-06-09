@@ -415,6 +415,13 @@ Durante este Sprint, el equipo se centró en establecer y configurar la infraest
 
 ### Team Collaboration Insights during Sprint
 
+A continuación se muestra la colaboración de los miembros del equipo en el desarrollo del proyecto:
+
+<img src="./images/Collaboration - sprint 1 -1.png">
+<img src="./images/Collaboration - sprint 1 -2.png">
+<img src="./images/Collaboration - sprint 1 -3.png">
+<img src="./images/Collaboration - sprint 1 -4.png">
+
 # Validation Interviews
 
 ## Diseño de entrevistas
@@ -469,4 +476,5 @@ Durante este Sprint, el equipo se centró en establecer y configurar la infraest
 <img src="images/screenshots-interview/Entrevista_validacion_1.png" width=500/>
 
 <br/>
+
 * **Resumen**: En el video se presenta las funcionalidades implementadas de momento en la aplicación, como el registro de usuarios, la visualización de papers, la búsqueda y filtrado de papers, y la gestión de perfil. Se destaca la facilidad de uso y la interfaz intuitiva de la aplicación, así como la importancia de la validación de los papers y la seguridad de la plataforma.
