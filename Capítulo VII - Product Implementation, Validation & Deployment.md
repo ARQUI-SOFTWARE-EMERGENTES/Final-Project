@@ -500,6 +500,26 @@ A continuación se muestra la colaboración de los miembros del equipo en el des
 
 ### Execution Evidence for Sprint Review
 
+*Registro de usuario*
+<img src="images/execution-sprint-2/registro.png" width=1000>
+
+*Inicio de sesión*
+<img src="images/execution-sprint-2/inicio sesion.png" width=1000>
+
+*Buscar paper*
+<img src="images/execution-sprint-2/buscar.png" width=1000>
+
+*Papers encontrados*
+<img src="images/execution-sprint-2/busqueda.png" width=1000>
+
+*Mis investigaciones*
+<img src="images/execution-sprint-2/investigaciones.png" width=1000>
+
+*Subir investigacion*
+<img src="images/execution-sprint-2/subir-investigacion.png" width=1000>
+
+*Perfil de usuario*
+<img src="images/execution-sprint-2/perfil.png" width=1000>
 
 ### Services Documentation Evidence for Sprint Review
 
