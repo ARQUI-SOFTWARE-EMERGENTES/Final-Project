@@ -480,17 +480,122 @@ A continuación se muestra la colaboración de los miembros del equipo en el des
 
    <tr>
       <td> Sprint 2 Velocity </td>
-      <td> X Velocity </td>
+      <td> 33 Velocity </td>
    </tr>
 
    <tr>
       <td> Sum of Story Points </td>
-      <td> X Story Points </td>
+      <td> 33 Story Points </td>
    </tr>
       
 </table>
 
 ### Sprint Backlog 2
+
+<table>
+   <thead>
+      <tr>
+         <th colspan="1"> Sprint # </th>
+         <th colspan="7"> Sprint 2 </th>
+      </tr>
+      <tr>
+         <th colspan="2"> User Story </th>
+         <th colspan="6"> Work-Item / Task </th>
+      </tr>
+      <tr>
+         <th> Id </th>
+         <th> Title </th>
+         <th> Id </th>
+         <th> Title </th>
+         <th> Description </th>
+         <th> Estimation (Hours) </th>
+         <th> Assigned To </th>
+         <th> Status (To-do / Doing / Done) </th>
+      </tr>
+   </thead>
+      <tbody>
+      <tr>
+         <td> US18 </td>
+         <td> Detectar plagio </td>
+         <td> T1 </td>
+         <td> Crear herramientas de detección de plagio </td>
+         <td> Diseñar e implementar herramientas de detección de plagio </td>
+         <td> 8 </td>
+         <td> Gonzalo Sakuda </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US19 </td>
+         <td> Comentar investgaciones </td>
+         <td> T2 </td>
+         <td> Implementar sección para comentar </td>
+         <td> Desarrollar la funcionalidad para poder comentar y discutir sobre las investigaciones </td>
+         <td> 5 </td>
+         <td> Fernanda Salomé </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US22 </td>
+         <td> Seguir el progreso </td>
+         <td> T3 </td>
+         <td> Visualización del estado de la revisión </td>
+         <td> Implementar la funcionalidad para visualizar en tiempo real el estado de revisión de la investigación </td>
+         <td> 3 </td>
+         <td> Gonzalo Sakuda </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US26 </td>
+         <td> Filtrar trabajos académicos por autor en la plataforma </td>
+         <td> T4 </td>
+         <td> Filtro por autor </td>
+         <td> Añadir funcionalidad de filtro para ordenar los resultados por autor </td>
+         <td> 1 </td>
+         <td> Fernanda Salomé </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US31 </td>
+         <td> Aceptar de la investigación </td>
+         <td> T7 </td>
+         <td> Aceptar la investigación </td>
+         <td> Implementar un botón para confirmar el proceso de revisión y cambie el estado </td>
+         <td> 8 </td>
+         <td> Gonzalo Sakuda </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US33 </td>
+         <td> Visualizar del plazo de revisión </td>
+         <td> T9 </td>
+         <td> Ver el plazo de revisión </td>
+         <td> Implementar la funcionalidad de un contador con un tiempo restante para revisar una investigación </td>
+         <td> 2 </td>
+         <td> Gonzalo Sakuda </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US34 </td>
+         <td> Ingresar distintos formatos de investigaciones </td>
+         <td> T10 </td>
+         <td> Acceso a investigaciones en múltiples formatos </td>
+         <td> Desarrollar la funcionalidad para poder aceptar cualquier formato de descarga y subida </td>
+         <td> 3 </td>
+         <td> Fernanda Salomé </td>
+         <td> Hecho </td>
+      </tr>
+      <tr>
+         <td> US35 </td>
+         <td> Ordenar resultados por fecha </td>
+         <td> T11 </td>
+         <td> Ordenar resultados por fecha </td>
+         <td> Añadir funcionalidad de filtro para ordenar los resultados por fecha </td>
+         <td> 3 </td>
+         <td> Jonatan Curi </td>
+         <td> Hecho </td>
+      </tr>
+   </tbody>
+</table>
 
 ### Development Evidence for Sprint Review
 
