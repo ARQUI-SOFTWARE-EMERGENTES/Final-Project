@@ -523,6 +523,98 @@ A continuación se muestra la colaboración de los miembros del equipo en el des
 
 ### Services Documentation Evidence for Sprint Review
 
+<table>
+   <thead>
+      <th>Servicio</th>
+      <th>Método</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+      <th>Parámetros</th>
+   </thead>
+   <tbody>
+      <tr>
+         <td rowspan="2">Auth</td>
+         <td>POST</td>
+         <td>/api/v1/auth/signup</td>
+         <td>Registro de un usuario</td>
+         <td>name, lastname, email, password</td>
+      </tr>
+      <tr>
+         <td>POST</td>
+         <td>/api/v1/auth/signin</td>
+         <td>Inicio de sesión de un usuario</td>
+         <td>email, password</td>
+      </tr>
+      <tr>
+         <td rowspan="9">Researchs</td>
+         <td>POST</td>
+         <td>/api/v1/researchs</td>
+         <td>Agregar un paper</td>
+         <td>tittle, abstract, content, authors, journal, doi, status, publishedDate</td>
+      </tr>
+      <tr>
+         <td>GET</td>
+         <td>/api/v1/researchs</td>
+         <td>Obtener papers según palabra clave</td>
+         <td>search</td>
+      </tr>
+      <tr>
+         <td>GET</td>
+         <td>/api/v1/researchs/status/approved</td>
+         <td>Obtener papers aprobados</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>GET</td>
+         <td>/api/v1/researchs/status/pending</td>
+         <td>Obtener papers pendientes de aprobación</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>GET</td>
+         <td>/api/v1/researchs/status/rejected</td>
+         <td>Obtener papers no aprobados</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>PUT</td>
+         <td>/api/v1/researchs/status/approve/{id}</td>
+         <td>Aprobar paper</td>
+         <td>id</td>
+      </tr>
+      <tr>
+         <td>PUT</td>
+         <td>/api/v1/researchs/status/reject/{id}</td>
+         <td>Rechazar paper</td>
+         <td>id</td>
+      </tr>
+      <tr>
+         <td>GET</td>
+         <td>/api/v1/researchs/revision</td>
+         <td>Obtener papers en revision</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>GET</td>
+         <td>/api/v1/researchs/{id}</td>
+         <td>Obtener papers por id</td>
+         <td>id</td>
+      </tr>
+      <tr>
+         <td rowspan="2">Default</td>
+         <td>GET</td>
+         <td>/api/v1/researchers</td>
+         <td>Obtener perfil de usuario</td>
+         <td>id</td>
+      </tr>
+      <tr>
+         <td>PUT</td>
+         <td>/api/v1/researchers</td>
+         <td>Modificar datos del perfil</td>
+         <td>name, lastname, email</td>
+      </tr>
+   </tbody>
+</table>
 
 ### Software Deployment Evidence for Sprint Review
 
