@@ -422,6 +422,92 @@ A continuación se muestra la colaboración de los miembros del equipo en el des
 <img src="./images/Collaboration - sprint 1 -3.png">
 <img src="./images/Collaboration - sprint 1 -4.png">
 
+## Sprint 2
+
+### Sprint Planning 2
+
+<table>
+   <thead>
+      <tr>
+         <th> Sprint # </th>
+         <th> Sprint 2 </th>
+      </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td> Date </td>
+      <td> 22-06-2024 </td>    
+   </tr>
+
+   <tr>
+      <td> Time </td>
+      <td> 06:00 PM </td>
+   </tr>
+
+   <tr>
+      <td> Location </td>
+      <td> Reunión por Meet </td>
+   </tr>
+
+   <tr>
+      <td> Prepared By </td>
+      <td> Gonzalo Barrazueta </td>
+   </tr>
+
+   <tr>
+      <td> Attendees </td>
+      <td> Jonatan Curi / Gonzalo Barrazueta / Vivian Pongo / Gonzalo Sakuda / Jackeline Salomé </td>
+   </tr>
+
+   <tr>
+      <td> Sprint 1 Review Summary </td>
+      <td> En el sprint anterior nos enfocamos en la realización de la primera versión de la aplicación web. Asimismo, se desarrolló la primera versión del backend de la aplicación </td>
+   </tr>
+
+   <tr>
+      <td> Sprint 1 Retrospective Summary </td>
+      <td> En el sprint anterior se implementaron las vistas necesarias para la visualización de investigaciones y la función de agregar investigaciones </td>
+   </tr>
+
+   <tr>
+      <th colspan="2"> Sprint Goal </th>
+   </tr>
+
+   <tr>
+      <td> Sprint 2 Goal </td>
+      <td> La meta de este Sprint es el desarrollo de total de la aplicación web, frontend y backend añadiendo tambien la tecnología blockchain </td>
+   </tr>
+
+   <tr>
+      <td> Sprint 2 Velocity </td>
+      <td> X Velocity </td>
+   </tr>
+
+   <tr>
+      <td> Sum of Story Points </td>
+      <td> X Story Points </td>
+   </tr>
+      
+</table>
+
+### Sprint Backlog 2
+
+### Development Evidence for Sprint Review
+
+
+### Testing Suite Evidence for Sprint Review
+
+
+### Execution Evidence for Sprint Review
+
+
+### Services Documentation Evidence for Sprint Review
+
+
+### Software Deployment Evidence for Sprint Review
+
+### Team Collaboration Insights during Sprint
+
 # Validation Interviews
 
 ## Diseño de entrevistas
