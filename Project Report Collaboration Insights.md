@@ -13,3 +13,20 @@ https://github.com/ARQUI-SOFTWARE-EMERGENTES/Final-Project/tree/main
 # Contribuidores
 
 ![Contributors](images/contributors.png)
+
+## Web App
+
+![Web App Contributors](images/webapp_contributors.png)
+
+## Mobile App
+
+![Mobile App Contributor.png](images/mobileapp_contributor.png)
+
+## API
+![Blockchain Contributor.png](images/blockchain_contributor.png)
+
+## Research Service
+![reasearch_service_contributor.png](images/reasearch_service_contributor.png)
+
+## Users Service
+![users_service_contributor.png](images/users_service_contributor.png)
